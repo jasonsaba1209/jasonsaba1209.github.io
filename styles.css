@@ -1,0 +1,119 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #b7b7b7;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #44a947;
+    margin: 0;
+    padding: 15px 0px;
+    width: 100%;
+    
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    vertical-align: top;
+    margin: 0;
+}
+
+h2 {
+    padding: 1rem;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+nav ul {
+    background-color: #409143;
+    display: flex; /* Makes the list horizontal */
+    padding: 12px;
+    margin: 0;
+    border-radius: 0px 0px 10px 10px;
+    width: 100%;
+}
+
+nav ul li {
+    list-style: none;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+nav a:hover {
+    color: darkslategrey;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px 20px;
+    padding: 20px 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Fixed alpha value */
+}
+
+/* Table header styles */
+th {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    text-align: left;
+    border-right: 1px solid #7979794a;
+    border-bottom: hidden;
+}
+
+/* Table cell styles */
+td {
+    padding: 10px 15px;
+    text-align: left;
+    border-bottom: 1px solid #81bb82;
+    border-right: 1px solid #7979794a;
+}
+
+tr {
+    background-color: #99d09a;
+}
+
+tr:nth-child(even) {
+    background-color: #81bb82;
+}
+
+tr:hover {
+    background-color: #aee2af;
+}
+
+select {
+    background-color: #f2f2f2;   /* light gray background */
+    border: 1px solid #ccc;      /* light border */
+    border-radius: 4px;          /* rounded corners */
+    font-size: 16px;
+    padding: 8px;
+    /* You can add more styles such as width, color, etc. */
+  }
+
+  /* Optionally style the option elements */
+  option {
+    padding: 8px;
+  }

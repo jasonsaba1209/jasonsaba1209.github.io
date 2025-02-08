@@ -1,0 +1,44 @@
+// Declare a global variable to hold the fetched JSON data
+let jsonData = [];
+
+// Function to load JSON data from output.json using fetch()
+function loadData() {
+  fetch('output.json')
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok: ' + response.statusText);
+      }
+      return response.json();
+    })
+    .then(data => {
+      jsonData = data; // Store the fetched data globally
+      // Populate the table for the default selection after loading data
+      handleSelectionChange();
+    })
+    .catch(error => console.error('Error fetching data:', error));
+}
+
+// This function is called when the dropdown selection changes
+function handleSelectionChange() {
+  // Get the selected user_id from the dropdown
+  const selectedUserId = document.getElementById('user_id').value;
+  
+  // Filter the data to get only records matching the selected user_id
+  const filteredData = jsonData.filter(record => record.user_id === selectedUserId);
+  
+  // Build the HTML table rows dynamically
+  let tableRows = '';
+  filteredData.forEach(record => {
+    tableRows += `<tr>
+                    <td>${record.track_name}</td>
+                    <td>${record.artist_name}</td>
+                    <td>${record.count}</td>
+                  </tr>`;
+  });
+  
+  // Update the table body with the new rows
+  document.getElementById('stats-body').innerHTML = tableRows;
+}
+
+// Use DOMContentLoaded to ensure the document is fully loaded before fetching data
+document.addEventListener('DOMContentLoaded', loadData);
