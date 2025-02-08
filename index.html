@@ -81,7 +81,7 @@
                 document.getElementById('username').textContent = userData.display_name;
                 document.getElementById('user-avatar').src = userData.images.length > 0 ? userData.images[0].url : 'default-avatar.png';
                 
-                document.getElementById('user-id').textContent = `User ID: ${userData.id}`;
+                /*document.getElementById('user-id').textContent = `User ID: ${userData.id}`;*/
                 
                 fetchListeningHistory(userData.id); // Fetch history after login
             }
