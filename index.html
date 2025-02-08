@@ -11,6 +11,9 @@
             right: 10px; 
             display: none; 
         }
+        #track-list {
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
@@ -23,6 +26,9 @@
         <span id="username"></span>
         <button id="logout-btn">Logout</button>
     </div>
+
+    <h2>Your Listening History</h2>
+    <ul id="track-list"></ul>
 
     <script>
         const clientId = '601b3a7ccc284046900faa1f901c21c6';
@@ -68,15 +74,41 @@
 
             const userData = await response.json();
             if (userData.id) {
+                localStorage.setItem('spotify_user_id', userData.id); // Store user ID
                 document.getElementById('login-btn').style.display = 'none';
                 document.getElementById('user-info').style.display = 'block';
                 document.getElementById('username').textContent = userData.display_name;
                 document.getElementById('user-avatar').src = userData.images.length > 0 ? userData.images[0].url : 'default-avatar.png';
+
+                fetchListeningHistory(userData.id); // Fetch history after login
+            }
+        }
+
+        async function fetchListeningHistory(userId) {
+            try {
+                const response = await fetch('output.json'); // Load JSON
+                const data = await response.json();
+
+                const userTracks = data.filter(entry => entry.user_id === userId);
+                const trackList = document.getElementById("track-list");
+
+                if (userTracks.length === 0) {
+                    trackList.innerHTML = "<p>No listening history found.</p>";
+                } else {
+                    userTracks.forEach(track => {
+                        const listItem = document.createElement("li");
+                        listItem.textContent = `${track.track_name} by ${track.artist_name} (Played ${track.count} times)`;
+                        trackList.appendChild(listItem);
+                    });
+                }
+            } catch (error) {
+                console.error("Error loading JSON:", error);
             }
         }
 
         function logout() {
             localStorage.removeItem('spotify_token');
+            localStorage.removeItem('spotify_user_id');
             location.reload();
         }
 
@@ -85,7 +117,9 @@
 
         // Check if user is already logged in
         const token = localStorage.getItem('spotify_token');
-        if (token) {
+        const userId = localStorage.getItem('spotify_user_id');
+
+        if (token && userId) {
             fetchUserProfile(token);
         } else {
             const urlParams = new URLSearchParams(window.location.search);
