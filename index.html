@@ -24,6 +24,7 @@
     <div id="user-info">
         <img id="user-avatar" src="" alt="Profile Picture" width="50" height="50">
         <span id="username"></span>
+        <p id="user-id"></p>
         <button id="logout-btn">Logout</button>
     </div>
 
@@ -79,7 +80,9 @@
                 document.getElementById('user-info').style.display = 'block';
                 document.getElementById('username').textContent = userData.display_name;
                 document.getElementById('user-avatar').src = userData.images.length > 0 ? userData.images[0].url : 'default-avatar.png';
-
+                
+                document.getElementById('user-id').textContent = `User ID: ${userData.id}`;
+                
                 fetchListeningHistory(userData.id); // Fetch history after login
             }
         }
@@ -89,6 +92,8 @@
                 const response = await fetch('output.json'); // Load JSON
                 const data = await response.json();
 
+                
+                
                 const userTracks = data.filter(entry => entry.user_id === userId);
                 const trackList = document.getElementById("track-list");
 
@@ -125,6 +130,10 @@
             const urlParams = new URLSearchParams(window.location.search);
             const code = urlParams.get('code');
             if (code) fetchAccessToken(code);
+        }
+        const storedUserId = localStorage.getItem('spotify_user_id');
+        if (storedUserId) {
+            document.getElementById('user-id').textContent = `User ID: ${storedUserId}`;
         }
     </script>
 </body>
