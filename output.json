@@ -186,6 +186,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "Ikimonogakari",
+        "track_name": "\u71b1\u60c5\u306e\u30b9\u30da\u30af\u30c8\u30e9\u30e0",
+        "count": 2
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "The Jungle Giants",
         "track_name": "Used to Be in Love",
@@ -811,12 +817,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Ikimonogakari",
-        "track_name": "\u71b1\u60c5\u306e\u30b9\u30da\u30af\u30c8\u30e9\u30e0",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "TUYU",
         "track_name": "It's Raining After All",
         "count": 1
@@ -1029,6 +1029,12 @@
         "user_id": "11102572930",
         "artist_name": "MIMI",
         "track_name": "What Call This Day ? (feat. Ninzin)",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "\u3046\u3063\u305b\u3047\u308f - Piano Ver.",
         "count": 1
     },
     {
@@ -1573,6 +1579,18 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba",
+        "track_name": "\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "SILENT SIREN",
+        "track_name": "\u516b\u6708\u306e\u591c",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "ONE OK ROCK",
         "track_name": "Cry Out",
         "count": 1
@@ -1689,6 +1707,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Dermot Kennedy",
         "track_name": "Glory",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Earphones",
+        "track_name": "Arakajime Ushinawareta Bokura no Ballad",
         "count": 1
     },
     {
