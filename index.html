@@ -4,28 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spotify Login</title>
+    <style>
+        #user-info { 
+            position: absolute; 
+            top: 10px; 
+            right: 10px; 
+            display: none; 
+        }
+    </style>
 </head>
 <body>
-    <h1>Hey there sexy 😘</h1>
-    <p>Click the button below to log in to your Spotify account and then copy the sexy URL and give it to me😘.</p>
+    <h1>Hey there </h1> 
+    <p>Click the button below to log in to your Spotify account.</p> 
     <button id="login-btn">Login with Spotify</button>
 
-    <form action="http://127.0.0.1:5000/run-script" method="post">
-        <button type="submit">Run Script</button>
-    </form>
+    <div id="user-info">
+        <img id="user-avatar" src="" alt="Profile Picture" width="50" height="50">
+        <span id="username"></span>
+        <button id="logout-btn">Logout</button>
+    </div>
+
     <script>
-        // Your application's client ID
-        const clientId = '601b3a7ccc284046900faa1f901c21c6';  // Replace with your Client ID
-
-        // Redirect URI set in your Spotify Developer Dashboard
-        const redirectUri = 'https://jasonsaba1209.github.io/';  // Replace with your Redirect URI
-
-        // Scopes required for accessing currently playing track
-        const scopes = ['user-read-playback-state', 'user-read-currently-playing','user-read-recently-played', 'user-read-private', 'user-read-email'];
-
-        // Function to initiate the login process
+        const clientId = '601b3a7ccc284046900faa1f901c21c6'; // Replace with your actual Client ID
+        const redirectUri = 'https://jasonsaba1209.github.io/'; // Replace with your Redirect URI
+        const scopes = ['user-read-private', 'user-read-email'];
+        const authUrl = 'https://accounts.spotify.com/authorize';
+        const tokenUrl = 'https://accounts.spotify.com/api/token';
+        
         function initiateSpotifyLogin() {
-            const authUrl = 'https://accounts.spotify.com/authorize';
             const params = new URLSearchParams({
                 client_id: clientId,
                 response_type: 'code',
@@ -35,8 +41,57 @@
             window.location.href = `${authUrl}?${params.toString()}`;
         }
 
-        // Add event listener to the login button
+        async function fetchAccessToken(code) {
+            const response = await fetch(tokenUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                body: new URLSearchParams({
+                    grant_type: 'authorization_code',
+                    code: code,
+                    redirect_uri: redirectUri,
+                    client_id: clientId,
+                    client_secret: 'YOUR_CLIENT_SECRET'  // Replace with your Spotify client secret
+                })
+            });
+
+            const data = await response.json();
+            if (data.access_token) {
+                localStorage.setItem('spotify_token', data.access_token);
+                fetchUserProfile(data.access_token);
+            }
+        }
+
+        async function fetchUserProfile(token) {
+            const response = await fetch('https://api.spotify.com/v1/me', {
+                headers: { 'Authorization': `Bearer ${token}` }
+            });
+
+            const userData = await response.json();
+            if (userData.id) {
+                document.getElementById('login-btn').style.display = 'none';
+                document.getElementById('user-info').style.display = 'block';
+                document.getElementById('username').textContent = userData.display_name;
+                document.getElementById('user-avatar').src = userData.images.length > 0 ? userData.images[0].url : 'default-avatar.png';
+            }
+        }
+
+        function logout() {
+            localStorage.removeItem('spotify_token');
+            location.reload();
+        }
+
         document.getElementById('login-btn').addEventListener('click', initiateSpotifyLogin);
+        document.getElementById('logout-btn').addEventListener('click', logout);
+
+        // Check if user is already logged in
+        const token = localStorage.getItem('spotify_token');
+        if (token) {
+            fetchUserProfile(token);
+        } else {
+            const urlParams = new URLSearchParams(window.location.search);
+            const code = urlParams.get('code');
+            if (code) fetchAccessToken(code);
+        }
     </script>
 </body>
 </html>
