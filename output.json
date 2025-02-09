@@ -253,6 +253,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "fh\u00e1na",
+        "track_name": "Rhapsody of Blue Sky",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "ZUTOMAYO",
         "track_name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
         "count": 2
@@ -597,6 +603,12 @@
         "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Nukegara",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Smilegate RPG",
+        "track_name": "Sweet Dreams, My Dear",
         "count": 1
     },
     {
@@ -1249,12 +1261,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "fh\u00e1na",
-        "track_name": "Rhapsody of Blue Sky",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "RISH",
         "track_name": "bamboo (feat. Choko)",
         "count": 1
@@ -1425,6 +1431,12 @@
         "user_id": "11102572930",
         "artist_name": "Kenshi Yonezu",
         "track_name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3 - Peace Sign",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
+        "track_name": "\u6182\u3001\u71e6\u3005",
         "count": 1
     },
     {
@@ -2961,6 +2973,12 @@
         "user_id": "1177164531",
         "artist_name": "St. Petersburg Optina Pustyn Male Choir",
         "track_name": "Song of Cherubs: Izhe Kheruvimi (Cherubic Hymn): No. 7 in D Major",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
         "count": 1
     },
     {
