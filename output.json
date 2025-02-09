@@ -270,6 +270,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "\u9808\u7530\u666f\u51ea",
+        "track_name": "\u30e9\u30d6\u30b7\u30c3\u30af",
+        "count": 2
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Augustana",
         "track_name": "Boston",
@@ -313,6 +319,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "CHiCO with HoneyWorks",
+        "track_name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "\u6771\u65b9LostWord",
         "track_name": "\u6708\u3068\u5341\u516d\u591c (feat.\u30ca\u30ce & \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4)",
         "count": 2
@@ -351,6 +363,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Chrissy Costanza",
         "track_name": "Perfect Crime",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "SawanoHiroyuki[nZk]",
+        "track_name": "Binary Star",
         "count": 2
     },
     {
@@ -1351,12 +1369,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "\u9808\u7530\u666f\u51ea",
-        "track_name": "\u30e9\u30d6\u30b7\u30c3\u30af",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "RISH",
         "track_name": "bamboo (feat. Choko)",
         "count": 1
@@ -1365,6 +1377,12 @@
         "user_id": "11102572930",
         "artist_name": "CHiCO with HoneyWorks",
         "track_name": "\u4e59\u5973\u3069\u3082\u3088\u3002",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
+        "track_name": "\u30b8\u30e3\u30c3\u30af\u30dd\u30c3\u30c8\u30b5\u30c3\u30c9\u30ac\u30fc\u30eb (feat. \u5bb5\u5d0e\u594f&\u671d\u6bd4\u5948\u307e\u3075\u3086&\u6771\u96f2\u7d75\u540d&\u6681\u5c71\u745e\u5e0c&\u521d\u97f3\u30df\u30af)",
         "count": 1
     },
     {
@@ -1581,12 +1599,6 @@
         "user_id": "11102572930",
         "artist_name": "DECO*27",
         "track_name": "\u30de\u30cd\u30ad\u30f3",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "CHiCO with HoneyWorks",
-        "track_name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
         "count": 1
     },
     {
@@ -2593,6 +2605,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Eve",
+        "track_name": "Gunjo Sanka",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Lilas",
         "track_name": "\u30b5\u30fc\u30af\u30eb",
         "count": 1
@@ -2823,6 +2841,12 @@
         "user_id": "11102572930",
         "artist_name": "milet",
         "track_name": "December",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "\u591c\u306e\u30d4\u30a8\u30ed - TeddyLoid Remix",
         "count": 1
     },
     {
@@ -3207,6 +3231,12 @@
         "user_id": "11102572930",
         "artist_name": "Unlucky Morpheus",
         "track_name": "Amaryllis",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "Kagakushu",
         "count": 1
     },
     {
