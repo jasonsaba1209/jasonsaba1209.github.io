@@ -9,25 +9,25 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Dermot Kennedy",
         "track_name": "Without Fear",
-        "count": 14
+        "count": 15
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Billie Eilish",
         "track_name": "everything i wanted",
-        "count": 8
+        "count": 9
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "The Lumineers",
+        "track_name": "Same Old Song",
+        "count": 7
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Arcane",
         "track_name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
         "count": 7
-    },
-    {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "The Lumineers",
-        "track_name": "Same Old Song",
-        "count": 6
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -39,6 +39,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Ruel",
         "track_name": "Painkiller",
+        "count": 5
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Dermot Kennedy",
+        "track_name": "An Evening I Will Not Forget",
         "count": 5
     },
     {
@@ -85,8 +91,8 @@
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Dermot Kennedy",
-        "track_name": "An Evening I Will Not Forget",
+        "artist_name": "Shinedown",
+        "track_name": "How Did You Love",
         "count": 3
     },
     {
@@ -159,6 +165,12 @@
         "user_id": "11102572930",
         "artist_name": "Miyuri",
         "track_name": "\u590f\u304c\u6765\u305f",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
+        "track_name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
         "count": 2
     },
     {
@@ -264,6 +276,12 @@
         "count": 2
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Chrissy Costanza",
+        "track_name": "But, What If I Fly?",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "MAN WITH A MISSION",
         "track_name": "\u7d46\u30ce\u5947\u8de1",
@@ -297,12 +315,6 @@
         "user_id": "11102572930",
         "artist_name": "KAMI WA SAIKORO WO FURANAI",
         "track_name": "\u611b\u306e\u3051\u3060\u3082\u306e",
-        "count": 2
-    },
-    {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Shinedown",
-        "track_name": "How Did You Love",
         "count": 2
     },
     {
@@ -687,12 +699,6 @@
         "user_id": "11102572930",
         "artist_name": "Smilegate RPG",
         "track_name": "Sweet Dreams, My Dear",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
-        "track_name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
         "count": 1
     },
     {
@@ -1326,9 +1332,9 @@
         "count": 1
     },
     {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Chrissy Costanza",
-        "track_name": "But, What If I Fly?",
+        "user_id": "11102572930",
+        "artist_name": "Sayuri",
+        "track_name": "\u9178\u6b20\u5c11\u5973",
         "count": 1
     },
     {
@@ -1671,6 +1677,12 @@
         "user_id": "11102572930",
         "artist_name": "ONE OK ROCK",
         "track_name": "Answer is near",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u7f8e\u6ce2",
+        "track_name": "main actor",
         "count": 1
     },
     {
@@ -2539,6 +2551,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u7f8e\u6ce2",
+        "track_name": "\u30a2\u30e1\u30f2\u30de\u30c4\u3001",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Rokudenashi",
         "track_name": "Kiddy",
         "count": 1
@@ -2769,6 +2787,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Dan Ciotoi",
         "track_name": "S-a Rupt Lantul De Iubire",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "MAISONdes",
+        "track_name": "\u30c8\u30a6\u30ad\u30e7\u30a6\u30fb\u30b7\u30e3\u30f3\u30c7\u30a3\u30fb\u30e9\u30f3\u30c7\u30f4",
         "count": 1
     },
     {
