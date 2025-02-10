@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<head> 
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Statistics Tracker</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
 
     <header>
         <h1>Statistics Tracker</h1>
@@ -25,7 +25,7 @@
             </ul>
         </nav>
         <!--
-        <section> 
+        <section>
             <h2>Overview</h2>
             <p>blablbalbalbalbalblal</p>
         </section>  
@@ -33,13 +33,30 @@
         <section>
             <h2>Latest Statistics for </h2>
             <select id="user_id" name="user_id" onchange="handleSelectionChange()">
-                <option value="p5sv079r17y4bi06x4c24h3fe">Daria</option>
-                <option value="z6qbjotuaf6o3ys8hgwjc20j1">Jason</option>
-                <option value="1177164531">Bashar</option>
-                <option value="11102572930">Ben</option>
-                <option value="22rbzh4xlqhd5kwlx2zve5gda">Seth</option>
-                <option value="21r743lbsas2y2hbpqx5fp2ti">Raphael</option>
+                <option value="p5sv079r17y4bi06x4c24h3fe">test1</option>
+                <option value="z6qbjotuaf6o3ys8hgwjc20j1">test2</option>
+                <option value="1177164531">test3</option>
+                <option value="11102572930">test4</option>
             </select>
+            
+            <form action="/login" method="post">
+                <label for="userPassword">Password:</label>
+                <input type="password" id="userPassword" name="password" placeholder="Enter your password">
+                <input type="submit" value="Login">
+            </form>
+
+            <p>The date picker does nothing either</p>
+            
+            <section class="datePicker">
+                <form class="forms">
+                    <label for="datetimePicker">From:</label>
+                    <input type="datetime-local" id="datetime" name="datetime">
+                </form>
+                <form class="forms">
+                    <label for="datetimePicker">To:</label>
+                    <input type="datetime-local" id="datetime" name="datetime">
+                </form>
+            </section>
             <table border="1">
                 <thead>
                     <tr>
