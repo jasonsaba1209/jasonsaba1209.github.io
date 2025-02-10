@@ -3,75 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Statistics Tracker</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Spotify Login</title>
 </head>
 <body>
-    <script src="script.js"></script>
+    <h1>Hey there sexy 😘</h1>
+    <p>Click the button below to log in to your Spotify account and then copy the sexy URL and give it to me😘.</p>
+    <button id="login-btn">Login with Spotify</button>
 
-    <header>
-        <h1>Statistics Tracker</h1>
-        
-    </header>
-    
-    <main>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Dashboard</a></li>
-                <li><a href="#">Reports</a></li>
-                <li><a href="#">Settings</a></li>
-                <p>none of these do anything lol</p>
-            </ul>
-        </nav>
-        <!--
-        <section> 
-            <h2>Overview</h2>
-            <p>blablbalbalbalbalblal</p>
-        </section>  
-            -->
-        <section>
-            <h2>Latest Statistics for </h2>
-            <select id="user_id" name="user_id" onchange="handleSelectionChange()">
-                <option value="p5sv079r17y4bi06x4c24h3fe">Daria</option>
-                <option value="z6qbjotuaf6o3ys8hgwjc20j1">Jason</option>
-                <option value="1177164531">Bashar</option>
-                <option value="11102572930">Ben</option>
-            </select>
-            <table border="1">
-                <thead>
-                    <tr>
-                        <th>Song</th>
-                        <th>Artist</th>
-                        <th>Times listened</th>
-                    </tr>
-                </thead>
-                <tbody id="stats-body"></tbody>
-                <!--
-                <tbody>
-                    <tr>
-                        <td>Cookies clicked</td>
-                        <td>Only 1 lol</td>
-                        <td>Today</td>
-                    </tr>
-                    <tr>
-                        <td>RKOs</td>
-                        <td>30</td>
-                        <td>Yesterday</td>
-                    </tr>
-                    <tr>
-                        <td>Adding cols</td>
-                        <td>idfk</td>
-                        <td>lmao</td>
-                    </tr>
-                </tbody>
-                -->
-            </table>
-        </section>
-    </main>
+    <script>
+        // Your application's client ID
+        const clientId = '601b3a7ccc284046900faa1f901c21c6';  // Replace with your Client ID
 
-    <footer>
-        <p>&copy; Spotabase!!</p>
-    </footer>
+        // Redirect URI set in your Spotify Developer Dashboard
+        const redirectUri = 'https://jasonsaba1209.github.io/';  // Replace with your Redirect URI
+
+        // Scopes required for accessing currently playing track
+        const scopes = ['user-read-playback-state', 'user-read-currently-playing','user-read-recently-played', 'user-read-private', 'user-read-email'];
+
+        // Function to initiate the login process
+        function initiateSpotifyLogin() {
+            const authUrl = 'https://accounts.spotify.com/authorize';
+            const params = new URLSearchParams({
+                client_id: clientId,
+                response_type: 'code',
+                redirect_uri: redirectUri,
+                scope: scopes.join(' '),
+            });
+            window.location.href = `${authUrl}?${params.toString()}`;
+        }
+
+        // Add event listener to the login button
+        document.getElementById('login-btn').addEventListener('click', initiateSpotifyLogin);
+    </script>
 </body>
 </html>
