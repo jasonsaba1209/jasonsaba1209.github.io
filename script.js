@@ -1,6 +1,12 @@
 // Declare a global variable to hold the fetched JSON data
 let jsonData = [];
 
+document.getElementById('loginForm').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the page from reloading
+    handleSelectionChange(); // Call your function to filter and update the table
+});
+  
+
 // Function to load JSON data from output.json using fetch()
 function loadData() {
   fetch('output.json')
@@ -26,7 +32,8 @@ function handleSelectionChange() {
   //const selectedUserId = document.getElementById('user_id').value;
   
   let passwordValue = document.getElementById('userPassword').value;
-  
+  let selectedUserId;
+
     switch (passwordValue) {
         case "Pumpkin":
             selectedUserId = "p5sv079r17y4bi06x4c24h3fe"
@@ -48,6 +55,7 @@ function handleSelectionChange() {
         break;
     
         default:
+            console.warn('Password did not match')
             break;
     }
 
