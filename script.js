@@ -25,26 +25,27 @@ function handleSelectionChange() {
   //uncomment below to get for all
   //const selectedUserId = document.getElementById('user_id').value;
   
-  let passwordValue = document.getElementById('userPassword').value;
+  let passwordValue = document.getElementById('userPassword').value.trim().toLowerCase();
+  console.log('Entered value: ', passwordValue)
   let selectedUserId;
 
     switch (passwordValue) {
-        case "Pumpkin":
+        case "Ppmpkin":
             selectedUserId = "p5sv079r17y4bi06x4c24h3fe"
         break;
         case "allahbaba":
             selectedUserId = "z6qbjotuaf6o3ys8hgwjc20j1"
         break;
-        case "Bashar":
+        case "bashar":
             selectedUserId = "1177164531"
         break;
         case "oida":
             selectedUserId = "11102572930"
         break;
-        case "Sethxy Man":
+        case "sethxy":
             selectedUserId = "22rbzh4xlqhd5kwlx2zve5gda"
         break;
-        case "Dubai":
+        case "dubai":
             selectedUserId = "21r743lbsas2y2hbpqx5fp2ti"
         break;
     
@@ -55,7 +56,8 @@ function handleSelectionChange() {
 
   // Filter the data to get only records matching the selected user_id
   const filteredData = jsonData.filter(record => record.user_id === selectedUserId);
-  
+  console.log('Filtered data: ', filteredData)
+
   // Build the HTML table rows dynamically
   let tableRows = '';
   filteredData.forEach(record => {
