@@ -1,5 +1,4 @@
-// Wrap everything in DOMContentLoaded to ensure all elements are present
-    document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() {
       // Global variable to store fetched JSON data
       let jsonData = [];
   
@@ -87,3 +86,4 @@
   
       // Load JSON data when the DOM is fully loaded
       loadData();
+    });
