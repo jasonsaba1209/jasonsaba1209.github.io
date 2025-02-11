@@ -67,6 +67,10 @@ function handleSelectionChange() {
         localStorage.removeItem('userPassword');
       }  
 
+  if(user_id != "")
+    document.getElementById("success_header").textContent = "Your info is ready cutie";
+  else
+  document.getElementById("success_header").textContent = "";
   // Filter the data to get only records matching the selected user_id
   const filteredData = jsonData.filter(record => record.user_id === user_id);
   console.log('Filtered data: ', filteredData)
@@ -152,3 +156,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const viewId = location.hash.replace('#', '') || 'home';
     showView(viewId);
 });
+
+function updateDateTime() {
+    const now = new Date();
+    const options = { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit' };
+    const formattedDateTime = now.toLocaleDateString('en-US', options);
+    document.getElementById('datetime').textContent = `Updated: ${formattedDateTime}`;
+  }
+
+  // Update the date and time when the page loads
+  window.onload = updateDateTime;
