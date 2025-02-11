@@ -1,61 +1,74 @@
 // Declare a global variable to hold the fetched JSON data
 let jsonData = [];
+let jsonData_ind = [];
+let user_id = "";
 
 // Function to load JSON data from output.json using fetch()
 function loadData() {
-  fetch('output.json')
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Network response was not ok: ' + response.statusText);
-      }
-      return response.json();
-    })
-    .then(data => {
-      jsonData = data; // Store the fetched data globally
-      // Populate the table for the default selection after loading data
-      handleSelectionChange();
+    Promise.all([
+        fetch('output.json').then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok: ' + response.statusText);
+            }
+            return response.json();
+        }),
+        fetch('output_t.json').then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok: ' + response.statusText);
+            }
+            return response.json();
+        })
+    ])
+    .then(([data1, data2]) => {
+        jsonData = data1;
+        jsonData_ind = data2;
+        handleSelectionChange();
     })
     .catch(error => console.error('Error fetching data:', error));
 }
 
-// This function is called when the dropdown selection changes
-function handleSelectionChange() {
-  // Get the selected user_id from the dropdown
 
-  //uncomment below to get for all
-  //const selectedUserId = document.getElementById('user_id').value;
-  
-  let passwordValue = document.getElementById('userPassword').value.trim().toLowerCase();
-  console.log('Entered value: ', passwordValue)
-  let selectedUserId;
-
+function returnUserID(passwordValue){
     switch (passwordValue) {
-        case "Ppmpkin":
-            selectedUserId = "p5sv079r17y4bi06x4c24h3fe"
-        break;
+        case "Pumpkin":
+            return "p5sv079r17y4bi06x4c24h3fe"
         case "allahbaba":
-            selectedUserId = "z6qbjotuaf6o3ys8hgwjc20j1"
-        break;
+            return "z6qbjotuaf6o3ys8hgwjc20j1"
         case "bashar":
-            selectedUserId = "1177164531"
-        break;
+            return "1177164531"
         case "oida":
-            selectedUserId = "11102572930"
-        break;
+            return "11102572930"
         case "sethxy":
-            selectedUserId = "22rbzh4xlqhd5kwlx2zve5gda"
-        break;
+            return "22rbzh4xlqhd5kwlx2zve5gda"
         case "dubai":
-            selectedUserId = "21r743lbsas2y2hbpqx5fp2ti"
-        break;
+            return "21r743lbsas2y2hbpqx5fp2ti"
     
         default:
             console.warn('Password did not match')
-            break;
+            return ""
     }
 
+}
+
+// This function is called when the dropdown selection changes
+function handleSelectionChange() {
+  
+  let passwordValue = document.getElementById('userPassword').value.trim().toLowerCase();
+  console.log('Entered value: ', passwordValue);
+
+  user_id = returnUserID(passwordValue);
+
+    if (user_id) {
+        localStorage.setItem('user_id', user_id);
+        localStorage.setItem('userPassword', passwordValue); // Optional: store the actual password
+      } else {
+        // Optionally, remove any previously stored values if the password is invalid
+        localStorage.removeItem('user_id');
+        localStorage.removeItem('userPassword');
+      }  
+
   // Filter the data to get only records matching the selected user_id
-  const filteredData = jsonData.filter(record => record.user_id === selectedUserId);
+  const filteredData = jsonData.filter(record => record.user_id === user_id);
   console.log('Filtered data: ', filteredData)
 
   // Build the HTML table rows dynamically
@@ -67,15 +80,75 @@ function handleSelectionChange() {
                     <td>${record.count}</td>
                   </tr>`;
   });
-  
   // Update the table body with the new rows
   document.getElementById('stats-body').innerHTML = tableRows;
+
+  const filteredData_ind = jsonData_ind.filter(record => record.user_id === user_id);
+    let tableRows_ind = '';
+    filteredData_ind.forEach(record => {
+        tableRows_ind += `<tr>
+                            <td>${record.track_name}</td>
+                            <td>${record.artist_name}</td>
+                            <td>${record.listen_date}</td>
+                          </tr>`;
+    });
+    document.getElementById('stats-body-ind').innerHTML = tableRows_ind;
 }
 
-//document.getElementById('loginForm').addEventListener('submit', function(event) {
-//    event.preventDefault(); // Prevents the form from submitting and reloading the page
-//    handleSelectionChange(); // Process the password and update the table
-//});
-
 // Use DOMContentLoaded to ensure the document is fully loaded before fetching data
-document.addEventListener('DOMContentLoaded', loadData);
+document.addEventListener('DOMContentLoaded', () => {
+    // First load the data
+    loadData();
+
+    // Check localStorage for previously stored user details
+    const savedUserId = localStorage.getItem('user_id');
+    const savedPassword = localStorage.getItem('userPassword');
+    if (savedUserId && savedPassword) {
+      // Optionally, populate the input field so the user sees their saved password
+      document.getElementById('userPassword').value = savedPassword;
+      // Call handleSelectionChange to update the table immediately
+      handleSelectionChange();
+    }
+});
+
+function showReportView(view) {
+    // Hide all report views
+    document.querySelectorAll('.report-view').forEach(div => {
+        div.style.display = 'none';
+    });
+
+    // Show the selected view
+    const selectedView = document.getElementById(`${view}-view`);
+    if (selectedView) {
+        selectedView.style.display = 'block';
+    }
+}
+
+
+function showView(viewId) {
+    if (!user_id) {
+        alert('Access denied. Please enter a valid password.');
+        return;
+    }
+
+    document.querySelectorAll('.view').forEach(view => {
+        view.style.display = 'none';
+    });
+
+    const selectedView = document.getElementById(viewId);
+    if (selectedView) {
+        selectedView.style.display = 'block';
+    }
+}
+
+// When the hash changes in the URL
+window.addEventListener('hashchange', () => {
+    const viewId = location.hash.replace('#', '');
+    showView(viewId);
+});
+
+// On page load, check the hash and show the view; default to "home"
+document.addEventListener('DOMContentLoaded', () => {
+    const viewId = location.hash.replace('#', '') || 'home';
+    showView(viewId);
+});
