@@ -2,15 +2,43 @@
     {
         "song_type": "indivdual_song",
         "user_id": "11102572930",
-        "track_name": "INNATE",
-        "artist_name": "*Luna",
-        "listen_date": "2025-02-11 14:55:51"
+        "track_name": "Weight of the World/Kowareta Sekai no Uta - From CrosSing",
+        "artist_name": "\u77f3\u5ddd\u7531\u4f9d",
+        "listen_date": "2025-02-11 15:26:30"
+    },
+    {
+        "song_type": "indivdual_song",
+        "user_id": "11102572930",
+        "track_name": "Yoku",
+        "artist_name": "Eve",
+        "listen_date": "2025-02-11 15:20:46"
+    },
+    {
+        "song_type": "indivdual_song",
+        "user_id": "11102572930",
+        "track_name": "Sign",
+        "artist_name": "FLOW",
+        "listen_date": "2025-02-11 15:15:40"
+    },
+    {
+        "song_type": "indivdual_song",
+        "user_id": "11102572930",
+        "track_name": "The Glory Days",
+        "artist_name": "Tia",
+        "listen_date": "2025-02-11 15:11:44"
+    },
+    {
+        "song_type": "indivdual_song",
+        "user_id": "11102572930",
+        "track_name": "Dancing Dollz feat. cold kiss(Nana Takahashi) - REDALiCE Remix",
+        "artist_name": "ZYTOKINE",
+        "listen_date": "2025-02-11 15:07:31"
     },
     {
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "INNATE",
-        "artist_name": "Yuaru",
+        "artist_name": "*Luna, Yuaru",
         "listen_date": "2025-02-11 14:55:51"
     },
     {
@@ -94,28 +122,14 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "NPC",
-        "artist_name": "*Luna",
-        "listen_date": "2025-02-11 13:55:50"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "NPC",
-        "artist_name": "\u306d\u3093\u306d",
+        "artist_name": "*Luna, \u306d\u3093\u306d",
         "listen_date": "2025-02-11 13:55:50"
     },
     {
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u7d46\u30ce\u5947\u8de1",
-        "artist_name": "MAN WITH A MISSION",
-        "listen_date": "2025-02-11 13:51:12"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u7d46\u30ce\u5947\u8de1",
-        "artist_name": "milet",
+        "artist_name": "MAN WITH A MISSION, milet",
         "listen_date": "2025-02-11 13:51:12"
     },
     {
@@ -206,14 +220,7 @@
         "song_type": "indivdual_song",
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "track_name": "Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)",
-        "artist_name": "B.o.B",
-        "listen_date": "2025-02-11 10:47:18"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "track_name": "Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)",
-        "artist_name": "Eminem",
+        "artist_name": "B.o.B, Eminem",
         "listen_date": "2025-02-11 10:47:18"
     },
     {
@@ -311,14 +318,7 @@
         "song_type": "indivdual_song",
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "track_name": "Alone - Nothing But Thieves Remix",
-        "artist_name": "Rag'n'Bone Man",
-        "listen_date": "2025-02-11 06:37:07"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "track_name": "Alone - Nothing But Thieves Remix",
-        "artist_name": "Nothing But Thieves",
+        "artist_name": "Rag'n'Bone Man, Nothing But Thieves",
         "listen_date": "2025-02-11 06:37:07"
     },
     {
@@ -332,14 +332,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
-        "artist_name": "milet",
-        "listen_date": "2025-02-11 06:29:40"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
-        "artist_name": "MAN WITH A MISSION",
+        "artist_name": "milet, MAN WITH A MISSION",
         "listen_date": "2025-02-11 06:29:40"
     },
     {
@@ -416,14 +409,7 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "Carnaval, Op. 9: No. 12. Chopin",
-        "artist_name": "Robert Schumann",
-        "listen_date": "2025-02-10 23:59:41"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Carnaval, Op. 9: No. 12. Chopin",
-        "artist_name": "Boris Giltburg",
+        "artist_name": "Robert Schumann, Boris Giltburg",
         "listen_date": "2025-02-10 23:59:41"
     },
     {
@@ -528,14 +514,7 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "Lieder ohne Worte (Songs without Words), Book 1, Op. 19b: Lied ohne Worte (Song without Words) No. 6 in G Minor, Op. 19, No. 6, \"Venezianisches Gondellied\" (Venetian Gondola Song)",
-        "artist_name": "Felix Mendelssohn",
-        "listen_date": "2025-02-10 22:42:39"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Lieder ohne Worte (Songs without Words), Book 1, Op. 19b: Lied ohne Worte (Song without Words) No. 6 in G Minor, Op. 19, No. 6, \"Venezianisches Gondellied\" (Venetian Gondola Song)",
-        "artist_name": "P\u00e9ter Nagy",
+        "artist_name": "Felix Mendelssohn, P\u00e9ter Nagy",
         "listen_date": "2025-02-10 22:42:39"
     },
     {
@@ -612,14 +591,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "I Don't Wanna Die in the Paradise",
-        "artist_name": "BURNOUT SYNDROMES",
-        "listen_date": "2025-02-10 22:04:56"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "I Don't Wanna Die in the Paradise",
-        "artist_name": "FLOW",
+        "artist_name": "BURNOUT SYNDROMES, FLOW",
         "listen_date": "2025-02-10 22:04:56"
     },
     {
@@ -668,21 +640,7 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "Masquerade Suite: Romance",
-        "artist_name": "Aram Khachaturian",
-        "listen_date": "2025-02-10 21:29:53"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Masquerade Suite: Romance",
-        "artist_name": "St. Petersburg State Symphony Orchestra",
-        "listen_date": "2025-02-10 21:29:53"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Masquerade Suite: Romance",
-        "artist_name": "Andre Anichanov",
+        "artist_name": "Aram Khachaturian, St. Petersburg State Symphony Orchestra, Andre Anichanov",
         "listen_date": "2025-02-10 21:29:53"
     },
     {
@@ -696,21 +654,7 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "Masquerade Suite: Nocturne",
-        "artist_name": "Aram Khachaturian",
-        "listen_date": "2025-02-10 21:22:43"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Masquerade Suite: Nocturne",
-        "artist_name": "St. Petersburg State Symphony Orchestra",
-        "listen_date": "2025-02-10 21:22:43"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Masquerade Suite: Nocturne",
-        "artist_name": "Andre Anichanov",
+        "artist_name": "Aram Khachaturian, St. Petersburg State Symphony Orchestra, Andre Anichanov",
         "listen_date": "2025-02-10 21:22:43"
     },
     {
@@ -745,14 +689,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u3042\u3053\u304c\u308c",
-        "artist_name": "MIMiNARI",
-        "listen_date": "2025-02-10 21:03:09"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u3042\u3053\u304c\u308c",
-        "artist_name": "Myuk",
+        "artist_name": "MIMiNARI, Myuk",
         "listen_date": "2025-02-10 21:03:09"
     },
     {
@@ -780,14 +717,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Cinderella - Giga First Night Remix",
-        "artist_name": "DECO*27",
-        "listen_date": "2025-02-10 20:48:21"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Cinderella - Giga First Night Remix",
-        "artist_name": "Giga",
+        "artist_name": "DECO*27, Giga",
         "listen_date": "2025-02-10 20:48:21"
     },
     {
@@ -1207,14 +1137,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "aLIEz",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "listen_date": "2025-02-10 13:07:02"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "aLIEz",
-        "artist_name": "mizuki",
+        "artist_name": "SawanoHiroyuki[nZk], mizuki",
         "listen_date": "2025-02-10 13:07:02"
     },
     {
@@ -1522,14 +1445,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u30e9\u30c3\u30ad\u30fc\u2606\u30aa\u30fc\u30d6 (feat. \u521d\u97f3\u30df\u30af)",
-        "artist_name": "emon(Tes.)",
-        "listen_date": "2025-02-10 11:21:00"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u30e9\u30c3\u30ad\u30fc\u2606\u30aa\u30fc\u30d6 (feat. \u521d\u97f3\u30df\u30af)",
-        "artist_name": "Hatsune Miku",
+        "artist_name": "emon(Tes.), Hatsune Miku",
         "listen_date": "2025-02-10 11:21:00"
     },
     {
@@ -1592,14 +1508,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Let's play Losing Battle",
-        "artist_name": "15\u624d",
-        "listen_date": "2025-02-10 11:11:10"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Let's play Losing Battle",
-        "artist_name": "Seiko Oomori",
+        "artist_name": "15\u624d, Seiko Oomori",
         "listen_date": "2025-02-10 11:11:10"
     },
     {
@@ -1872,14 +1781,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "INNATE",
-        "artist_name": "*Luna",
-        "listen_date": "2025-02-10 10:24:43"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "INNATE",
-        "artist_name": "Yuaru",
+        "artist_name": "*Luna, Yuaru",
         "listen_date": "2025-02-10 10:24:43"
     },
     {
@@ -2103,14 +2005,7 @@
         "song_type": "indivdual_song",
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "track_name": "Alone - Nothing But Thieves Remix",
-        "artist_name": "Rag'n'Bone Man",
-        "listen_date": "2025-02-10 09:29:47"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "track_name": "Alone - Nothing But Thieves Remix",
-        "artist_name": "Nothing But Thieves",
+        "artist_name": "Rag'n'Bone Man, Nothing But Thieves",
         "listen_date": "2025-02-10 09:29:47"
     },
     {
@@ -2145,14 +2040,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "ANEMONE (feat. Ado)",
-        "artist_name": "Toiki",
-        "listen_date": "2025-02-10 09:19:16"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "ANEMONE (feat. Ado)",
-        "artist_name": "Ado",
+        "artist_name": "Toiki, Ado",
         "listen_date": "2025-02-10 09:19:16"
     },
     {
@@ -2173,14 +2061,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u900f\u660e",
-        "artist_name": "*Luna",
-        "listen_date": "2025-02-10 09:13:01"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u900f\u660e",
-        "artist_name": "\u306d\u3093\u306d",
+        "artist_name": "*Luna, \u306d\u3093\u306d",
         "listen_date": "2025-02-10 09:13:01"
     },
     {
@@ -2271,14 +2152,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u30e2\u30f3\u30b9\u30bf\u30fc (feat. yama)",
-        "artist_name": "Genie High",
-        "listen_date": "2025-02-10 08:46:30"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u30e2\u30f3\u30b9\u30bf\u30fc (feat. yama)",
-        "artist_name": "yama",
+        "artist_name": "Genie High, yama",
         "listen_date": "2025-02-10 08:46:30"
     },
     {
@@ -2313,14 +2187,7 @@
         "song_type": "indivdual_song",
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "track_name": "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",
-        "artist_name": "Skylar Grey",
-        "listen_date": "2025-02-10 08:17:38"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "track_name": "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",
-        "artist_name": "Eminem",
+        "artist_name": "Skylar Grey, Eminem",
         "listen_date": "2025-02-10 08:17:38"
     },
     {
@@ -2712,14 +2579,7 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "6 Impromptus, Op. 5: Impromptu No. 5 in B Minor",
-        "artist_name": "Jean Sibelius",
-        "listen_date": "2025-02-10 00:19:54"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "6 Impromptus, Op. 5: Impromptu No. 5 in B Minor",
-        "artist_name": "H\u00e5vard Gimse",
+        "artist_name": "Jean Sibelius, H\u00e5vard Gimse",
         "listen_date": "2025-02-10 00:19:54"
     },
     {
@@ -2789,14 +2649,7 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "6 Chants polonais, S. 480: No. 2, Fr\u00fchling (Wiosna, Spring) [After Chopin's Op. 74]",
-        "artist_name": "Franz Liszt",
-        "listen_date": "2025-02-09 23:54:46"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "6 Chants polonais, S. 480: No. 2, Fr\u00fchling (Wiosna, Spring) [After Chopin's Op. 74]",
-        "artist_name": "Joseph Banowetz",
+        "artist_name": "Franz Liszt, Joseph Banowetz",
         "listen_date": "2025-02-09 23:54:46"
     },
     {
@@ -2810,28 +2663,14 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "Carnaval, Op. 9: No. 12. Chopin",
-        "artist_name": "Robert Schumann",
-        "listen_date": "2025-02-09 23:49:21"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Carnaval, Op. 9: No. 12. Chopin",
-        "artist_name": "Boris Giltburg",
+        "artist_name": "Robert Schumann, Boris Giltburg",
         "listen_date": "2025-02-09 23:49:21"
     },
     {
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "Lieder ohne Worte (Songs without Words), Book 1, Op. 19b: Lied ohne Worte (Song without Words) No. 6 in G Minor, Op. 19, No. 6, \"Venezianisches Gondellied\" (Venetian Gondola Song)",
-        "artist_name": "Felix Mendelssohn",
-        "listen_date": "2025-02-09 23:47:58"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Lieder ohne Worte (Songs without Words), Book 1, Op. 19b: Lied ohne Worte (Song without Words) No. 6 in G Minor, Op. 19, No. 6, \"Venezianisches Gondellied\" (Venetian Gondola Song)",
-        "artist_name": "P\u00e9ter Nagy",
+        "artist_name": "Felix Mendelssohn, P\u00e9ter Nagy",
         "listen_date": "2025-02-09 23:47:58"
     },
     {
@@ -2901,14 +2740,7 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "Menuet in G Minor (trans. W. Kempff)",
-        "artist_name": "Wilhelm Kempff",
-        "listen_date": "2025-02-09 23:25:54"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Menuet in G Minor (trans. W. Kempff)",
-        "artist_name": "Idil Biret",
+        "artist_name": "Wilhelm Kempff, Idil Biret",
         "listen_date": "2025-02-09 23:25:54"
     },
     {
@@ -2929,14 +2761,7 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "Menuet in G Minor (trans. W. Kempff)",
-        "artist_name": "Wilhelm Kempff",
-        "listen_date": "2025-02-09 23:14:56"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Menuet in G Minor (trans. W. Kempff)",
-        "artist_name": "Idil Biret",
+        "artist_name": "Wilhelm Kempff, Idil Biret",
         "listen_date": "2025-02-09 23:14:56"
     },
     {
@@ -3090,14 +2915,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
-        "artist_name": "MAISONdes",
-        "listen_date": "2025-02-09 21:05:56"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
-        "artist_name": "yama",
+        "artist_name": "MAISONdes, yama",
         "listen_date": "2025-02-09 21:05:56"
     },
     {
@@ -3139,14 +2957,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "A/Z <MODv>",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "listen_date": "2025-02-09 20:50:41"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "A/Z <MODv>",
-        "artist_name": "mizuki",
+        "artist_name": "SawanoHiroyuki[nZk], mizuki",
         "listen_date": "2025-02-09 20:50:41"
     },
     {
@@ -4257,16 +4068,16 @@
     },
     {
         "song_type": "indivdual_song",
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "track_name": "How Did You Love",
-        "artist_name": "Shinedown",
+        "user_id": "p5sv079r17y4bi06x4c24h3fe",
+        "track_name": "Harder To Breathe",
+        "artist_name": "Maroon 5",
         "listen_date": "2025-02-09 16:07:49"
     },
     {
         "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Harder To Breathe",
-        "artist_name": "Maroon 5",
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "track_name": "How Did You Love",
+        "artist_name": "Shinedown",
         "listen_date": "2025-02-09 16:07:49"
     },
     {
@@ -4385,14 +4196,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "AntiSystem's (feat. Ado)",
-        "artist_name": "jon-YAKITORY",
-        "listen_date": "2025-02-09 15:37:42"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "AntiSystem's (feat. Ado)",
-        "artist_name": "Ado",
+        "artist_name": "jon-YAKITORY, Ado",
         "listen_date": "2025-02-09 15:37:42"
     },
     {
@@ -4413,14 +4217,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u3042\u306e\u590f\u306e\u3044\u3064\u304b\u306f - 2023 Ver.",
-        "artist_name": "*Luna",
-        "listen_date": "2025-02-09 15:24:23"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u3042\u306e\u590f\u306e\u3044\u3064\u304b\u306f - 2023 Ver.",
-        "artist_name": "\u306d\u3093\u306d",
+        "artist_name": "*Luna, \u306d\u3093\u306d",
         "listen_date": "2025-02-09 15:24:23"
     },
     {
@@ -4483,14 +4280,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Binary Star",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "listen_date": "2025-02-09 14:52:31"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Binary Star",
-        "artist_name": "Uru",
+        "artist_name": "SawanoHiroyuki[nZk], Uru",
         "listen_date": "2025-02-09 14:52:31"
     },
     {
@@ -4546,14 +4336,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "aLIEz",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "listen_date": "2025-02-09 14:23:38"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "aLIEz",
-        "artist_name": "mizuki",
+        "artist_name": "SawanoHiroyuki[nZk], mizuki",
         "listen_date": "2025-02-09 14:23:38"
     },
     {
@@ -4770,14 +4553,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Wicked feat. Mori Calliope",
-        "artist_name": "Hoshimachi Suisei",
-        "listen_date": "2025-02-09 13:07:02"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Wicked feat. Mori Calliope",
-        "artist_name": "Mori Calliope",
+        "artist_name": "Hoshimachi Suisei, Mori Calliope",
         "listen_date": "2025-02-09 13:07:02"
     },
     {
@@ -4819,14 +4595,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "takt",
-        "artist_name": "ryo (supercell)",
-        "listen_date": "2025-02-09 12:56:56"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "takt",
-        "artist_name": "Mafumafu",
+        "artist_name": "ryo (supercell), Mafumafu",
         "listen_date": "2025-02-09 12:56:56"
     },
     {
@@ -5043,14 +4812,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Eat (feat. Ado)",
-        "artist_name": "jon-YAKITORY",
-        "listen_date": "2025-02-09 11:36:11"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Eat (feat. Ado)",
-        "artist_name": "Ado",
+        "artist_name": "jon-YAKITORY, Ado",
         "listen_date": "2025-02-09 11:36:11"
     },
     {
@@ -5071,14 +4833,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "NPC",
-        "artist_name": "*Luna",
-        "listen_date": "2025-02-09 11:23:05"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "NPC",
-        "artist_name": "\u306d\u3093\u306d",
+        "artist_name": "*Luna, \u306d\u3093\u306d",
         "listen_date": "2025-02-09 11:23:05"
     },
     {
@@ -5141,14 +4896,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
-        "artist_name": "milet",
-        "listen_date": "2025-02-09 10:46:11"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
-        "artist_name": "MAN WITH A MISSION",
+        "artist_name": "milet, MAN WITH A MISSION",
         "listen_date": "2025-02-09 10:46:11"
     },
     {
@@ -5183,14 +4931,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "River (feat. Ed Sheeran)",
-        "artist_name": "Eminem",
-        "listen_date": "2025-02-09 10:33:16"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "River (feat. Ed Sheeran)",
-        "artist_name": "Ed Sheeran",
+        "artist_name": "Eminem, Ed Sheeran",
         "listen_date": "2025-02-09 10:33:16"
     },
     {
@@ -5218,14 +4959,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "Remember The Name (feat. Eminem & 50 Cent)",
-        "artist_name": "Ed Sheeran",
-        "listen_date": "2025-02-09 10:25:57"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Remember The Name (feat. Eminem & 50 Cent)",
-        "artist_name": "Eminem",
+        "artist_name": "Ed Sheeran, Eminem",
         "listen_date": "2025-02-09 10:25:57"
     },
     {
@@ -5729,14 +5463,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
-        "artist_name": "GEMN",
-        "listen_date": "2025-02-08 21:07:03"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
-        "artist_name": "Tatsuya Kitani",
+        "artist_name": "GEMN, Tatsuya Kitani",
         "listen_date": "2025-02-08 21:07:03"
     },
     {
@@ -5925,14 +5652,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "time",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "listen_date": "2025-02-08 19:30:44"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "time",
-        "artist_name": "ReoNa",
+        "artist_name": "SawanoHiroyuki[nZk], ReoNa",
         "listen_date": "2025-02-08 19:30:44"
     },
     {
@@ -5967,14 +5687,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Requiem (feat. Hoshimachi Suisei)",
-        "artist_name": "Kanaria",
-        "listen_date": "2025-02-08 17:06:04"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Requiem (feat. Hoshimachi Suisei)",
-        "artist_name": "Hoshimachi Suisei",
+        "artist_name": "Kanaria, Hoshimachi Suisei",
         "listen_date": "2025-02-08 17:06:04"
     },
     {
@@ -5988,14 +5701,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "RE:I AM -English ver.-",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "listen_date": "2025-02-08 16:58:56"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "RE:I AM -English ver.-",
-        "artist_name": "Aimer",
+        "artist_name": "SawanoHiroyuki[nZk], Aimer",
         "listen_date": "2025-02-08 16:58:56"
     },
     {
@@ -6163,14 +5869,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u3042\u3053\u304c\u308c",
-        "artist_name": "MIMiNARI",
-        "listen_date": "2025-02-08 15:34:51"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u3042\u3053\u304c\u308c",
-        "artist_name": "Myuk",
+        "artist_name": "MIMiNARI, Myuk",
         "listen_date": "2025-02-08 15:34:51"
     },
     {
@@ -6191,14 +5890,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u30ca\u30a4\u30c8\u30eb\u30fc\u30c6\u30a3\u30fc\u30f3",
-        "artist_name": "Tatsuya Kitani",
-        "listen_date": "2025-02-08 15:25:10"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u30ca\u30a4\u30c8\u30eb\u30fc\u30c6\u30a3\u30fc\u30f3",
-        "artist_name": "suis from Yorushika",
+        "artist_name": "Tatsuya Kitani, suis from Yorushika",
         "listen_date": "2025-02-08 15:25:10"
     },
     {
@@ -6268,14 +5960,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Clockworks",
-        "artist_name": "syudou \u00d7 mafumafu",
-        "listen_date": "2025-02-08 14:48:02"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Clockworks",
-        "artist_name": "Mafumafu",
+        "artist_name": "syudou \u00d7 mafumafu, Mafumafu",
         "listen_date": "2025-02-08 14:48:02"
     },
     {
@@ -6324,14 +6009,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "CH4NGE - feat. KAFU",
-        "artist_name": "Giga",
-        "listen_date": "2025-02-08 14:22:44"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "CH4NGE - feat. KAFU",
-        "artist_name": "\u53ef\u4e0d",
+        "artist_name": "Giga, \u53ef\u4e0d",
         "listen_date": "2025-02-08 14:22:44"
     },
     {
@@ -6387,14 +6065,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
-        "artist_name": "ZUTOMAYO",
-        "listen_date": "2025-02-08 13:54:14"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
-        "artist_name": "Mori Calliope",
+        "artist_name": "ZUTOMAYO, Mori Calliope",
         "listen_date": "2025-02-08 13:54:14"
     },
     {
@@ -6618,14 +6289,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u6708\u3068\u5341\u516d\u591c (feat.\u30ca\u30ce & \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4)",
-        "artist_name": "\u6771\u65b9LostWord",
-        "listen_date": "2025-02-08 12:15:23"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u6708\u3068\u5341\u516d\u591c (feat.\u30ca\u30ce & \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4)",
-        "artist_name": "NANO",
+        "artist_name": "\u6771\u65b9LostWord, NANO",
         "listen_date": "2025-02-08 12:15:23"
     },
     {
@@ -6758,14 +6422,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "A LETTER",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "listen_date": "2025-02-08 11:00:50"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "A LETTER",
-        "artist_name": "Aimer",
+        "artist_name": "SawanoHiroyuki[nZk], Aimer",
         "listen_date": "2025-02-08 11:00:50"
     },
     {
@@ -6975,14 +6632,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Cinderella - Giga First Night Remix",
-        "artist_name": "DECO*27",
-        "listen_date": "2025-02-08 09:38:20"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Cinderella - Giga First Night Remix",
-        "artist_name": "Giga",
+        "artist_name": "DECO*27, Giga",
         "listen_date": "2025-02-08 09:38:20"
     },
     {
@@ -7017,14 +6667,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u7d46\u30ce\u5947\u8de1",
-        "artist_name": "MAN WITH A MISSION",
-        "listen_date": "2025-02-08 09:21:32"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u7d46\u30ce\u5947\u8de1",
-        "artist_name": "milet",
+        "artist_name": "MAN WITH A MISSION, milet",
         "listen_date": "2025-02-08 09:21:32"
     },
     {
@@ -7528,14 +7171,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Radio Noise (feat. Ado)",
-        "artist_name": "Mikokichi",
-        "listen_date": "2025-02-07 20:38:31"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Radio Noise (feat. Ado)",
-        "artist_name": "Ado",
+        "artist_name": "Mikokichi, Ado",
         "listen_date": "2025-02-07 20:38:31"
     },
     {
@@ -7563,14 +7199,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "GETCHA! (feat. Hatsune Miku & GUMI)",
-        "artist_name": "Giga",
-        "listen_date": "2025-02-07 20:23:12"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "GETCHA! (feat. Hatsune Miku & GUMI)",
-        "artist_name": "Hatsune Miku",
+        "artist_name": "Giga, Hatsune Miku",
         "listen_date": "2025-02-07 20:23:12"
     },
     {
@@ -8137,14 +7766,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "Creola",
-        "artist_name": "Denis Ramniceanu",
-        "listen_date": "2025-02-07 14:33:19"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Creola",
-        "artist_name": "Ministerul Manelelor",
+        "artist_name": "Denis Ramniceanu, Ministerul Manelelor",
         "listen_date": "2025-02-07 14:33:19"
     },
     {
@@ -8200,14 +7822,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "Social Path",
-        "artist_name": "Stray Kids",
-        "listen_date": "2025-02-07 14:08:06"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "Social Path",
-        "artist_name": "LiSA",
+        "artist_name": "Stray Kids, LiSA",
         "listen_date": "2025-02-07 14:08:06"
     },
     {
@@ -8249,14 +7864,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "CapSule",
-        "artist_name": "Mori Calliope",
-        "listen_date": "2025-02-07 13:48:10"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "CapSule",
-        "artist_name": "Hoshimachi Suisei",
+        "artist_name": "Mori Calliope, Hoshimachi Suisei",
         "listen_date": "2025-02-07 13:48:10"
     },
     {
@@ -8312,14 +7920,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "I Don't Wanna Die in the Paradise",
-        "artist_name": "BURNOUT SYNDROMES",
-        "listen_date": "2025-02-07 13:18:14"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "I Don't Wanna Die in the Paradise",
-        "artist_name": "FLOW",
+        "artist_name": "BURNOUT SYNDROMES, FLOW",
         "listen_date": "2025-02-07 13:18:14"
     },
     {
@@ -8480,14 +8081,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "1/6 -out of the gravity- (feat. \u521d\u97f3\u30df\u30af) - 2019 Live",
-        "artist_name": "Tokyo Philharmonic Orchestra",
-        "listen_date": "2025-02-07 12:16:57"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "1/6 -out of the gravity- (feat. \u521d\u97f3\u30df\u30af) - 2019 Live",
-        "artist_name": "Hatsune Miku",
+        "artist_name": "Tokyo Philharmonic Orchestra, Hatsune Miku",
         "listen_date": "2025-02-07 12:16:57"
     },
     {
@@ -8522,21 +8116,7 @@
         "song_type": "indivdual_song",
         "user_id": "1177164531",
         "track_name": "Masquerade Suite: Nocturne",
-        "artist_name": "Aram Khachaturian",
-        "listen_date": "2025-02-07 11:58:31"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Masquerade Suite: Nocturne",
-        "artist_name": "St. Petersburg State Symphony Orchestra",
-        "listen_date": "2025-02-07 11:58:31"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "1177164531",
-        "track_name": "Masquerade Suite: Nocturne",
-        "artist_name": "Andre Anichanov",
+        "artist_name": "Aram Khachaturian, St. Petersburg State Symphony Orchestra, Andre Anichanov",
         "listen_date": "2025-02-07 11:58:31"
     },
     {
@@ -8655,14 +8235,7 @@
         "song_type": "indivdual_song",
         "user_id": "11102572930",
         "track_name": "\u30d5\u30a1\u30f3\u30b5",
-        "artist_name": "mona\uff08CV\uff1a\u590f\u5ddd\u690e\u83dc\uff09",
-        "listen_date": "2025-02-07 10:57:55"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "11102572930",
-        "track_name": "\u30d5\u30a1\u30f3\u30b5",
-        "artist_name": "HoneyWorks",
+        "artist_name": "mona\uff08CV\uff1a\u590f\u5ddd\u690e\u83dc\uff09, HoneyWorks",
         "listen_date": "2025-02-07 10:57:55"
     },
     {
@@ -8739,14 +8312,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "Remember The Name (feat. Eminem & 50 Cent)",
-        "artist_name": "Ed Sheeran",
-        "listen_date": "2025-02-07 10:36:58"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Remember The Name (feat. Eminem & 50 Cent)",
-        "artist_name": "Eminem",
+        "artist_name": "Ed Sheeran, Eminem",
         "listen_date": "2025-02-07 10:36:58"
     },
     {
@@ -8760,14 +8326,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "Spicy (feat. Post Malone)",
-        "artist_name": "Ty Dolla $ign",
-        "listen_date": "2025-02-07 10:33:25"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Spicy (feat. Post Malone)",
-        "artist_name": "Post Malone",
+        "artist_name": "Ty Dolla $ign, Post Malone",
         "listen_date": "2025-02-07 10:33:25"
     },
     {
@@ -8781,14 +8340,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "MotorSport",
-        "artist_name": "Migos",
-        "listen_date": "2025-02-07 10:30:31"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "MotorSport",
-        "artist_name": "Nicki Minaj",
+        "artist_name": "Migos, Nicki Minaj",
         "listen_date": "2025-02-07 10:30:31"
     },
     {
@@ -8984,14 +8536,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "Amore",
-        "artist_name": "Iuly Neamtu",
-        "listen_date": "2025-02-07 08:55:13"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Amore",
-        "artist_name": "Manele Mentolate",
+        "artist_name": "Iuly Neamtu, Manele Mentolate",
         "listen_date": "2025-02-07 08:55:13"
     },
     {
@@ -9019,14 +8564,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "Creola",
-        "artist_name": "Denis Ramniceanu",
-        "listen_date": "2025-02-07 08:49:16"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Creola",
-        "artist_name": "Ministerul Manelelor",
+        "artist_name": "Denis Ramniceanu, Ministerul Manelelor",
         "listen_date": "2025-02-07 08:49:16"
     },
     {
@@ -9460,14 +8998,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "Nebunia lui Babasha",
-        "artist_name": "Babasha",
-        "listen_date": "2025-02-06 15:00:20"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Nebunia lui Babasha",
-        "artist_name": "Ministerul Manelelor",
+        "artist_name": "Babasha, Ministerul Manelelor",
         "listen_date": "2025-02-06 15:00:20"
     },
     {
@@ -9516,14 +9047,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "Baklava",
-        "artist_name": "Gya",
-        "listen_date": "2025-02-06 14:41:14"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Baklava",
-        "artist_name": "Babasha",
+        "artist_name": "Gya, Babasha",
         "listen_date": "2025-02-06 14:41:14"
     },
     {
@@ -9572,14 +9096,7 @@
         "song_type": "indivdual_song",
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "track_name": "Yali, Yali",
-        "artist_name": "Babasha",
-        "listen_date": "2025-02-06 14:13:48"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "track_name": "Yali, Yali",
-        "artist_name": "Ministerul Manelelor",
+        "artist_name": "Babasha, Ministerul Manelelor",
         "listen_date": "2025-02-06 14:13:48"
     },
     {
@@ -10447,14 +9964,7 @@
         "song_type": "indivdual_song",
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "track_name": "Triple Double",
-        "artist_name": "Jean Dawson",
-        "listen_date": "2025-02-02 19:33:13"
-    },
-    {
-        "song_type": "indivdual_song",
-        "user_id": "21r743lbsas2y2hbpqx5fp2ti",
-        "track_name": "Triple Double",
-        "artist_name": "A$AP Rocky",
+        "artist_name": "Jean Dawson, A$AP Rocky",
         "listen_date": "2025-02-02 19:33:13"
     },
     {
