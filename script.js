@@ -130,10 +130,6 @@ function showReportView(view) {
 
 
 function showView(viewId) {
-    if (!user_id) {
-        alert('Access denied. Please enter a valid password.');
-        return;
-    }
 
     document.querySelectorAll('.view').forEach(view => {
         view.style.display = 'none';
