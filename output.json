@@ -673,6 +673,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
+        "track_name": "\u30d1\u30ec\u30fc\u30c9",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "\u9808\u7530\u666f\u51ea",
         "track_name": "\u30e9\u30d6\u30b7\u30c3\u30af",
         "count": 2
@@ -2763,12 +2769,6 @@
         "user_id": "11102572930",
         "artist_name": "40mP",
         "track_name": "Natsukoi Hanabi",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
-        "track_name": "\u30d1\u30ec\u30fc\u30c9",
         "count": 1
     },
     {
