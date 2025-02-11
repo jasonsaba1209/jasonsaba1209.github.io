@@ -31,12 +31,18 @@ h2 {
     padding: 1rem;
 }
 
+p{
+    margin: 0px;
+}
+
 button {
     background-color: green;
     color: white;
     padding: 10px 20px;
+    margin: 10px;
     border: none;
     cursor: pointer;
+    border-radius: 25px;
 }
 
 button:hover {
@@ -46,7 +52,7 @@ button:hover {
 nav ul {
     background-color: #409143;
     display: flex; /* Makes the list horizontal */
-    padding: 12px;
+    padding: 10px;
     margin: 0;
     border-radius: 0px 0px 10px 10px;
     width: 100%;
@@ -114,6 +120,51 @@ select {
   }
 
   /* Optionally style the option elements */
-  option {
+option {
     padding: 8px;
+}
+
+.datePicker{
+    margin-right: auto;
+    width: 40%;
+}
+
+.forms{
+    margin-right: auto;
+    padding: 10px;
+}
+
+input[type="datetime-local"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 6px 10px 6px 15px;
+    font-size: 16px;
+    background-color: #fff;
+    color: #333;
+    width: 250px; /* Adjust width as needed */
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  
+  /* Optional: Style focus state for a subtle glow */
+  input[type="datetime-local"]:focus {
+    border-color: #66afe9;
+    box-shadow: 0 0 5px rgba(102, 175, 233, 0.6);
+    outline: none;
+  }
+  
+  /* Style the calendar picker icon (limited control) */
+  input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+    filter: invert(0.5);
+    opacity: 0.8;
+  }
+
+  .report-view {
+    display: none;
+  }
+  
+  .report-view.active {
+    display: block;
   }
