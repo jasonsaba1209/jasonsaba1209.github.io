@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Statistics Tracker</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
 
     <header>
         <h1>Statistics Tracker</h1>
@@ -17,82 +17,68 @@
     <main>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Dashboard</a></li>
-                <li><a href="#">Reports</a></li>
-                <li><a href="#">Settings</a></li>
-                <p>none of these do anything lol</p>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#dashboard">Dashboard</a></li>
+                <li><a href="#reports">Reports</a></li>
+                <li><a href="#settings">Settings</a></li>
             </ul>
         </nav>
-        <!--
-        <section>
-            <h2>Overview</h2>
-            <p>blablbalbalbalbalblal</p>
-        </section>  
-        -->
-        <!--
-        <section>
-            <h2>Latest Statistics</h2>
-            
-            <select id="user_id" name="user_id" onchange="handleSelectionChange()">
-                <option value="p5sv079r17y4bi06x4c24h3fe">test1</option>
-                <option value="z6qbjotuaf6o3ys8hgwjc20j1">test2</option>
-                <option value="1177164531">test3</option>
-                <option value="11102572930">test4</option>
-            </select>
-        -->
+        
+        <section id="home" class="view">
 
             <form id="loginForm" class="forms">
                 <label for="userPassword">Speshal Word:</label>
                 <input type="text" id="userPassword" name="password" placeholder="Type me in daddy">
             </form>
             <button id="passButton" onclick="handleSelectionChange()">click me ðŸ¥µ</button>
+            <h2>After putting in the word, go to Reports ðŸ˜˜</h2>
             
-
-            <!--
-            <section class="datePicker">
-                <form class="forms">
-                    <label for="datetimePicker">From:</label>
-                    <input type="datetime-local" id="datetime" name="datetime">
-                </form>
-                <form class="forms">
-                    <label for="datetimePicker">To:</label>
-                    <input type="datetime-local" id="datetime" name="datetime">
-                </form>
-            </section>
-            
-            -->
-
-            <table border="1">
-                <thead>
-                    <tr>
-                        <th>Song</th>
-                        <th>Artist</th>
-                        <th>Times listened</th>
-                    </tr>
-                </thead>
-                <tbody id="stats-body"></tbody>
-                <!--
-                <tbody>
-                    <tr>
-                        <td>Cookies clicked</td>
-                        <td>Only 1 lol</td>
-                        <td>Today</td>
-                    </tr>
-                    <tr>
-                        <td>RKOs</td>
-                        <td>30</td>
-                        <td>Yesterday</td>
-                    </tr>
-                    <tr>
-                        <td>Adding cols</td>
-                        <td>idfk</td>
-                        <td>lmao</td>
-                    </tr>
-                </tbody>
-                -->
-            </table>
         </section>
+
+        <section id="dashboard" class="view" style="display:none;">
+            <p>You are in the dashboard view now</p>
+        </section>
+
+        <section id="reports" class="view" style="display:none;">
+            <nav>
+                <button onclick="showReportView('overall')">Overall View</button>
+                <button onclick="showReportView('today')">Songs Listened to in order</button>
+              </nav>
+            
+              <!-- Overall View Container -->
+              <div id="overall-view" class="report-view">
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <th>Song</th>
+                            <th>Artist</th>
+                            <th>Times listened</th>
+                        </tr>
+                    </thead>
+                    <tbody id="stats-body"></tbody>
+                </table>
+              </div>
+            
+              <!-- Songs Listened to Today View Container -->
+              <div id="today-view" class="report-view" style="display: none;">
+                
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <th>Song</th>
+                            <th>Artist</th>
+                            <th>Listen date</th>
+                        </tr>
+                    </thead>
+                    <tbody id="stats-body-ind"></tbody>
+                </table>
+              </div>
+        </section>
+
+        <section id="settings" class="view" style="display:none;">
+            <p>Lol there aint no settings here, get yo ass out of here boi</p>
+        </section>
+            
     </main>
 
     <footer>
