@@ -27,7 +27,7 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Billie Eilish",
         "track_name": "everything i wanted",
-        "count": 13
+        "count": 14
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -1615,6 +1615,12 @@
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Dermot Kennedy",
+        "track_name": "What Have I Done",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Conan Gray",
         "track_name": "Family Line",
         "count": 1
@@ -3177,6 +3183,12 @@
         "user_id": "11102572930",
         "artist_name": "nano.RIPE",
         "track_name": "\u30e9\u30b9\u30c8\u30c1\u30e3\u30d7\u30bf\u30fc",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "NF",
+        "track_name": "Leave Me Alone",
         "count": 1
     },
     {
@@ -5139,6 +5151,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Connect-R",
         "track_name": "Da-te-n dragostea mea",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "NF",
+        "track_name": "Time",
         "count": 1
     },
     {
