@@ -109,6 +109,12 @@
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Bad Meets Evil",
+        "track_name": "Lighters",
+        "count": 6
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Nothing But Thieves",
         "track_name": "Oh No :: He Said What?",
         "count": 6
@@ -153,12 +159,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Chrissy Costanza",
         "track_name": "Perfect Crime",
-        "count": 5
-    },
-    {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Bad Meets Evil",
-        "track_name": "Lighters",
         "count": 5
     },
     {
@@ -213,6 +213,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "The Jungle Giants",
         "track_name": "Used to Be in Love",
+        "count": 4
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Chrissy Costanza",
+        "track_name": "But, What If I Fly?",
         "count": 4
     },
     {
@@ -309,12 +315,6 @@
         "user_id": "11102572930",
         "artist_name": "\u718a\u5ddd\u307f\u3086",
         "track_name": "Blue Bird",
-        "count": 3
-    },
-    {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Chrissy Costanza",
-        "track_name": "But, What If I Fly?",
         "count": 3
     },
     {
@@ -498,6 +498,12 @@
         "count": 2
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Pierce The Veil",
+        "track_name": "King For A Day",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "Mikokichi",
         "track_name": "Radio Noise (feat. Ado)",
@@ -651,6 +657,12 @@
         "user_id": "11102572930",
         "artist_name": "ZUTOMAYO",
         "track_name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
+        "count": 2
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "B.o.B",
+        "track_name": "Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)",
         "count": 2
     },
     {
@@ -1959,12 +1971,6 @@
         "user_id": "11102572930",
         "artist_name": "NANO",
         "track_name": "No pain, No game",
-        "count": 1
-    },
-    {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Pierce The Veil",
-        "track_name": "King For A Day",
         "count": 1
     },
     {
