@@ -745,6 +745,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "FLOW",
+        "track_name": "Howling",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Mikokichi",
         "track_name": "Radio Noise (feat. Ado)",
         "count": 2
@@ -900,6 +906,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "\u30dd\u30ea\u30b9\u30d4\u30ab\u30c7\u30ea\u30fc",
+        "track_name": "\u4e0d\u57d2\u306a\u559d\u91c7",
+        "count": 2
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Gustav Mahler",
         "track_name": "Symphony No. 2 In C Minor - \"Resurrection\" / 1st Movement - Allegro maestoso (Totenfeier): Allegro maestoso",
@@ -993,6 +1005,12 @@
         "user_id": "11102572930",
         "artist_name": "\u9808\u7530\u666f\u51ea",
         "track_name": "\u30e9\u30d6\u30b7\u30c3\u30af",
+        "count": 2
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "HIIT BPM",
+        "track_name": "Bring Sally Up - Workout",
         "count": 2
     },
     {
@@ -1335,6 +1353,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "The Script",
         "track_name": "For the First Time",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "biz",
+        "track_name": "TOKYO CANNIBALISM (feat. Ado)",
         "count": 2
     },
     {
@@ -1987,6 +2011,12 @@
     },
     {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Fatboy Slim",
+        "track_name": "The Rockafeller Skank - Short Edit",
+        "count": 1
+    },
+    {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Nine Inch Nails",
         "track_name": "Survivalism",
         "count": 1
@@ -2274,6 +2304,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Lord Huron",
+        "track_name": "The Night We Met",
+        "count": 1
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Klavdia Petrivna",
         "track_name": "\u0417\u043d\u0430\u0439\u0434\u0438 \u043c\u0435\u043d\u0435 (KAVA remix)",
@@ -2401,6 +2437,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "LiSA",
+        "track_name": "\u708e",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "FLOW",
         "track_name": "7-seven-",
         "count": 1
@@ -2478,6 +2520,12 @@
         "count": 1
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "CHiCO",
+        "track_name": "\u30a8\u30fc\u30b9",
+        "count": 1
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "H\u00e9ctor Lavoe",
         "track_name": "Introducci\u00f3n",
@@ -2550,6 +2598,12 @@
         "count": 1
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "kobasolo",
+        "track_name": "Haru ni yuraredo kimi omou (feat. Kopi)",
+        "count": 1
+    },
+    {
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "Freddie Dredd",
         "track_name": "Abuse",
@@ -2613,6 +2667,12 @@
         "user_id": "11102572930",
         "artist_name": "milet",
         "track_name": "Hey Song",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "THE BINARY",
+        "track_name": "\u82b1\u306b\u96e8\u3092\u3001\u541b\u306b\u6b4c\u3092",
         "count": 1
     },
     {
@@ -2755,6 +2815,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Mrs. GREEN APPLE",
+        "track_name": "Magic",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Tsukuyomi",
         "track_name": "Blue",
         "count": 1
@@ -2799,6 +2865,12 @@
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "Bleachers",
         "track_name": "I Wanna Get Better",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Ed Sheeran",
+        "track_name": "Eyes Closed - Piano Version",
         "count": 1
     },
     {
@@ -3093,6 +3165,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Dinah Washington",
         "track_name": "Mad About The Boy",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Myka, Relocate",
+        "track_name": "Only Steps Away",
         "count": 1
     },
     {
@@ -3727,6 +3805,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "yanaginagi",
+        "track_name": "LEVEL",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Myuk",
         "track_name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3088",
         "count": 1
@@ -3846,6 +3930,12 @@
         "count": 1
     },
     {
+        "user_id": "21r743lbsas2y2hbpqx5fp2ti",
+        "artist_name": "HIIT BPM",
+        "track_name": "Bring Sally Up - Workout",
+        "count": 1
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Nothing But Thieves",
         "track_name": "Overcome",
@@ -3891,6 +3981,12 @@
         "user_id": "11102572930",
         "artist_name": "Mili",
         "track_name": "world.execute (me) ;",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Wake Up, May'n!",
+        "track_name": "One In A Billion",
         "count": 1
     },
     {
@@ -4170,6 +4266,12 @@
         "count": 1
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "coldrain",
+        "track_name": "MAYDAY (feat. Ryo from Crystal Lake)",
+        "count": 1
+    },
+    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Blind Channel",
         "track_name": "Wolfpack",
@@ -4368,6 +4470,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Dermot Kennedy",
+        "track_name": "Power Over Me",
+        "count": 1
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Anton\u00edn Dvo\u0159\u00e1k",
         "track_name": "Serenade for Strings in E Major, Op. 22, B. 52: I. Moderato",
@@ -4425,6 +4533,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Spiritbox",
         "track_name": "Circle With Me",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "PVRIS",
+        "track_name": "Dead Weight",
         "count": 1
     },
     {
@@ -4641,6 +4755,12 @@
         "user_id": "11102572930",
         "artist_name": "LiSA",
         "track_name": "unlasting",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Sasha Alex Sloan",
+        "track_name": "I Blame The World",
         "count": 1
     },
     {
@@ -4873,6 +4993,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Myuk",
+        "track_name": "\u611b\u306e\u5504",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "\u897f\u6ca2\u5e78\u594f",
         "track_name": "Brand-new World",
         "count": 1
@@ -4911,6 +5037,12 @@
         "user_id": "11102572930",
         "artist_name": "\u6c34\u69fd",
         "track_name": "p.h. - cover",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Screamin' Jay Hawkins",
+        "track_name": "I Put a Spell On You",
         "count": 1
     },
     {
@@ -5199,6 +5331,12 @@
         "user_id": "11102572930",
         "artist_name": "ZUTOMAYO",
         "track_name": "\u79d2\u91dd\u3092\u565b\u3080",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "SPYAIR",
+        "track_name": "RAGE OF DUST",
         "count": 1
     },
     {
@@ -6330,6 +6468,12 @@
         "count": 1
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "TUYU",
+        "track_name": "Trapped in the past",
+        "count": 1
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
         "track_name": "Haydar Haydar",
@@ -6525,6 +6669,12 @@
         "user_id": "11102572930",
         "artist_name": "emon(Tes.)",
         "track_name": "\u3069\u308a\u30fc\u307f\u3093\u30c1\u30e5\u30c1\u30e5 (feat. \u5de1\u97f3\u30eb\u30ab&\u521d\u97f3\u30df\u30af)",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "ZUTOMAYO",
+        "track_name": "\u5618\u3058\u3083\u306a\u3044",
         "count": 1
     },
     {
@@ -7773,6 +7923,12 @@
         "user_id": "11102572930",
         "artist_name": "\u548c\u306c\u304b",
         "track_name": "\u5bc4\u308a\u9154\u3044",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "YOASOBI",
+        "track_name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
         "count": 1
     },
     {
