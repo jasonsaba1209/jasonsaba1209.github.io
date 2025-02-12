@@ -469,6 +469,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "HoneyWorks",
+        "track_name": "Sukichuuno! (feat. capi)",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Kenshi Yonezu",
         "track_name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3 - Peace Sign",
         "count": 3
@@ -507,6 +513,12 @@
         "user_id": "1177164531",
         "artist_name": "Maurice Ravel",
         "track_name": "Le tombeau de Couperin (version for orchestra): No. 3. Menuet",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "SILENT SIREN",
+        "track_name": "\u30c1\u30a7\u30ea\u30dc\u30e0",
         "count": 3
     },
     {
@@ -697,6 +709,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Sangatsu no Phantasia",
+        "track_name": "\u82b1\u51b7\u5217\u8eca",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "\u7f8e\u6ce2",
         "track_name": "\u30a2\u30e1\u30f2\u30de\u30c4\u3001",
         "count": 2
@@ -765,6 +783,12 @@
         "user_id": "11102572930",
         "artist_name": "*Luna",
         "track_name": "Black out - MOKKAI Remix",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u7f8e\u6ce2",
+        "track_name": "\u30db\u30ed\u30cd\u30b9",
         "count": 2
     },
     {
@@ -1351,12 +1375,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "HoneyWorks",
-        "track_name": "Sukichuuno! (feat. capi)",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "\u7a32\u8449\u66c7",
         "track_name": "Lost Umbrella",
         "count": 2
@@ -1383,6 +1401,18 @@
         "user_id": "11102572930",
         "artist_name": "\u53ef\u4e0d",
         "track_name": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30de\u30ad\u30b7\u30de\u30a4\u30b6\u30fc",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Eli Sougetsu",
+        "track_name": "Aoi Chou",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Kyo Hanabasami",
+        "track_name": "Behavior",
         "count": 2
     },
     {
@@ -1431,6 +1461,12 @@
         "user_id": "11102572930",
         "artist_name": "15\u624d",
         "track_name": "Let's play Losing Battle",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "DAZBEE",
+        "track_name": "\u6625\u3092\u544a\u3052\u308b",
         "count": 2
     },
     {
@@ -1491,6 +1527,12 @@
         "user_id": "1177164531",
         "artist_name": "Jean Sibelius",
         "track_name": "6 Impromptus, Op. 5: Impromptu No. 5 in B Minor",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "MY FIRST STORY",
+        "track_name": "1,000,000 TIMES feat. chelly (EGOIST)",
         "count": 2
     },
     {
@@ -1575,6 +1617,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "NF",
         "track_name": "Mansion",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Mino",
+        "track_name": "YuuYuu DISCO",
         "count": 2
     },
     {
@@ -1783,6 +1831,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Mika Kobayashi",
+        "track_name": "\u5d29\u58ca\u4e16\u754c\u306e\u6b4c\u59eb",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "fh\u00e1na",
         "track_name": "Love Supreme!",
         "count": 2
@@ -1839,6 +1893,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "The Red Jumpsuit Apparatus",
         "track_name": "Face Down",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "ONE OK ROCK",
+        "track_name": "Stand Out Fit In",
         "count": 2
     },
     {
@@ -1917,12 +1977,6 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Ty Dolla $ign",
         "track_name": "Spicy (feat. Post Malone)",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "SILENT SIREN",
-        "track_name": "\u30c1\u30a7\u30ea\u30dc\u30e0",
         "count": 2
     },
     {
@@ -2113,6 +2167,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Sangatsu no Phantasia",
+        "track_name": "\u50d5\u3089\u306e\u5e78\u798f\u8ad6",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Ryokuoushoku Shakai",
         "track_name": "Mela!",
         "count": 2
@@ -2169,6 +2229,12 @@
         "user_id": "11102572930",
         "artist_name": "LiSA",
         "track_name": "ADAMAS",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "38-ban",
+        "track_name": "Milk Crown On Sonnetica",
         "count": 2
     },
     {
@@ -2280,6 +2346,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "MYTH & ROID",
+        "track_name": "VORACITY",
+        "count": 2
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Maurice Ravel",
         "track_name": "Ravel: Prelude in A Minor, M. 65",
@@ -2331,6 +2403,12 @@
         "user_id": "11102572930",
         "artist_name": "asmi",
         "track_name": "PAKU",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Aoi Teshima",
+        "track_name": "Mori no chiisana restaurant",
         "count": 2
     },
     {
@@ -2862,12 +2940,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Sangatsu no Phantasia",
-        "track_name": "\u82b1\u51b7\u5217\u8eca",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "London Grammar",
         "track_name": "Sights",
@@ -3075,12 +3147,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Therion",
         "track_name": "Lemuria",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u7f8e\u6ce2",
-        "track_name": "\u30db\u30ed\u30cd\u30b9",
         "count": 1
     },
     {
@@ -4909,20 +4975,8 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Eli Sougetsu",
-        "track_name": "Aoi Chou",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "THE ORAL CIGARETTES",
         "track_name": "Kyouran Hey Kids!!",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Kyo Hanabasami",
-        "track_name": "Behavior",
         "count": 1
     },
     {
@@ -5097,12 +5151,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Kanye West",
         "track_name": "Closed On Sunday",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "DAZBEE",
-        "track_name": "\u6625\u3092\u544a\u3052\u308b",
         "count": 1
     },
     {
@@ -5394,12 +5442,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "MY FIRST STORY",
-        "track_name": "1,000,000 TIMES feat. chelly (EGOIST)",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Claude Debussy",
         "track_name": "Suite bergamasque, L. 75: III. Clair de lune",
@@ -5529,12 +5571,6 @@
         "user_id": "1177164531",
         "artist_name": "Kolkheti",
         "track_name": "Vazkatsis Datireba (Mournful Ceremony)",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Mino",
-        "track_name": "YuuYuu DISCO",
         "count": 1
     },
     {
@@ -6127,12 +6163,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Mika Kobayashi",
-        "track_name": "\u5d29\u58ca\u4e16\u754c\u306e\u6b4c\u59eb",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "HACHI",
         "track_name": "Deep Sleep Sheep",
         "count": 1
@@ -6441,12 +6471,6 @@
         "user_id": "11102572930",
         "artist_name": "AliA",
         "track_name": "impulse",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "ONE OK ROCK",
-        "track_name": "Stand Out Fit In",
         "count": 1
     },
     {
@@ -7506,12 +7530,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Sangatsu no Phantasia",
-        "track_name": "\u50d5\u3089\u306e\u5e78\u798f\u8ad6",
-        "count": 1
-    },
-    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "The Chords",
         "track_name": "Sh-Boom",
@@ -7725,12 +7743,6 @@
         "user_id": "11102572930",
         "artist_name": "natori",
         "track_name": "\u30a8\u30a6\u30ec\u30ab",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "38-ban",
-        "track_name": "Milk Crown On Sonnetica",
         "count": 1
     },
     {
@@ -7965,12 +7977,6 @@
         "user_id": "11102572930",
         "artist_name": "AliA",
         "track_name": "Starry Sky And Your Song",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "MYTH & ROID",
-        "track_name": "VORACITY",
         "count": 1
     },
     {
@@ -8283,12 +8289,6 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Kendrick Lamar",
         "track_name": "euphoria",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Aoi Teshima",
-        "track_name": "Mori no chiisana restaurant",
         "count": 1
     },
     {
