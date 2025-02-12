@@ -138,6 +138,12 @@
         "count": 6
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "MAN WITH A MISSION",
+        "track_name": "\u7d46\u30ce\u5947\u8de1",
+        "count": 6
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Shinedown",
         "track_name": "How Did You Love",
@@ -270,9 +276,9 @@
         "count": 4
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "MAN WITH A MISSION",
-        "track_name": "\u7d46\u30ce\u5947\u8de1",
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): The Nativity of Christ: Nativity Song",
         "count": 4
     },
     {
@@ -375,6 +381,12 @@
         "user_id": "1177164531",
         "artist_name": "Aram Khachaturian",
         "track_name": "Masquerade Suite: Romance",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Tatsuya Kitani",
+        "track_name": "\u6708\u5149",
         "count": 3
     },
     {
@@ -498,6 +510,12 @@
         "count": 3
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "Rokudenashi",
+        "track_name": "Good-bye, See You Tomorrow",
+        "count": 3
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Jean Sibelius",
         "track_name": "Valse triste, Op. 44 No. 1",
@@ -507,6 +525,12 @@
         "user_id": "11102572930",
         "artist_name": "Sayuri",
         "track_name": "\u30ec\u30a4\u30e1\u30a4",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "LiSA",
+        "track_name": "\u30b8\u30a7\u30c3\u30c8\u30ed\u30b1\u30c3\u30c8",
         "count": 3
     },
     {
@@ -606,6 +630,12 @@
         "count": 2
     },
     {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): From the Old Testament: Song of Purification",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "\u7f8e\u6ce2",
         "track_name": "\u30a2\u30e1\u30f2\u30de\u30c4\u3001",
@@ -621,6 +651,12 @@
         "user_id": "11102572930",
         "artist_name": "DECO*27",
         "track_name": "DSCF",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): Christ's Life on Earth: Judas' Betrayal",
         "count": 2
     },
     {
@@ -721,12 +757,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Tatsuya Kitani",
-        "track_name": "\u6708\u5149",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "DIGNITY",
         "count": 2
@@ -741,6 +771,12 @@
         "user_id": "11102572930",
         "artist_name": "\u4e00\u4e8c\u4e09",
         "track_name": "\u731b\u72ec\u304c\u8972\u3046",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Giga",
+        "track_name": "Ready Steady (feat. Hatsune Miku, Kagamine Rin, Kagamine Len)",
         "count": 2
     },
     {
@@ -798,6 +834,12 @@
         "count": 2
     },
     {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): From the Old Testament: The King of Glory",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "TRUE",
         "track_name": "Sincerely",
@@ -837,6 +879,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Mr. Juve",
         "track_name": "Nebunia Lui Juvel",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): After the Resurrection: Behold the bridegroom comes",
         "count": 2
     },
     {
@@ -906,6 +954,18 @@
         "count": 2
     },
     {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): From the Old Testament: The Earth is the Lord's",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "amazarashi",
+        "track_name": "\u5b63\u7bc0\u306f\u6b21\u3005\u6b7b\u3093\u3067\u3044\u304f -\u6771\u4eac\u55b0\u7a2e\u30c8\u30fc\u30ad\u30e7\u30fc\u30b0\u30fc\u30eb\u221aA\u3000Edit-",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "Kanaria",
         "track_name": "Requiem (feat. Hoshimachi Suisei)",
@@ -921,6 +981,12 @@
         "user_id": "11102572930",
         "artist_name": "Kairikibear",
         "track_name": "\u30d9\u30ce\u30e0",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Nanahoshi Orchestra",
+        "track_name": "weigh anchor",
         "count": 2
     },
     {
@@ -954,6 +1020,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "SawanoHiroyuki[nZk]",
+        "track_name": "Avid",
+        "count": 2
+    },
+    {
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "Yxngxr1",
         "track_name": "!!",
@@ -967,6 +1039,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "natori",
+        "track_name": "Overdose",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Hoshimachi Suisei",
         "track_name": "Wicked feat. Mori Calliope",
         "count": 2
@@ -975,6 +1053,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Jon Bellion",
         "track_name": "Guillotine",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): Introduction: Holy God",
         "count": 2
     },
     {
@@ -1011,6 +1095,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Against The Current",
         "track_name": "jump",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Sayuri",
+        "track_name": "\u9178\u6b20\u5c11\u5973",
         "count": 2
     },
     {
@@ -1053,6 +1143,12 @@
         "user_id": "11102572930",
         "artist_name": "ZUTOMAYO",
         "track_name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "BURNOUT SYNDROMES",
+        "track_name": "\u9280\u4e16\u754c",
         "count": 2
     },
     {
@@ -1140,6 +1236,12 @@
         "count": 2
     },
     {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): The Nativity of Christ: Glory to the most Holy Trinity",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "HoneyWorks",
         "track_name": "Sukichuuno! (feat. capi)",
@@ -1155,6 +1257,12 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "The Divine Comedy",
         "track_name": "Bad Ambassador",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "DECO*27",
+        "track_name": "\u30d2\u30d0\u30ca -Reloaded-",
         "count": 2
     },
     {
@@ -1209,6 +1317,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Ed Sheeran",
         "track_name": "I'm a Mess",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): Christ's Life on Earth: Lord, stir up your strength",
         "count": 2
     },
     {
@@ -1338,6 +1452,12 @@
         "count": 2
     },
     {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): Christ's Life on Earth: Glory and Alleluia",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "Tatsuya Kitani",
         "track_name": "\u5316\u3051\u732b",
@@ -1435,8 +1555,20 @@
     },
     {
         "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): Introduction: O Lord, save the pious",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
         "artist_name": "Dmitri Shostakovich",
         "track_name": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): The Nativity of Christ: It is meet",
         "count": 2
     },
     {
@@ -1449,6 +1581,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "YNY Sebi",
         "track_name": "Lamborghini",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): Christ's Life on Earth: The Last Supper",
         "count": 2
     },
     {
@@ -1549,6 +1687,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Kashitaro Ito",
+        "track_name": "\u5915\u7acb\u306e\u308a\u307c\u3093",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Where the Wind Blows",
         "count": 2
@@ -1581,6 +1725,18 @@
         "user_id": "11102572930",
         "artist_name": "ONE OK ROCK",
         "track_name": "We Are",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): Christ's Life on Earth: Inexpressible Wonder",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): The Nativity of Christ: Come, let us worship",
         "count": 2
     },
     {
@@ -1735,6 +1891,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "\u3046\u3063\u305b\u3047\u308f",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "jon-YAKITORY",
         "track_name": "Eat (feat. Ado)",
         "count": 2
@@ -1773,6 +1935,18 @@
         "user_id": "11102572930",
         "artist_name": "AliA",
         "track_name": "limit",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "meiyo",
+        "track_name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044 feat.asmi",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u7d42\u96fb\u9593\u969b\u2266\u30aa\u30f3\u30e9\u30a4\u30f3\u3002",
+        "track_name": "Bad Day,Good-Bye.",
         "count": 2
     },
     {
@@ -1842,6 +2016,12 @@
         "count": 2
     },
     {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): Christ's Life on Earth: Entreaty to the apostle St. John the Theologian",
+        "count": 2
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "NF",
         "track_name": "Intro III",
@@ -1857,12 +2037,6 @@
         "user_id": "1177164531",
         "artist_name": "Edvard Grieg",
         "track_name": "Peer Gynt Suite No. 1, Op. 46: II. The Death of Aase",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Rokudenashi",
-        "track_name": "Good-bye, See You Tomorrow",
         "count": 2
     },
     {
@@ -1923,6 +2097,12 @@
         "user_id": "11102572930",
         "artist_name": "Mili",
         "track_name": "Rightfully (TV Animation Goblin Slayer opening)",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Georgy Sviridov",
+        "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): The Nativity of Christ: Having beheld a strange nativity",
         "count": 2
     },
     {
@@ -2019,12 +2199,6 @@
         "user_id": "1177164531",
         "artist_name": "Johannes Brahms",
         "track_name": "16 Waltzes, Op. 39: No. 15 In A Flat Major",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "LiSA",
-        "track_name": "\u30b8\u30a7\u30c3\u30c8\u30ed\u30b1\u30c3\u30c8",
         "count": 2
     },
     {
@@ -2214,6 +2388,12 @@
         "count": 1
     },
     {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Shpongle",
+        "track_name": "Remember the Future",
+        "count": 1
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Kolkheti",
         "track_name": "Simhera Gazapkhulze (Spring Song)",
@@ -2397,6 +2577,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "\u6c34\u69fd",
         "track_name": "29\u6642\u306f\u30d3\u30d3\u30c3\u30c9",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "SPYAIR",
+        "track_name": "\u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3",
         "count": 1
     },
     {
@@ -2940,6 +3126,12 @@
         "count": 1
     },
     {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "System Of A Down",
+        "track_name": "Forest",
+        "count": 1
+    },
+    {
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "Bleachers",
         "track_name": "I Wanna Get Better",
@@ -3216,6 +3408,12 @@
         "count": 1
     },
     {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Shpongle",
+        "track_name": "Celestial Intoxication",
+        "count": 1
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Broadside",
         "track_name": "Foolish Believer",
@@ -3438,6 +3636,12 @@
         "count": 1
     },
     {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "TISM",
+        "track_name": "(He'll Never Be An) Ol' Man River",
+        "count": 1
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Edward Elgar",
         "track_name": "Enigma Variations, Op. 36: Theme. Andante",
@@ -3534,12 +3738,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "amazarashi",
-        "track_name": "\u5b63\u7bc0\u306f\u6b21\u3005\u6b7b\u3093\u3067\u3044\u304f -\u6771\u4eac\u55b0\u7a2e\u30c8\u30fc\u30ad\u30e7\u30fc\u30b0\u30fc\u30eb\u221aA\u3000Edit-",
-        "count": 1
-    },
-    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "The Living End",
         "track_name": "Carry Me Home",
@@ -3606,6 +3804,12 @@
         "count": 1
     },
     {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "BBou",
+        "track_name": "Aboumoudou",
+        "count": 1
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "AliA",
         "track_name": "Aikotoba",
@@ -3621,12 +3825,6 @@
         "user_id": "11102572930",
         "artist_name": "LiSA",
         "track_name": "\u30de\u30b3\u30c8\u30b7\u30e4\u30ab",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Nanahoshi Orchestra",
-        "track_name": "weigh anchor",
         "count": 1
     },
     {
@@ -3723,12 +3921,6 @@
         "user_id": "11102572930",
         "artist_name": "RADWIMPS",
         "track_name": "Zenzenzense - movie ver.",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "natori",
-        "track_name": "Overdose",
         "count": 1
     },
     {
@@ -3918,12 +4110,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Sayuri",
-        "track_name": "\u9178\u6b20\u5c11\u5973",
-        "count": 1
-    },
-    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Krewella",
         "track_name": "Alive",
@@ -4035,12 +4221,6 @@
         "user_id": "11102572930",
         "artist_name": "25\u6642\u3001\u30ca\u30a4\u30c8\u30b3\u30fc\u30c9\u3067\u3002",
         "track_name": "\u30b8\u30e3\u30c3\u30af\u30dd\u30c3\u30c8\u30b5\u30c3\u30c9\u30ac\u30fc\u30eb (feat. \u5bb5\u5d0e\u594f&\u671d\u6bd4\u5948\u307e\u3075\u3086&\u6771\u96f2\u7d75\u540d&\u6681\u5c71\u745e\u5e0c&\u521d\u97f3\u30df\u30af)",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "BURNOUT SYNDROMES",
-        "track_name": "\u9280\u4e16\u754c",
         "count": 1
     },
     {
@@ -4434,12 +4614,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "DECO*27",
-        "track_name": "\u30d2\u30d0\u30ca -Reloaded-",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "London Grammar",
         "track_name": "Metal & Dust",
@@ -4620,6 +4794,12 @@
         "count": 1
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "KANA-BOON",
+        "track_name": "\u30bd\u30f3\u30b0\u30aa\u30d6\u30b6\u30c7\u30c3\u30c9",
+        "count": 1
+    },
+    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "The Alchemist",
         "track_name": "Collage Pt. 1: Sunrise",
@@ -4785,6 +4965,12 @@
         "user_id": "11102572930",
         "artist_name": "*Luna",
         "track_name": "8.32",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
+        "track_name": "\u90fd\u843d\u3061",
         "count": 1
     },
     {
@@ -6024,12 +6210,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Kashitaro Ito",
-        "track_name": "\u5915\u7acb\u306e\u308a\u307c\u3093",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Dmitri Shostakovich",
         "track_name": "Sophia Perovskaya, Op. 132: Waltz - Music from the Film",
@@ -6408,6 +6588,12 @@
         "count": 1
     },
     {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Shpongle",
+        "track_name": "Hammock Therapy",
+        "count": 1
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "yama",
         "track_name": "Haru wo Tsugeru",
@@ -6429,6 +6615,12 @@
         "user_id": "11102572930",
         "artist_name": "ONE OK ROCK",
         "track_name": "Cry Out",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Gen Hoshino",
+        "track_name": "Comedy",
         "count": 1
     },
     {
@@ -6637,6 +6829,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "H\u25b3G",
+        "track_name": "Colorful",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Asaka",
         "track_name": "SHINY DAYS",
         "count": 1
@@ -6669,6 +6867,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Ed Sheeran",
         "track_name": "Bloodstream",
+        "count": 1
+    },
+    {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Tomahawk",
+        "track_name": "Capt Midnight",
         "count": 1
     },
     {
@@ -7029,12 +7233,6 @@
         "user_id": "11102572930",
         "artist_name": "\u7d42\u96fb\u9593\u969b\u2266\u30aa\u30f3\u30e9\u30a4\u30f3\u3002",
         "track_name": "\u306a\u308a\u305f\u3044\u308f - feat.\u00d7",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "\u3046\u3063\u305b\u3047\u308f",
         "count": 1
     },
     {
@@ -7857,6 +8055,12 @@
         "user_id": "1177164531",
         "artist_name": "Kolkheti",
         "track_name": "Mtiuluri Namgerebi (Mtiul Mountaineer Tune)",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "BLUE ENCOUNT",
+        "track_name": "Survivor",
         "count": 1
     },
     {
