@@ -3,7 +3,7 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Dermot Kennedy",
         "track_name": "Without Fear",
-        "count": 26
+        "count": 30
     },
     {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
@@ -21,18 +21,24 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Arcane",
         "track_name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-        "count": 14
+        "count": 15
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Billie Eilish",
         "track_name": "everything i wanted",
-        "count": 14
+        "count": 15
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "The Lumineers",
         "track_name": "Same Old Song",
+        "count": 12
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "AnnenMayKantereit",
+        "track_name": "Tom's Diner",
         "count": 11
     },
     {
@@ -42,15 +48,27 @@
         "count": 10
     },
     {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "AnnenMayKantereit",
-        "track_name": "Tom's Diner",
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Lucid Planet",
+        "track_name": "Listen",
+        "count": 10
+    },
+    {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Lucid Planet",
+        "track_name": "Grey Feet",
         "count": 9
     },
     {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Bad Bunny",
         "track_name": "VOY A LLeVARTE PA PR",
+        "count": 9
+    },
+    {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Lucid Planet",
+        "track_name": "Apparatus",
         "count": 9
     },
     {
@@ -62,7 +80,25 @@
     {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Lucid Planet",
-        "track_name": "Grey Feet",
+        "track_name": "Kairos",
+        "count": 8
+    },
+    {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Lucid Planet",
+        "track_name": "Beneath Me",
+        "count": 8
+    },
+    {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Lucid Planet",
+        "track_name": "Requiem",
+        "count": 7
+    },
+    {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Lucid Planet",
+        "track_name": "Olm 053",
         "count": 7
     },
     {
@@ -84,21 +120,21 @@
         "count": 7
     },
     {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Lucid Planet",
+        "track_name": "This Side of the Yawning Grave",
+        "count": 6
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Eminem",
+        "track_name": "25 To Life",
+        "count": 6
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Aram Khachaturian",
         "track_name": "Masquerade Suite: Nocturne",
-        "count": 6
-    },
-    {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Lucid Planet",
-        "track_name": "Kairos",
-        "count": 6
-    },
-    {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Lucid Planet",
-        "track_name": "Listen",
         "count": 6
     },
     {
@@ -138,12 +174,6 @@
         "count": 6
     },
     {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Lucid Planet",
-        "track_name": "Apparatus",
-        "count": 6
-    },
-    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Nothing But Thieves",
         "track_name": "Oh No :: He Said What?",
@@ -154,18 +184,6 @@
         "artist_name": "NF",
         "track_name": "Outro",
         "count": 6
-    },
-    {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Eminem",
-        "track_name": "25 To Life",
-        "count": 5
-    },
-    {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Lucid Planet",
-        "track_name": "Olm 053",
-        "count": 5
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -192,9 +210,9 @@
         "count": 5
     },
     {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Lucid Planet",
-        "track_name": "This Side of the Yawning Grave",
+        "user_id": "11102572930",
+        "artist_name": "Toiki",
+        "track_name": "ANEMONE (feat. Ado)",
         "count": 4
     },
     {
@@ -276,12 +294,6 @@
         "count": 4
     },
     {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Lucid Planet",
-        "track_name": "Beneath Me",
-        "count": 4
-    },
-    {
         "user_id": "11102572930",
         "artist_name": "ano",
         "track_name": "\u7d76\u7d76\u7d76\u7d76\u5bfe\u8056\u57df",
@@ -307,6 +319,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "mona\uff08CV\uff1a\u590f\u5ddd\u690e\u83dc\uff09",
+        "track_name": "\u30d5\u30a1\u30f3\u30b5",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "MIMiNARI",
         "track_name": "\u3042\u3053\u304c\u308c",
         "count": 4
@@ -321,6 +339,12 @@
         "user_id": "11102572930",
         "artist_name": "GEMN",
         "track_name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "SawanoHiroyuki[nZk]",
+        "track_name": "time",
         "count": 4
     },
     {
@@ -354,9 +378,9 @@
         "count": 3
     },
     {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Lucid Planet",
-        "track_name": "Requiem",
+        "user_id": "11102572930",
+        "artist_name": "ZUTOMAYO",
+        "track_name": "\u4e0d\u6cd5\u4fb5\u5165",
         "count": 3
     },
     {
@@ -403,6 +427,18 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "fh\u00e1na",
+        "track_name": "Rhapsody of Blue Sky",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Kenshi Yonezu",
+        "track_name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3 - Peace Sign",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Mori Calliope",
         "track_name": "\u5931\u793c\u3057\u307e\u3059\u304c\u3001RIP\u2661",
         "count": 3
@@ -432,6 +468,12 @@
         "count": 3
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "milet",
+        "track_name": "Who I Am",
+        "count": 3
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Johannes Brahms",
         "track_name": "21 Hungarian Dances, WoO 1: Hungarian Dance No. 1 in G Minor. Allegro molto (Orch. Brahms)",
@@ -456,12 +498,6 @@
         "count": 3
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Toiki",
-        "track_name": "ANEMONE (feat. Ado)",
-        "count": 2
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Bed\u0159ich Smetana",
         "track_name": "6 Album Leaves, Op. 2, JB 1:51: No. 2 in A Minor, Chanson. Moderato",
@@ -483,6 +519,12 @@
         "user_id": "11102572930",
         "artist_name": "*Luna",
         "track_name": "\u900f\u660e",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "SawanoHiroyuki[nZk]",
+        "track_name": "Unti-L",
         "count": 2
     },
     {
@@ -547,6 +589,18 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "ZUTOMAYO",
+        "track_name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u7f8e\u6ce2",
+        "track_name": "\u30a2\u30e1\u30f2\u30de\u30c4\u3001",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "*Luna",
         "track_name": "\u3042\u306e\u590f\u306e\u3044\u3064\u304b\u306f - 2023 Ver.",
         "count": 2
@@ -555,6 +609,12 @@
         "user_id": "11102572930",
         "artist_name": "DECO*27",
         "track_name": "DSCF",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "PSYQUI",
+        "track_name": "Hysteric night girl -Awakening- (feat. Such)",
         "count": 2
     },
     {
@@ -607,6 +667,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "CIEL",
+        "track_name": "\u7a93\u3092\u958b\u3051\u3066",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "TRUE",
         "track_name": "Reimei",
         "count": 2
@@ -631,6 +697,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Aimer",
+        "track_name": "\u3042\u3066\u3082\u306a\u304f",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "FLOW",
         "track_name": "Sign",
         "count": 2
@@ -643,8 +715,8 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "ZUTOMAYO",
-        "track_name": "\u4e0d\u6cd5\u4fb5\u5165",
+        "artist_name": "Ado",
+        "track_name": "DIGNITY",
         "count": 2
     },
     {
@@ -697,6 +769,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Nezune Mamori",
+        "track_name": "Kiokuno Hoshi",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "SawanoHiroyuki[nZk]",
         "track_name": "A LETTER",
         "count": 2
@@ -705,6 +783,12 @@
         "user_id": "11102572930",
         "artist_name": "TRUE",
         "track_name": "Sincerely",
+        "count": 2
+    },
+    {
+        "user_id": "p5sv079r17y4bi06x4c24h3fe",
+        "artist_name": "Iuly Neamtu",
+        "track_name": "Test Drive",
         "count": 2
     },
     {
@@ -723,6 +807,12 @@
         "user_id": "11102572930",
         "artist_name": "\u85e4\u5ddd\u5343\u611b",
         "track_name": "\u30b4\u30df\u306e\u65e5",
+        "count": 2
+    },
+    {
+        "user_id": "p5sv079r17y4bi06x4c24h3fe",
+        "artist_name": "Mr. Juve",
+        "track_name": "Nebunia Lui Juvel",
         "count": 2
     },
     {
@@ -798,6 +888,12 @@
         "count": 2
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "NF",
+        "track_name": "Thing Called Love",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "Kairikibear",
         "track_name": "\u30d9\u30ce\u30e0",
@@ -813,6 +909,12 @@
         "user_id": "11102572930",
         "artist_name": "\u5409\u4e43",
         "track_name": "ODD NUMBER",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Linked Horizon",
+        "track_name": "Shinzo wo Sasageyo! - TV Size",
         "count": 2
     },
     {
@@ -843,6 +945,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Jon Bellion",
         "track_name": "Guillotine",
+        "count": 2
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Iliona",
+        "track_name": "Une autre vie",
         "count": 2
     },
     {
@@ -885,12 +993,6 @@
         "user_id": "11102572930",
         "artist_name": "\u9808\u7530\u666f\u51ea",
         "track_name": "\u30e9\u30d6\u30b7\u30c3\u30af",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "fh\u00e1na",
-        "track_name": "Rhapsody of Blue Sky",
         "count": 2
     },
     {
@@ -1009,12 +1111,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Kenshi Yonezu",
-        "track_name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3 - Peace Sign",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "\u53ef\u4e0d",
         "track_name": "\u30de\u30fc\u30b7\u30e3\u30eb\u30fb\u30de\u30ad\u30b7\u30de\u30a4\u30b6\u30fc",
         "count": 2
@@ -1029,6 +1125,12 @@
         "user_id": "11102572930",
         "artist_name": "CHiCO with HoneyWorks",
         "track_name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
+        "count": 2
+    },
+    {
+        "user_id": "p5sv079r17y4bi06x4c24h3fe",
+        "artist_name": "Tzanca Uraganu",
+        "track_name": "\u021aiganc\u0103 Balcanic\u0103",
         "count": 2
     },
     {
@@ -1063,8 +1165,20 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u307f\u3086\u306a",
+        "track_name": "\u5929\u4e0a\u5929\u4e0b",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Akane",
         "track_name": "\u5fc3\u505a\u3057",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Alstroemeria Records",
+        "track_name": "Necro Fantasia feat. \u7f8e\u91cc",
         "count": 2
     },
     {
@@ -1171,6 +1285,18 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Tatsuya Kitani",
+        "track_name": "\u5316\u3051\u732b",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "ReoNa",
+        "track_name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "\u30e8\u30eb\u30b7\u30ab",
         "track_name": "\u305f\u3060\u541b\u306b\u6674\u308c",
         "count": 2
@@ -1221,6 +1347,12 @@
         "user_id": "11102572930",
         "artist_name": "jon-YAKITORY",
         "track_name": "Shikabanese (feat. Ado)",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "LiSA",
+        "track_name": "crossing field",
         "count": 2
     },
     {
@@ -1368,6 +1500,12 @@
         "count": 2
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "NF",
+        "track_name": "Let You Down",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "Shin Sakiura",
         "track_name": "NIGHT RUNNING",
@@ -1405,6 +1543,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u767e\u9b3c\u3042\u3084\u3081",
+        "track_name": "\u304b\u308f\u4e16",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "\u7f8e\u6ce2",
         "track_name": "Prologue",
         "count": 2
@@ -1413,6 +1557,18 @@
         "user_id": "11102572930",
         "artist_name": "Raon",
         "track_name": "ECLIPSE",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Tsukuyomi",
+        "track_name": "Mayday",
+        "count": 2
+    },
+    {
+        "user_id": "p5sv079r17y4bi06x4c24h3fe",
+        "artist_name": "Denis Ramniceanu",
+        "track_name": "Merhaba (Stil Turcesc)",
         "count": 2
     },
     {
@@ -1428,15 +1584,15 @@
         "count": 2
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Lilas",
-        "track_name": "\u30b5\u30fc\u30af\u30eb",
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "The Summer Set",
+        "track_name": "Teenagers",
         "count": 2
     },
     {
         "user_id": "11102572930",
-        "artist_name": "milet",
-        "track_name": "Who I Am",
+        "artist_name": "Lilas",
+        "track_name": "\u30b5\u30fc\u30af\u30eb",
         "count": 2
     },
     {
@@ -1452,6 +1608,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "HoneyComeBear",
+        "track_name": "\u30ca\u30c4\u30be\u30e9",
+        "count": 2
+    },
+    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "GloRilla",
         "track_name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
@@ -1464,6 +1626,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "DUSTCELL",
+        "track_name": "NO PAIN",
+        "count": 2
+    },
+    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Shpongle",
         "track_name": "Divine Moments of Truth",
@@ -1471,8 +1639,8 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "mona\uff08CV\uff1a\u590f\u5ddd\u690e\u83dc\uff09",
-        "track_name": "\u30d5\u30a1\u30f3\u30b5",
+        "artist_name": "Nao Toyama",
+        "track_name": "\u7fa4\u9752\u30a4\u30f3\u30d5\u30a3\u30cb\u30c6\u30a3",
         "count": 2
     },
     {
@@ -1525,6 +1693,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "\u591c\u306e\u30d4\u30a8\u30ed - TeddyLoid Remix",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "AliA",
         "track_name": "limit",
         "count": 2
@@ -1545,6 +1719,12 @@
         "user_id": "11102572930",
         "artist_name": "ZYTOKINE",
         "track_name": "Dancing Dollz feat. cold kiss(Nana Takahashi) - REDALiCE Remix",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u96e8\u5bbf\u308a",
+        "track_name": "\u732b\u304b\u3076\u308a",
         "count": 2
     },
     {
@@ -1639,6 +1819,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Rei Yasuda",
+        "track_name": "\u3084\u3055\u3057\u3044\u6c17\u6301\u3061",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "LiSA",
         "track_name": "Catch the Moment",
         "count": 2
@@ -1681,6 +1867,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Hana Hope",
+        "track_name": "flowers",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Rebellion",
         "count": 2
@@ -1707,12 +1899,6 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Iuly Neamtu",
         "track_name": "Sugar Daddy",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "track_name": "time",
         "count": 2
     },
     {
@@ -1855,8 +2041,8 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "track_name": "Unti-L",
+        "artist_name": "Lenny code fiction",
+        "track_name": "Make my story",
         "count": 1
     },
     {
@@ -2094,9 +2280,9 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "ZUTOMAYO",
-        "track_name": "\u30df\u30e9\u30fc\u30c1\u30e5\u30fc\u30f3",
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "\u6c34\u69fd",
+        "track_name": "29\u6642\u306f\u30d3\u30d3\u30c3\u30c9",
         "count": 1
     },
     {
@@ -2155,12 +2341,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "\u7f8e\u6ce2",
-        "track_name": "\u30a2\u30e1\u30f2\u30de\u30c4\u3001",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "TRUE",
         "track_name": "Storyteller",
         "count": 1
@@ -2199,12 +2379,6 @@
         "user_id": "11102572930",
         "artist_name": "SPYAIR",
         "track_name": "\u30b5\u30af\u30e9\u30df\u30c4\u30c4\u30ad",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "PSYQUI",
-        "track_name": "Hysteric night girl -Awakening- (feat. Such)",
         "count": 1
     },
     {
@@ -2400,12 +2574,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "CIEL",
-        "track_name": "\u7a93\u3092\u958b\u3051\u3066",
-        "count": 1
-    },
-    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Goodnight, Texas",
         "track_name": "Hypothermic",
@@ -2421,6 +2589,12 @@
         "user_id": "1177164531",
         "artist_name": "Kolkheti",
         "track_name": "Shavtvala Gogona (Oh girl with black eyes)",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Eminem",
+        "track_name": "Space Bound",
         "count": 1
     },
     {
@@ -2469,12 +2643,6 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Jador",
         "track_name": "Ce te-as impaca",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Aimer",
-        "track_name": "\u3042\u3066\u3082\u306a\u304f",
         "count": 1
     },
     {
@@ -2625,12 +2793,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "conscience",
         "track_name": "Hasty",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "DIGNITY",
         "count": 1
     },
     {
@@ -2808,12 +2970,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Nezune Mamori",
-        "track_name": "Kiokuno Hoshi",
-        "count": 1
-    },
-    {
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "6 Dogs",
         "track_name": "Waffle House Song",
@@ -2934,6 +3090,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Dinah Washington",
+        "track_name": "Mad About The Boy",
+        "count": 1
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "DUSTCELL",
         "track_name": "\u72ec\u767d - \u30ab\u30f3\u30b6\u30ad\u30a4\u30aa\u30ea Remix",
@@ -2985,12 +3147,6 @@
         "user_id": "11102572930",
         "artist_name": "TRUE",
         "track_name": "DelighT",
-        "count": 1
-    },
-    {
-        "user_id": "p5sv079r17y4bi06x4c24h3fe",
-        "artist_name": "Mr. Juve",
-        "track_name": "Nebunia Lui Juvel",
         "count": 1
     },
     {
@@ -3312,12 +3468,6 @@
         "count": 1
     },
     {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "NF",
-        "track_name": "Thing Called Love",
-        "count": 1
-    },
-    {
         "user_id": "11102572930",
         "artist_name": "Nanahoshi Orchestra",
         "track_name": "weigh anchor",
@@ -3357,12 +3507,6 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Blind Channel",
         "track_name": "Timebomb (feat. Alex Mattson)",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Linked Horizon",
-        "track_name": "Shinzo wo Sasageyo! - TV Size",
         "count": 1
     },
     {
@@ -3477,12 +3621,6 @@
         "user_id": "1177164531",
         "artist_name": "Claudio Monteverdi",
         "track_name": "Canzonette d'amore",
-        "count": 1
-    },
-    {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Iliona",
-        "track_name": "Une autre vie",
         "count": 1
     },
     {
@@ -3738,6 +3876,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Picture This",
+        "track_name": "Saviour",
+        "count": 1
+    },
+    {
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "A$AP Rocky",
         "track_name": "Sundress",
@@ -3909,6 +4053,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Linkin Park",
         "track_name": "Numb",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Sayuri",
+        "track_name": "\u5341\u5104\u5e74",
         "count": 1
     },
     {
@@ -4206,6 +4356,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "M\u00d8",
+        "track_name": "Bad Mood",
+        "count": 1
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "hololive IDOL PROJECT",
         "track_name": "BLUE CLAPPER - Bouquet ver.",
@@ -4417,12 +4573,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "\u307f\u3086\u306a",
-        "track_name": "\u5929\u4e0a\u5929\u4e0b",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "*Luna",
         "track_name": "\u5192\u967a\u306e\u66f8",
         "count": 1
@@ -4455,12 +4605,6 @@
         "user_id": "11102572930",
         "artist_name": "amehurashi",
         "track_name": "Kimi Sketch",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Alstroemeria Records",
-        "track_name": "Necro Fantasia feat. \u7f8e\u91cc",
         "count": 1
     },
     {
@@ -4509,6 +4653,12 @@
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "Max Raabe",
         "track_name": "Ich bin nur gut, wenn keiner guckt",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Dermot Kennedy",
+        "track_name": "Outgrown",
         "count": 1
     },
     {
@@ -4759,20 +4909,8 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Tatsuya Kitani",
-        "track_name": "\u5316\u3051\u732b",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "\u6c34\u69fd",
         "track_name": "p.h. - cover",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "ReoNa",
-        "track_name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f",
         "count": 1
     },
     {
@@ -4830,6 +4968,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Benson Boone",
+        "track_name": "Beautiful Things",
+        "count": 1
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "\u7530\u6240\u3042\u305a\u3055",
         "track_name": "DEAREST DROP",
@@ -4854,6 +4998,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Lost Frequencies",
+        "track_name": "Are You With Me",
+        "count": 1
+    },
+    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "The Smashing Pumpkins",
         "track_name": "To Forgive - Remastered 2012",
@@ -4863,6 +5013,12 @@
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "Kontra K",
         "track_name": "Like Woo",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "KANA-BOON",
+        "track_name": "\u306a\u3044\u3082\u306e\u306d\u3060\u308a - Revenge THE FIRST TAKE",
         "count": 1
     },
     {
@@ -4957,12 +5113,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "LiSA",
-        "track_name": "crossing field",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Himawari",
         "count": 1
@@ -5001,6 +5151,12 @@
         "user_id": "11102572930",
         "artist_name": "Vaundy",
         "track_name": "\u82b1\u5360\u3044",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "milet",
+        "track_name": "Shed a light",
         "count": 1
     },
     {
@@ -5550,6 +5706,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Dermot Kennedy",
+        "track_name": "Power Over Me",
+        "count": 1
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "ONE OK ROCK",
         "track_name": "Take What You Want (feat. 5 Seconds of Summer)",
@@ -5658,12 +5820,6 @@
         "count": 1
     },
     {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "NF",
-        "track_name": "Let You Down",
-        "count": 1
-    },
-    {
         "user_id": "11102572930",
         "artist_name": "TRUE",
         "track_name": "DREAM SOLISTER",
@@ -5691,6 +5847,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "R3HAB",
         "track_name": "Flames (with ZAYN)",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Louis Armstrong",
+        "track_name": "A Kiss To Build A Dream On - Single Version",
         "count": 1
     },
     {
@@ -5946,6 +6108,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "\u6c34\u69fd",
+        "track_name": "\u547c\u5438\u7387",
+        "count": 1
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "\u3053\u306f\u306a\u3089\u3080",
         "track_name": "\u3054\u3081\u3093\u306a\u3093\u304b\u805e\u304d\u305f\u304f\u306a\u304b\u3063\u305f",
@@ -6151,12 +6319,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "\u767e\u9b3c\u3042\u3084\u3081",
-        "track_name": "\u304b\u308f\u4e16",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "KokoroToIuNaNoFukakai",
         "count": 1
@@ -6207,12 +6369,6 @@
         "user_id": "1177164531",
         "artist_name": "Dmitri Shostakovich",
         "track_name": "Jazz Suite No. 1: I. Waltz",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Tsukuyomi",
-        "track_name": "Mayday",
         "count": 1
     },
     {
@@ -6432,18 +6588,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "HoneyComeBear",
-        "track_name": "\u30ca\u30c4\u30be\u30e9",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "DUSTCELL",
-        "track_name": "NO PAIN",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Klavdia Petrivna",
         "track_name": "\u0412\u0435\u0440\u0445\u043e\u0432\u043d\u0430 \u0436\u0440\u0438\u0446\u044f",
@@ -6471,12 +6615,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Against The Current",
         "track_name": "weapon",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Nao Toyama",
-        "track_name": "\u7fa4\u9752\u30a4\u30f3\u30d5\u30a3\u30cb\u30c6\u30a3",
         "count": 1
     },
     {
@@ -6537,6 +6675,12 @@
         "user_id": "11102572930",
         "artist_name": "SawanoHiroyuki[nZk]",
         "track_name": "Hands Up to the Sky",
+        "count": 1
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Sergei Rachmaninoff",
+        "track_name": "Liturgy of St. John Chrysostom for Chorus, Op. 31: XV. The Elevation: \"One Church...\"",
         "count": 1
     },
     {
@@ -6603,6 +6747,18 @@
         "user_id": "1177164531",
         "artist_name": "Owain Park",
         "track_name": "Phos hilaron: II. Phos hilaron",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Ado",
+        "track_name": "Value",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "Value",
         "count": 1
     },
     {
@@ -6840,12 +6996,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "\u591c\u306e\u30d4\u30a8\u30ed - TeddyLoid Remix",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Brent Faiyaz",
         "track_name": "Wherever I Go",
@@ -6921,12 +7071,6 @@
         "user_id": "1177164531",
         "artist_name": "Aram Khachaturian",
         "track_name": "Ivan Sings \"Andantino\"",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u96e8\u5bbf\u308a",
-        "track_name": "\u732b\u304b\u3076\u308a",
         "count": 1
     },
     {
@@ -7035,6 +7179,12 @@
         "user_id": "11102572930",
         "artist_name": "amazarashi",
         "track_name": "\u5b63\u7bc0\u306f\u6b21\u3005\u6b7b\u3093\u3067\u3044\u304f",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "CHiCO with HoneyWorks",
+        "track_name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa",
         "count": 1
     },
     {
@@ -7221,12 +7371,6 @@
         "user_id": "1177164531",
         "artist_name": "Ignaz Friedman",
         "track_name": "Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (arr. I. Friedman for piano)",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Rei Yasuda",
-        "track_name": "\u3084\u3055\u3057\u3044\u6c17\u6301\u3061",
         "count": 1
     },
     {
@@ -7575,12 +7719,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Against The Current",
         "track_name": "Brighter",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Hana Hope",
-        "track_name": "flowers",
         "count": 1
     },
     {
