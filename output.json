@@ -84,6 +84,12 @@
         "count": 9
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "MAISONdes",
+        "track_name": "\u30e8\u30ef\u30cd\u30cf\u30ad",
+        "count": 9
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Nothing But Thieves",
         "track_name": "Impossible",
@@ -177,12 +183,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Lucid Planet",
         "track_name": "This Side of the Yawning Grave",
-        "count": 6
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "MAISONdes",
-        "track_name": "\u30e8\u30ef\u30cd\u30cf\u30ad",
         "count": 6
     },
     {
@@ -715,6 +715,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u5ca1\u90e8\u5553\u4e00",
+        "track_name": "Weight of the World Kowaretasekainouta - Marina Kawano",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Rei Yasuda",
         "track_name": "Tweedia",
         "count": 3
@@ -1123,6 +1129,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "FLOW",
+        "track_name": "\u9065\u304b\u5f7c\u65b9",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Mrs. GREEN APPLE",
         "track_name": "Magic",
         "count": 2
@@ -1351,6 +1363,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "YOASOBI",
+        "track_name": "Idol",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Sayuri",
         "track_name": "\u5e73\u884c\u7dda",
         "count": 2
@@ -1431,6 +1449,12 @@
         "user_id": "11102572930",
         "artist_name": "natori",
         "track_name": "Overdose",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ryokuoushoku Shakai",
+        "track_name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "count": 2
     },
     {
@@ -1671,6 +1695,12 @@
         "user_id": "11102572930",
         "artist_name": "Eli Sougetsu",
         "track_name": "Aoi Chou",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "THE ORAL CIGARETTES",
+        "track_name": "Kyouran Hey Kids!!",
         "count": 2
     },
     {
@@ -2173,12 +2203,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "\u5ca1\u90e8\u5553\u4e00",
-        "track_name": "Weight of the World Kowaretasekainouta - Marina Kawano",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Smilegate RPG",
         "track_name": "Sweet Dreams, My Dear - Korean Version",
         "count": 2
@@ -2323,6 +2347,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "MIMI",
+        "track_name": "minimum (feat. wanko)",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "DAZBEE",
         "track_name": "\u30a2\u30c7\u30a3\u30aa\u30b9",
         "count": 2
@@ -2349,6 +2379,12 @@
         "user_id": "11102572930",
         "artist_name": "Hoshimachi Suisei",
         "track_name": "TEMPLATE",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba",
+        "track_name": "\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
         "count": 2
     },
     {
@@ -2575,6 +2611,18 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
+        "track_name": "\u6708\u5149\u6d74",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u5ddd\u7530\u307e\u307f",
+        "track_name": "Contrail \uff5e\u8ecc\u8de1\uff5e",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Sangatsu no Phantasia",
         "track_name": "\u50d5\u3089\u306e\u5e78\u798f\u8ad6",
         "count": 2
@@ -2797,6 +2845,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "AliA",
+        "track_name": "Starry Sky And Your Song",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "MYTH & ROID",
         "track_name": "VORACITY",
         "count": 2
@@ -2973,6 +3027,12 @@
         "user_id": "11102572930",
         "artist_name": "Tsuna Maru (Mezame-P)",
         "track_name": "Daidai Genome",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u5b9d\u9418\u30de\u30ea\u30f3",
+        "track_name": "Ahoy!! \u6211\u3089\u5b9d\u9418\u6d77\u8cca\u56e3\u2606",
         "count": 2
     },
     {
@@ -3834,12 +3894,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "FLOW",
-        "track_name": "\u9065\u304b\u5f7c\u65b9",
-        "count": 1
-    },
-    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "The Lumineers",
         "track_name": "Ophelia",
@@ -3975,6 +4029,12 @@
         "user_id": "11102572930",
         "artist_name": "NANO",
         "track_name": "No pain, No game",
+        "count": 1
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Pomme",
+        "track_name": "anxi\u00e9t\u00e9",
         "count": 1
     },
     {
@@ -4482,12 +4542,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "YOASOBI",
-        "track_name": "Idol",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Brent Faiyaz",
         "track_name": "Best Time",
@@ -4644,6 +4698,12 @@
         "count": 1
     },
     {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Pomme",
+        "track_name": "J'suis pas dupe",
+        "count": 1
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "Miki Matsubara",
         "track_name": "Mayonaka no Door / Stay With Me",
@@ -4683,12 +4743,6 @@
         "user_id": "11102572930",
         "artist_name": "\u9999\u690e\u30e2\u30a4\u30df",
         "track_name": "\u30ad\u30e3\u30c3\u30c8\u30e9\u30d3\u30f3\u30b0",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Ryokuoushoku Shakai",
-        "track_name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "count": 1
     },
     {
@@ -5343,12 +5397,6 @@
         "user_id": "11102572930",
         "artist_name": "\u30e8\u30eb\u30b7\u30ab",
         "track_name": "\u6182\u3001\u71e6\u3005",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "THE ORAL CIGARETTES",
-        "track_name": "Kyouran Hey Kids!!",
         "count": 1
     },
     {
@@ -6882,12 +6930,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "MIMI",
-        "track_name": "minimum (feat. wanko)",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Maurice Ravel",
         "track_name": "Piece en forme de habanera (arr. A. Hoeree for violin and orchestra)",
@@ -7059,12 +7101,6 @@
         "user_id": "1177164531",
         "artist_name": "Alexander Borodin",
         "track_name": "Les danses polovtsiennes (Extraits de l'op\u00e9ra Le Prince Igor): II. Danse des hommes",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u7269\u8a9e\u30b7\u30ea\u30fc\u30ba",
-        "track_name": "\u604b\u611b\u30b5\u30fc\u30ad\u30e5\u30ec\u30fc\u30b7\u30e7\u30f3",
         "count": 1
     },
     {
@@ -7746,18 +7782,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
-        "track_name": "\u6708\u5149\u6d74",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u5ddd\u7530\u307e\u307f",
-        "track_name": "Contrail \uff5e\u8ecc\u8de1\uff5e",
-        "count": 1
-    },
-    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "The Chords",
         "track_name": "Sh-Boom",
@@ -8166,12 +8190,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "AliA",
-        "track_name": "Starry Sky And Your Song",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Yiddish Glory",
         "track_name": "Kazakhstan",
@@ -8538,6 +8556,12 @@
         "count": 1
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "\u30ae\u30e9\u30ae\u30e9",
+        "count": 1
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Against The Current",
         "track_name": "Brighter",
@@ -8781,12 +8805,6 @@
         "user_id": "1177164531",
         "artist_name": "Zden\u011bk Fibich",
         "track_name": "Moods, Impressions and Reminiscences, Op. 41, Book 4: No. 14. Poem",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u5b9d\u9418\u30de\u30ea\u30f3",
-        "track_name": "Ahoy!! \u6211\u3089\u5b9d\u9418\u6d77\u8cca\u56e3\u2606",
         "count": 1
     },
     {
