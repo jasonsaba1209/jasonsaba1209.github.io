@@ -30,7 +30,7 @@ function loadData() {
 
 function returnUserID(passwordValue){
     switch (passwordValue) {
-        case "Pumpkin":
+        case "pumpkin":
             return "p5sv079r17y4bi06x4c24h3fe"
         case "allahbaba":
             return "z6qbjotuaf6o3ys8hgwjc20j1"
