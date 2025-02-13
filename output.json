@@ -528,6 +528,12 @@
         "count": 3
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
+        "track_name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "count": 3
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Aram Khachaturian",
         "track_name": "Masquerade Suite: Romance",
@@ -685,6 +691,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "DECO*27",
+        "track_name": "\u30d2\u30d0\u30ca -Reloaded-",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Kenshi Yonezu",
         "track_name": "\u30d4\u30fc\u30b9\u30b5\u30a4\u30f3 - Peace Sign",
         "count": 3
@@ -709,6 +721,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Mika Kobayashi",
+        "track_name": "\u5d29\u58ca\u4e16\u754c\u306e\u6b4c\u59eb",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Mori Calliope",
         "track_name": "\u5931\u793c\u3057\u307e\u3059\u304c\u3001RIP\u2661",
         "count": 3
@@ -727,6 +745,18 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "ONE OK ROCK",
+        "track_name": "Stand Out Fit In",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Mori Calliope",
+        "track_name": "Q",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Where the Wind Blows",
         "count": 3
@@ -735,6 +765,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Yuaru",
         "track_name": "Asu no Yozora Shoukaihan",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "ONE OK ROCK",
+        "track_name": "We Are",
         "count": 3
     },
     {
@@ -813,6 +849,12 @@
         "user_id": "11102572930",
         "artist_name": "Rokudenashi",
         "track_name": "Good-bye, See You Tomorrow",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Yui Ogura",
+        "track_name": "Fightin\u2605Pose",
         "count": 3
     },
     {
@@ -933,12 +975,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Kodaline",
         "track_name": "One Day",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
-        "track_name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
         "count": 2
     },
     {
@@ -1239,6 +1275,12 @@
         "user_id": "11102572930",
         "artist_name": "TRUE",
         "track_name": "Sincerely",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "PearlAbyssMusic",
+        "track_name": "ROCKSTAR (Instrumental)",
         "count": 2
     },
     {
@@ -1681,12 +1723,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "DECO*27",
-        "track_name": "\u30d2\u30d0\u30ca -Reloaded-",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "MAN WITH A MISSION",
         "track_name": "Take Me Under",
         "count": 2
@@ -1993,6 +2029,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "KANA-BOON",
+        "track_name": "\u306a\u3044\u3082\u306e\u306d\u3060\u308a - Revenge THE FIRST TAKE",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "\u7f8e\u6ce2",
         "track_name": "\u30eb\u30fc\u30c9\u30eb\u30fc\u30ba\u30c0\u30f3\u30b9",
         "count": 2
@@ -2173,8 +2215,8 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Mika Kobayashi",
-        "track_name": "\u5d29\u58ca\u4e16\u754c\u306e\u6b4c\u59eb",
+        "artist_name": "Kanaria",
+        "track_name": "Demon Lord",
         "count": 2
     },
     {
@@ -2199,6 +2241,12 @@
         "user_id": "11102572930",
         "artist_name": "THE ORAL CIGARETTES",
         "track_name": "Mouiikai?",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "BINKUSUNO SAKE",
         "count": 2
     },
     {
@@ -2232,21 +2280,9 @@
         "count": 2
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "ONE OK ROCK",
-        "track_name": "Stand Out Fit In",
-        "count": 2
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Georgy Sviridov",
         "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): After the Resurrection: Glorification of the Mother of God",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Mori Calliope",
-        "track_name": "Q",
         "count": 2
     },
     {
@@ -2319,12 +2355,6 @@
         "user_id": "11102572930",
         "artist_name": "KANKAN",
         "track_name": "ALL FOOL",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "ONE OK ROCK",
-        "track_name": "We Are",
         "count": 2
     },
     {
@@ -2559,6 +2589,12 @@
         "user_id": "11102572930",
         "artist_name": "YOASOBI",
         "track_name": "\u305f\u3076\u3093",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "SawanoHiroyuki[nZk]",
+        "track_name": "Hands Up to the Sky",
         "count": 2
     },
     {
@@ -2827,12 +2863,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Yui Ogura",
-        "track_name": "Fightin\u2605Pose",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Tatsuya Kitani",
         "track_name": "\u30ca\u30a4\u30c8\u30eb\u30fc\u30c6\u30a3\u30fc\u30f3",
         "count": 2
@@ -2865,6 +2895,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Nothing But Thieves",
         "track_name": "Sorry",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "DUSTCELL",
+        "track_name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
         "count": 2
     },
     {
@@ -3081,6 +3117,12 @@
         "user_id": "11102572930",
         "artist_name": "Kiro Akiyama",
         "track_name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
+        "track_name": "\u96e8\u3068\u30ab\u30d7\u30c1\u30fc\u30ce",
         "count": 2
     },
     {
@@ -4215,12 +4257,6 @@
         "user_id": "11102572930",
         "artist_name": "the peggies",
         "track_name": "\u30cd\u30d0\u30fc\u30e9\u30f3\u30c9",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "PearlAbyssMusic",
-        "track_name": "ROCKSTAR (Instrumental)",
         "count": 1
     },
     {
@@ -6091,12 +6127,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "KANA-BOON",
-        "track_name": "\u306a\u3044\u3082\u306e\u306d\u3060\u308a - Revenge THE FIRST TAKE",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "BLUE ENCOUNT",
         "track_name": "VS",
         "count": 1
@@ -6589,12 +6619,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Kanaria",
-        "track_name": "Demon Lord",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "\u9752\u3044\u5b50",
         "track_name": "\u541b\u306e\u3044\u305f\u590f",
         "count": 1
@@ -6645,12 +6669,6 @@
         "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Take Me to the Beach (feat. Ado)",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "BINKUSUNO SAKE",
         "count": 1
     },
     {
@@ -7614,12 +7632,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "track_name": "Hands Up to the Sky",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Sergei Rachmaninoff",
         "track_name": "Liturgy of St. John Chrysostom for Chorus, Op. 31: XV. The Elevation: \"One Church...\"",
@@ -8217,12 +8229,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Ren",
         "track_name": "Chalk Outlines",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "DUSTCELL",
-        "track_name": "\u30aa\u30eb\u30bf\u30fc\u30a8\u30b4",
         "count": 1
     },
     {
@@ -8900,13 +8906,13 @@
     {
         "user_id": "11102572930",
         "artist_name": "\u30e8\u30eb\u30b7\u30ab",
-        "track_name": "\u96e8\u3068\u30ab\u30d7\u30c1\u30fc\u30ce",
+        "track_name": "\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
         "count": 1
     },
     {
         "user_id": "11102572930",
-        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
-        "track_name": "\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
+        "artist_name": "ZUTOMAYO",
+        "track_name": "\u3042\u3044\u3064\u3089\u5168\u54e1\u540c\u7a93\u4f1a",
         "count": 1
     },
     {
