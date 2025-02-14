@@ -781,6 +781,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "Show",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Sawano Hiroyuki",
         "track_name": "Perfect Time",
         "count": 3
@@ -825,6 +831,12 @@
         "user_id": "11102572930",
         "artist_name": "\u30e8\u30eb\u30b7\u30ab",
         "track_name": "\u30d1\u30ec\u30fc\u30c9",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u9ea6\u5409_Maggie",
+        "track_name": "\u8033\u308f\u307b\u3046",
         "count": 3
     },
     {
@@ -925,6 +937,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
+        "track_name": "\u305f\u3060\u541b\u306b\u6674\u308c",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "LiSA",
         "track_name": "crossing field",
         "count": 3
@@ -951,6 +969,12 @@
         "user_id": "11102572930",
         "artist_name": "Alisa Okehazama",
         "track_name": "Hollow Purple",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "AliA",
+        "track_name": "Utopia",
         "count": 3
     },
     {
@@ -1125,6 +1149,12 @@
         "user_id": "1177164531",
         "artist_name": "Jean Sibelius",
         "track_name": "Valse triste, Op. 44 No. 1",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u7f8e\u6ce2",
+        "track_name": "\u30d5\u30e9\u30a4\u30cf\u30a4\u30c8",
         "count": 3
     },
     {
@@ -1537,6 +1567,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "the peggies",
+        "track_name": "\u30cd\u30d0\u30fc\u30e9\u30f3\u30c9",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "PearlAbyssMusic",
         "track_name": "ROCKSTAR (Instrumental)",
         "count": 2
@@ -1632,15 +1668,15 @@
         "count": 2
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "Show",
-        "count": 2
-    },
-    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "HMLTD",
         "track_name": "Mikey's Song",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "PornoGraffitti",
+        "track_name": "THE DAY",
         "count": 2
     },
     {
@@ -1866,12 +1902,6 @@
         "count": 2
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "\u9ea6\u5409_Maggie",
-        "track_name": "\u8033\u308f\u307b\u3046",
-        "count": 2
-    },
-    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Shpongle",
         "track_name": "Strange Planet",
@@ -2023,6 +2053,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "natori",
+        "track_name": "\u7d76\u5bfe\u96f6\u5ea6",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "THE ORAL CIGARETTES",
         "track_name": "Kyouran Hey Kids!!",
         "count": 2
@@ -2091,6 +2127,12 @@
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "The Alchemist",
         "track_name": "E. Coli (feat. Earl Sweatshirt)",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "ReoNa",
+        "track_name": "\u306a\u3044\u306a\u3044",
         "count": 2
     },
     {
@@ -2359,12 +2401,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "\u30e8\u30eb\u30b7\u30ab",
-        "track_name": "\u305f\u3060\u541b\u306b\u6674\u308c",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "\u7530\u6240\u3042\u305a\u3055",
         "track_name": "DEAREST DROP",
         "count": 2
@@ -2551,12 +2587,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "AliA",
-        "track_name": "Utopia",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "ONE OK ROCK",
         "track_name": "Make It Out Alive",
         "count": 2
@@ -2577,6 +2607,12 @@
         "user_id": "11102572930",
         "artist_name": "LiSA",
         "track_name": "\u5f80\u3051",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "HACHI",
+        "track_name": "Deep Sleep Sheep",
         "count": 2
     },
     {
@@ -3061,6 +3097,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Luna Kaguya",
+        "track_name": "Kick Kick Kick \u00d7\u00d7\u00d7",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "SawanoHiroyuki[nZk]",
         "track_name": "CRY",
         "count": 2
@@ -3183,6 +3225,12 @@
         "user_id": "11102572930",
         "artist_name": "AliA",
         "track_name": "limit",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "TRUE",
+        "track_name": "Another colony",
         "count": 2
     },
     {
@@ -3469,12 +3517,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "\u7f8e\u6ce2",
-        "track_name": "\u30d5\u30e9\u30a4\u30cf\u30a4\u30c8",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Hana Hope",
         "track_name": "flowers",
         "count": 2
@@ -3552,6 +3594,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "BiSH",
+        "track_name": "PAiNT it BLACK",
+        "count": 2
+    },
+    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Iuly Neamtu",
         "track_name": "Sugar Daddy",
@@ -3585,6 +3633,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Babasha",
         "track_name": "CHEEKY",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "The World's Continuation",
         "count": 2
     },
     {
@@ -4698,12 +4752,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "the peggies",
-        "track_name": "\u30cd\u30d0\u30fc\u30e9\u30f3\u30c9",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Kolkheti",
         "track_name": "Popurri Tushuri Melodiebis Temebze (Potpourri of Melodies from Tushin)",
@@ -4959,12 +5007,6 @@
         "user_id": "1177164531",
         "artist_name": "Sergei Rachmaninoff",
         "track_name": "Liturgy of St. John Chrysostom for Chorus, Op. 31: XII. Hymn of Praise: \"We sing to Thee...\"",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "PornoGraffitti",
-        "track_name": "THE DAY",
         "count": 1
     },
     {
@@ -5791,12 +5833,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "natori",
-        "track_name": "\u7d76\u5bfe\u96f6\u5ea6",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "\u30e8\u30eb\u30b7\u30ab",
         "track_name": "\u6182\u3001\u71e6\u3005",
         "count": 1
@@ -5919,12 +5955,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Powderfinger",
         "track_name": "My Kind Of Scene",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "ReoNa",
-        "track_name": "\u306a\u3044\u306a\u3044",
         "count": 1
     },
     {
@@ -6789,12 +6819,6 @@
         "user_id": "11102572930",
         "artist_name": "ZUTOMAYO",
         "track_name": "TAIDADA",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "HACHI",
-        "track_name": "Deep Sleep Sheep",
         "count": 1
     },
     {
@@ -7794,12 +7818,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Luna Kaguya",
-        "track_name": "Kick Kick Kick \u00d7\u00d7\u00d7",
-        "count": 1
-    },
-    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Pomme",
         "track_name": "\u00c0 peu pr\u00e8s",
@@ -8055,12 +8073,6 @@
         "user_id": "1177164531",
         "artist_name": "Kendrick Lamar",
         "track_name": "LOVE. FEAT. ZACARI.",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "TRUE",
-        "track_name": "Another colony",
         "count": 1
     },
     {
@@ -8856,12 +8868,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "BiSH",
-        "track_name": "PAiNT it BLACK",
-        "count": 1
-    },
-    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Pantera",
         "track_name": "Walk",
@@ -8895,12 +8901,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "The Dillinger Escape Plan",
         "track_name": "One of Us is the Killer",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "The World's Continuation",
         "count": 1
     },
     {
