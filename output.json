@@ -60,6 +60,12 @@
         "count": 11
     },
     {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Lucid Planet",
+        "track_name": "Listen",
+        "count": 11
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Nothing But Thieves",
         "track_name": "Particles - Piano Version",
@@ -87,12 +93,6 @@
         "user_id": "1177164531",
         "artist_name": "Georgy Sviridov",
         "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): The Nativity of Christ: Nativity Song",
-        "count": 10
-    },
-    {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Lucid Planet",
-        "track_name": "Listen",
         "count": 10
     },
     {
@@ -366,9 +366,21 @@
         "count": 4
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "*Luna",
+        "track_name": "Black out - MOKKAI Remix",
+        "count": 4
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "NF",
         "track_name": "Dreams",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Tatsuya Kitani",
+        "track_name": "\u6708\u5149",
         "count": 4
     },
     {
@@ -655,12 +667,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Tatsuya Kitani",
-        "track_name": "\u6708\u5149",
-        "count": 3
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "ZUTOMAYO",
         "track_name": "\u4e0d\u6cd5\u4fb5\u5165",
         "count": 3
@@ -669,6 +675,12 @@
         "user_id": "1177164531",
         "artist_name": "Maurice Ravel",
         "track_name": "Le tombeau de Couperin (version for orchestra): No. 1. Prelude",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "majiko",
+        "track_name": "\u3072\u3073\u5272\u308c\u305f\u4e16\u754c",
         "count": 3
     },
     {
@@ -1237,12 +1249,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "*Luna",
-        "track_name": "Black out - MOKKAI Remix",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "\u7f8e\u6ce2",
         "track_name": "\u30db\u30ed\u30cd\u30b9",
         "count": 2
@@ -1321,6 +1327,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u30c7\u30a3\u30fc\u30f4\u30a1(Vo.\u516b\u6728\u6d77\u8389)",
+        "track_name": "Harmony of One's Heart",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "FLOW",
         "track_name": "Sign",
         "count": 2
@@ -1353,12 +1365,6 @@
         "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "DIGNITY",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "majiko",
-        "track_name": "\u3072\u3073\u5272\u308c\u305f\u4e16\u754c",
         "count": 2
     },
     {
@@ -1765,6 +1771,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "KANA-BOON",
+        "track_name": "MUSiC",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Sayuri",
         "track_name": "\u9178\u6b20\u5c11\u5973",
         "count": 2
@@ -2023,6 +2035,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "SawanoHiroyuki[nZk]",
+        "track_name": "LilaS",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "whaledontsleep",
         "track_name": "Osmanthus (feat. Ado)",
         "count": 2
@@ -2067,6 +2085,12 @@
         "user_id": "11102572930",
         "artist_name": "MAN WITH A MISSION",
         "track_name": "database",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u7f8e\u6ce2",
+        "track_name": "BLANK POST",
         "count": 2
     },
     {
@@ -2199,6 +2223,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "NF",
         "track_name": "Mansion",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Myuk",
+        "track_name": "\u82b1\u306f\u304b\u3050\u3084",
         "count": 2
     },
     {
@@ -2455,6 +2485,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "yama",
+        "track_name": "\u5e0c\u671b\u8ad6",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Kanaria",
         "track_name": "Demon Lord",
         "count": 2
@@ -2629,6 +2665,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u7f8e\u6ce2",
+        "track_name": "DROP",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "DAZBEE",
         "track_name": "\u30a2\u30c7\u30a3\u30aa\u30b9",
         "count": 2
@@ -2739,6 +2781,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Denis Ramniceanu",
         "track_name": "Merhaba (Stil Turcesc)",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Rokudenashi",
+        "track_name": "Kiddy",
         "count": 2
     },
     {
@@ -2889,6 +2937,12 @@
         "user_id": "11102572930",
         "artist_name": "MAISONdes",
         "track_name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "Value",
         "count": 2
     },
     {
@@ -3313,6 +3367,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "miwa",
+        "track_name": "chAngE",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "TK from Ling tosite sigure",
         "track_name": "katharsis",
         "count": 2
@@ -3321,6 +3381,12 @@
         "user_id": "11102572930",
         "artist_name": "YOASOBI",
         "track_name": "\u795d\u798f",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
         "count": 2
     },
     {
@@ -4122,12 +4188,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "\u30c7\u30a3\u30fc\u30f4\u30a1(Vo.\u516b\u6728\u6d77\u8389)",
-        "track_name": "Harmony of One's Heart",
-        "count": 1
-    },
-    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Jador",
         "track_name": "Ce te-as impaca",
@@ -4419,6 +4479,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Lana Del Rey",
         "track_name": "Brooklyn Baby",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Tsukuyomi",
+        "track_name": "Noisy Rainy",
         "count": 1
     },
     {
@@ -5148,12 +5214,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "KANA-BOON",
-        "track_name": "MUSiC",
-        "count": 1
-    },
-    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Krewella",
         "track_name": "Alive",
@@ -5826,12 +5886,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "track_name": "LilaS",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Sergei Rachmaninoff",
         "track_name": "Liturgy of St. John Chrysostom for Chorus, Op. 31: V. Entrance Hymn: \"Come, bow...\"",
@@ -5919,12 +5973,6 @@
         "user_id": "11102572930",
         "artist_name": "amehurashi",
         "track_name": "Kimi Sketch",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u7f8e\u6ce2",
-        "track_name": "BLANK POST",
         "count": 1
     },
     {
@@ -6153,12 +6201,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Blur",
         "track_name": "Ice Cream Man",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Myuk",
-        "track_name": "\u82b1\u306f\u304b\u3050\u3084",
         "count": 1
     },
     {
@@ -6745,12 +6787,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "yama",
-        "track_name": "\u5e0c\u671b\u8ad6",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "\u9752\u3044\u5b50",
         "track_name": "\u541b\u306e\u3044\u305f\u590f",
         "count": 1
@@ -7065,12 +7101,6 @@
         "user_id": "1177164531",
         "artist_name": "Maurice Ravel",
         "track_name": "Piece en forme de habanera (arr. A. Hoeree for violin and orchestra)",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u7f8e\u6ce2",
-        "track_name": "DROP",
         "count": 1
     },
     {
@@ -7429,12 +7459,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Rokudenashi",
-        "track_name": "Kiddy",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "\u71d0\u821e\u66f2",
         "track_name": "\u30ab\u30ec\u30f3\u30c7\u30e5\u30e9",
         "count": 1
@@ -7789,12 +7813,6 @@
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Ado",
-        "track_name": "Value",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Value",
         "count": 1
@@ -8743,12 +8761,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "miwa",
-        "track_name": "chAngE",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Nayutalien",
         "track_name": "Discommunication Alien",
         "count": 1
@@ -8775,12 +8787,6 @@
         "user_id": "1177164531",
         "artist_name": "Klavdia Petrivna",
         "track_name": "\u0407\u0434\u0435 \u0434\u0430\u0445",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "\u79c1\u306f\u6700\u5f37 - \u30a6\u30bf from ONE PIECE FILM RED",
         "count": 1
     },
     {
