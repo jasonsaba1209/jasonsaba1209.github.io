@@ -439,6 +439,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u30dd\u30ea\u30b9\u30d4\u30ab\u30c7\u30ea\u30fc",
+        "track_name": "\u4e0d\u57d2\u306a\u559d\u91c7",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "SawanoHiroyuki[nZk]",
         "track_name": "Avid",
         "count": 4
@@ -756,6 +762,12 @@
         "count": 3
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "Maigo Hanyuu",
+        "track_name": "Onomatope (feat. Riria.)",
+        "count": 3
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "NF",
         "track_name": "RUNNING",
@@ -963,6 +975,12 @@
         "user_id": "11102572930",
         "artist_name": "SPYAIR",
         "track_name": "RAGE OF DUST",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Aiobahn",
+        "track_name": "I'm Here - Stephen Walking Remix",
         "count": 3
     },
     {
@@ -1272,6 +1290,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "VK Blanka",
+        "track_name": "Black Rover",
+        "count": 2
+    },
+    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Jador",
         "track_name": "Skinny",
@@ -1317,6 +1341,18 @@
         "user_id": "11102572930",
         "artist_name": "yama",
         "track_name": "\u8840\u6d41",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "THE SxPLAY",
+        "track_name": "\u6f02\u6d41 with KIV\u039b -CytusII.ver-",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "LiSA",
+        "track_name": "\u708e",
         "count": 2
     },
     {
@@ -1621,12 +1657,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Maigo Hanyuu",
-        "track_name": "Onomatope (feat. Riria.)",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Sangatsu no Phantasia",
         "track_name": "\u56db\u89d2\u904b\u547d",
         "count": 2
@@ -1755,12 +1785,6 @@
         "user_id": "11102572930",
         "artist_name": "Nanahoshi Orchestra",
         "track_name": "weigh anchor",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u30dd\u30ea\u30b9\u30d4\u30ab\u30c7\u30ea\u30fc",
-        "track_name": "\u4e0d\u57d2\u306a\u559d\u91c7",
         "count": 2
     },
     {
@@ -2232,6 +2256,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "ClariS",
+        "track_name": "\u30d2\u30c8\u30ea\u30b4\u30c8",
+        "count": 2
+    },
+    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "M\u00e5neskin",
         "track_name": "Beggin'",
@@ -2520,6 +2550,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "ReoNa",
+        "track_name": "Alive",
+        "count": 2
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Dmitri Shostakovich",
         "track_name": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
@@ -2559,12 +2595,6 @@
         "user_id": "11102572930",
         "artist_name": "tokiwa",
         "track_name": "Memories (feat. Sennzai)",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Aiobahn",
-        "track_name": "I'm Here - Stephen Walking Remix",
         "count": 2
     },
     {
@@ -2925,6 +2955,12 @@
         "user_id": "11102572930",
         "artist_name": "ONE OK ROCK",
         "track_name": "I Was King",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "yama",
+        "track_name": "\u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060",
         "count": 2
     },
     {
@@ -4020,12 +4056,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "VK Blanka",
-        "track_name": "Black Rover",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Klavdia Petrivna",
         "track_name": "\u0414\u043e\u0447\u043a\u0430 \u0441\u0430\u043c\u0443\u0440\u0430\u044f",
@@ -4152,21 +4182,9 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "THE SxPLAY",
-        "track_name": "\u6f02\u6d41 with KIV\u039b -CytusII.ver-",
-        "count": 1
-    },
-    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Xiu Xiu",
         "track_name": "Rumpus Room",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "LiSA",
-        "track_name": "\u708e",
         "count": 1
     },
     {
@@ -6150,12 +6168,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "ClariS",
-        "track_name": "\u30d2\u30c8\u30ea\u30b4\u30c8",
-        "count": 1
-    },
-    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "James Hersey",
         "track_name": "My People",
@@ -6525,12 +6537,6 @@
         "user_id": "1177164531",
         "artist_name": "Maurice Ravel",
         "track_name": "Ravel: Le Tombeau de Couperin, M. 68: I. Pr\u00e9lude",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "ReoNa",
-        "track_name": "Alive",
         "count": 1
     },
     {
@@ -7491,12 +7497,6 @@
         "user_id": "11102572930",
         "artist_name": "SawanoHiroyuki[nZk]",
         "track_name": "EVERCHiLD",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "yama",
-        "track_name": "\u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060",
         "count": 1
     },
     {
