@@ -84,6 +84,12 @@
         "count": 10
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "SawanoHiroyuki[nZk]",
+        "track_name": "aLIEz",
+        "count": 10
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Georgy Sviridov",
         "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): Introduction: Holy God",
@@ -147,12 +153,6 @@
         "user_id": "1177164531",
         "artist_name": "Georgy Sviridov",
         "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): From the Old Testament: Song of Purification",
-        "count": 8
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "SawanoHiroyuki[nZk]",
-        "track_name": "aLIEz",
         "count": 8
     },
     {
@@ -583,14 +583,32 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "milet",
+        "track_name": "Who I Am",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "mona\uff08CV\uff1a\u590f\u5ddd\u690e\u83dc\uff09",
         "track_name": "\u30d5\u30a1\u30f3\u30b5",
         "count": 4
     },
     {
         "user_id": "11102572930",
+        "artist_name": "MAISONdes",
+        "track_name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "\u7d42\u96fb\u9593\u969b\u2266\u30aa\u30f3\u30e9\u30a4\u30f3\u3002",
         "track_name": "Bad Day,Good-Bye.",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "ZYTOKINE",
+        "track_name": "Dancing Dollz feat. cold kiss(Nana Takahashi) - REDALiCE Remix",
         "count": 4
     },
     {
@@ -687,6 +705,12 @@
         "user_id": "11102572930",
         "artist_name": "\u7f8e\u6ce2",
         "track_name": "\u30db\u30ed\u30cd\u30b9",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "TRUE",
+        "track_name": "Reimei",
         "count": 3
     },
     {
@@ -943,6 +967,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "\u963f\u4fee\u7f85\u3061\u3083\u3093",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Mori Calliope",
         "track_name": "\u5931\u793c\u3057\u307e\u3059\u304c\u3001RIP\u2661",
         "count": 3
@@ -1032,12 +1062,6 @@
         "count": 3
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "milet",
-        "track_name": "Who I Am",
-        "count": 3
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Johannes Brahms",
         "track_name": "21 Hungarian Dances, WoO 1: Hungarian Dance No. 1 in G Minor. Allegro molto (Orch. Brahms)",
@@ -1053,12 +1077,6 @@
         "user_id": "11102572930",
         "artist_name": "38-ban",
         "track_name": "Milk Crown On Sonnetica",
-        "count": 3
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "ZYTOKINE",
-        "track_name": "Dancing Dollz feat. cold kiss(Nana Takahashi) - REDALiCE Remix",
         "count": 3
     },
     {
@@ -1327,12 +1345,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "TRUE",
-        "track_name": "Reimei",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Hoshimachi Suisei",
         "track_name": "\u30b6\u30a4\u30aa\u30f3",
         "count": 2
@@ -1341,6 +1353,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Eminem",
         "track_name": "Space Bound",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u91ce\u6c34\u3044\u304a\u308a",
+        "track_name": "DARAKENA",
         "count": 2
     },
     {
@@ -1602,6 +1620,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "kamome sano",
+        "track_name": "starlights (feat. TEA)",
+        "count": 2
+    },
+    {
         "user_id": "1177164531",
         "artist_name": "Georgy Sviridov",
         "track_name": "Pesnopeniya i molitvi (Canticles and Prayers): After the Resurrection: Have mercy on us, O Lord",
@@ -1635,6 +1659,12 @@
         "user_id": "11102572930",
         "artist_name": "SPYAIR",
         "track_name": "\u30a2\u30a4\u30e0\u30fb\u30a2\u30fb\u30d3\u30ea\u30fc\u30d0\u30fc - New Version -",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "yama",
+        "track_name": "\u65b0\u661f",
         "count": 2
     },
     {
@@ -1905,6 +1935,12 @@
         "user_id": "11102572930",
         "artist_name": "KAMI WA SAIKORO WO FURANAI",
         "track_name": "\u611b\u306e\u3051\u3060\u3082\u306e",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "ReoNa",
+        "track_name": "ANIMA",
         "count": 2
     },
     {
@@ -2556,12 +2592,6 @@
         "count": 2
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "\u963f\u4fee\u7f85\u3061\u3083\u3093",
-        "count": 2
-    },
-    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Babasha",
         "track_name": "Nebunia lui Babasha",
@@ -2773,6 +2803,18 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "\u3053\u306f\u306a\u3089\u3080",
+        "track_name": "\u3054\u3081\u3093\u306a\u3093\u304b\u805e\u304d\u305f\u304f\u306a\u304b\u3063\u305f",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "MARY",
+        "track_name": "DAYBREAK FRONTLINE",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Hoshimachi Suisei",
         "track_name": "TEMPLATE",
         "count": 2
@@ -2865,6 +2907,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Gya",
         "track_name": "Baklava",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "\u5e73\u7551\u5fb9\u4e5f",
+        "track_name": "Romance, the Other Day feat. suis from Yorushika",
         "count": 2
     },
     {
@@ -3019,12 +3067,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "MAISONdes",
-        "track_name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Value",
         "count": 2
@@ -3147,6 +3189,12 @@
         "user_id": "11102572930",
         "artist_name": "meiyo",
         "track_name": "\u306a\u306b\u3084\u3063\u3066\u3082\u3046\u307e\u304f\u3044\u304b\u306a\u3044 feat.asmi",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Nogizaka46",
+        "track_name": "\u6307\u671b\u9060\u93e1",
         "count": 2
     },
     {
@@ -4242,12 +4290,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "\u91ce\u6c34\u3044\u304a\u308a",
-        "track_name": "DARAKENA",
-        "count": 1
-    },
-    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "The Offspring",
         "track_name": "Why Don't You Get A Job",
@@ -4872,12 +4914,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "kamome sano",
-        "track_name": "starlights (feat. TEA)",
-        "count": 1
-    },
-    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "TISM",
         "track_name": "(He'll Never Be An) Ol' Man River",
@@ -4935,12 +4971,6 @@
         "user_id": "11102572930",
         "artist_name": "YOASOBI",
         "track_name": "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "yama",
-        "track_name": "\u65b0\u661f",
         "count": 1
     },
     {
@@ -5505,12 +5535,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Rammstein",
         "track_name": "Puppe",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "ReoNa",
-        "track_name": "ANIMA",
         "count": 1
     },
     {
@@ -7237,12 +7261,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "\u3053\u306f\u306a\u3089\u3080",
-        "track_name": "\u3054\u3081\u3093\u306a\u3093\u304b\u805e\u304d\u305f\u304f\u306a\u304b\u3063\u305f",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "*Luna",
         "track_name": "\u30a4\u30ce\u30bb\u30f3\u30c8",
         "count": 1
@@ -7263,12 +7281,6 @@
         "user_id": "1177164531",
         "artist_name": "Badda Boo",
         "track_name": "Princess",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "MARY",
-        "track_name": "DAYBREAK FRONTLINE",
         "count": 1
     },
     {
@@ -7453,6 +7465,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "SawanoHiroyuki[nZk]",
+        "track_name": "EVERCHiLD",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "yama",
         "track_name": "\u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060",
         "count": 1
@@ -7509,12 +7527,6 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Printesa de Aur",
         "track_name": "Uita-Te la Mine",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "\u5e73\u7551\u5fb9\u4e5f",
-        "track_name": "Romance, the Other Day feat. suis from Yorushika",
         "count": 1
     },
     {
@@ -8055,12 +8067,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "HMLTD",
         "track_name": "The Ballad of Calamity James",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Nogizaka46",
-        "track_name": "\u6307\u671b\u9060\u93e1",
         "count": 1
     },
     {
