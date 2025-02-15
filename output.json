@@ -102,6 +102,12 @@
         "count": 10
     },
     {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Lucid Planet",
+        "track_name": "Apparatus",
+        "count": 10
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "NF",
         "track_name": "WHY",
@@ -129,12 +135,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Dermot Kennedy",
         "track_name": "Glory",
-        "count": 9
-    },
-    {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Lucid Planet",
-        "track_name": "Apparatus",
         "count": 9
     },
     {
@@ -175,6 +175,12 @@
     },
     {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+        "artist_name": "Iliona",
+        "track_name": "Une autre vie",
+        "count": 8
+    },
+    {
+        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Shinedown",
         "track_name": "How Did You Love",
         "count": 8
@@ -207,12 +213,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Lucid Planet",
         "track_name": "Olm 053",
-        "count": 7
-    },
-    {
-        "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-        "artist_name": "Iliona",
-        "track_name": "Une autre vie",
         "count": 7
     },
     {
@@ -525,6 +525,12 @@
         "user_id": "11102572930",
         "artist_name": "SawanoHiroyuki[nZk]",
         "track_name": "Binary Star",
+        "count": 4
+    },
+    {
+        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+        "artist_name": "Delicate Steve",
+        "track_name": "I Can Fly Away",
         "count": 4
     },
     {
@@ -957,12 +963,6 @@
         "user_id": "11102572930",
         "artist_name": "LiSA",
         "track_name": "crossing field",
-        "count": 3
-    },
-    {
-        "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-        "artist_name": "Delicate Steve",
-        "track_name": "I Can Fly Away",
         "count": 3
     },
     {
