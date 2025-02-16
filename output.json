@@ -445,6 +445,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "ZUTOMAYO",
+        "track_name": "\u4e0d\u6cd5\u4fb5\u5165",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Mikokichi",
         "track_name": "Radio Noise (feat. Ado)",
         "count": 4
@@ -531,6 +537,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Augustana",
         "track_name": "Boston",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "fh\u00e1na",
+        "track_name": "Rhapsody of Blue Sky",
         "count": 4
     },
     {
@@ -702,6 +714,12 @@
         "count": 4
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "TAKU INOUE",
+        "track_name": "Yona Yona Journey",
+        "count": 4
+    },
+    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "HMLTD",
         "track_name": "The Ballad of Calamity James",
@@ -853,8 +871,8 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "ZUTOMAYO",
-        "track_name": "\u4e0d\u6cd5\u4fb5\u5165",
+        "artist_name": "Ado",
+        "track_name": "DIGNITY",
         "count": 3
     },
     {
@@ -1015,12 +1033,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "fh\u00e1na",
-        "track_name": "Rhapsody of Blue Sky",
-        "count": 3
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "KANA-BOON",
         "track_name": "\u30d4\u30a2\u30b9\u3092\u958b\u3051\u305f",
         "count": 3
@@ -1171,6 +1183,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "ONE OK ROCK",
+        "track_name": "Make It Out Alive",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Hoshimachi Suisei",
         "track_name": "NEXT COLOR PLANET",
         "count": 3
@@ -1209,6 +1227,12 @@
         "user_id": "11102572930",
         "artist_name": "\u5ca1\u90e8\u5553\u4e00",
         "track_name": "Weight of the World Kowaretasekainouta - Marina Kawano",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Smilegate RPG",
+        "track_name": "Sweet Dreams, My Dear - Korean Version",
         "count": 3
     },
     {
@@ -1273,6 +1297,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Hoshimachi Suisei",
+        "track_name": "TEMPLATE",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Lucky Bruto",
         "count": 3
@@ -1329,6 +1359,12 @@
         "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "Villain",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Sangatsu no Phantasia",
+        "track_name": "\u30d1\u30b9\u30c6\u30eb\u30ec\u30a4\u30f3",
         "count": 3
     },
     {
@@ -1527,6 +1563,12 @@
         "user_id": "11102572930",
         "artist_name": "Rokudenashi",
         "track_name": "Good-bye, See You Tomorrow",
+        "count": 2
+    },
+    {
+        "user_id": "1177164531",
+        "artist_name": "Sergei Rachmaninoff",
+        "track_name": "Liturgy of St. John Chrysostom for Chorus, Op. 31: XIV. The Lord's Prayer: \"Our Father...\"",
         "count": 2
     },
     {
@@ -1767,12 +1809,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "HMLTD",
         "track_name": "Death Drive",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "DIGNITY",
         "count": 2
     },
     {
@@ -2322,6 +2358,12 @@
         "count": 2
     },
     {
+        "user_id": "1177164531",
+        "artist_name": "Ralphie Choo",
+        "track_name": "lamento de una supernova",
+        "count": 2
+    },
+    {
         "user_id": "11102572930",
         "artist_name": "Sayuri",
         "track_name": "\u5341\u5104\u5e74",
@@ -2541,6 +2583,12 @@
         "user_id": "11102572930",
         "artist_name": "ONE OK ROCK",
         "track_name": "Answer is near",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Aimer",
+        "track_name": "SPARK-AGAIN",
         "count": 2
     },
     {
@@ -2977,8 +3025,8 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "ONE OK ROCK",
-        "track_name": "Make It Out Alive",
+        "artist_name": "LiSA",
+        "track_name": "oath sign",
         "count": 2
     },
     {
@@ -3069,12 +3117,6 @@
         "user_id": "11102572930",
         "artist_name": "Ado",
         "track_name": "BINKUSUNO SAKE",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Smilegate RPG",
-        "track_name": "Sweet Dreams, My Dear - Korean Version",
         "count": 2
     },
     {
@@ -3285,12 +3327,6 @@
         "user_id": "11102572930",
         "artist_name": "MARY",
         "track_name": "DAYBREAK FRONTLINE",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Hoshimachi Suisei",
-        "track_name": "TEMPLATE",
         "count": 2
     },
     {
@@ -3619,20 +3655,14 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "Sangatsu no Phantasia",
-        "track_name": "\u30d1\u30b9\u30c6\u30eb\u30ec\u30a4\u30f3",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "TAKU INOUE",
-        "track_name": "Yona Yona Journey",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "MARY",
         "track_name": "\u30a2\u30b9\u30ce\u30e8\u30be\u30e9\u54e8\u6212\u73ed",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "After the Rain",
+        "track_name": "Anticlockwise",
         "count": 2
     },
     {
@@ -3807,6 +3837,12 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Bring Me The Horizon",
         "track_name": "Follow You",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Kenshi Yonezu",
+        "track_name": "\u6625\u96f7",
         "count": 2
     },
     {
@@ -4479,12 +4515,6 @@
         "user_id": "11102572930",
         "artist_name": "FLOW",
         "track_name": "New World",
-        "count": 1
-    },
-    {
-        "user_id": "1177164531",
-        "artist_name": "Sergei Rachmaninoff",
-        "track_name": "Liturgy of St. John Chrysostom for Chorus, Op. 31: XIV. The Lord's Prayer: \"Our Father...\"",
         "count": 1
     },
     {
@@ -6036,12 +6066,6 @@
         "count": 1
     },
     {
-        "user_id": "1177164531",
-        "artist_name": "Ralphie Choo",
-        "track_name": "lamento de una supernova",
-        "count": 1
-    },
-    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Linkin Park",
         "track_name": "Numb",
@@ -6417,12 +6441,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "LIZOT",
         "track_name": "This Is The Life",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Aimer",
-        "track_name": "SPARK-AGAIN",
         "count": 1
     },
     {
@@ -7095,12 +7113,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "Seafret",
         "track_name": "Pictures",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "LiSA",
-        "track_name": "oath sign",
         "count": 1
     },
     {
@@ -8143,6 +8155,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "DIALOGUE+",
+        "track_name": "Omoide Shiritori",
+        "count": 1
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "PEOPLE 1",
         "track_name": "DOGLAND",
         "count": 1
@@ -8301,12 +8319,6 @@
         "user_id": "11102572930",
         "artist_name": "TUYU",
         "track_name": "Compared Child - TUYU Remix",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "After the Rain",
-        "track_name": "Anticlockwise",
         "count": 1
     },
     {
@@ -8529,12 +8541,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Low Roar",
         "track_name": "Bones",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Kenshi Yonezu",
-        "track_name": "\u6625\u96f7",
         "count": 1
     },
     {
