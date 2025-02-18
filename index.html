@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Statistics Tracker</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <script src="script.js"></script>
+    <script src="js/script.js"></script>
 
     <header>
         <h1>Statistics Tracker</h1>
@@ -37,8 +37,25 @@
         </section>
 
         <section id="dashboard" class="view" style="display:none;">
-            <p>You are in the dashboard view now</p>
+            <h2>Top songs during the week</h2>
+            <section id="wrap_dashboard" class="dashboard_style">
+                <section id="artists_dashboard" class="dashboard_column">
+                    <div class="dashboard_header">
+                        <p>Artists</p>
+                    </div>
+                    <div id="artists_content" class="dashboard_content">
+                    </div>
+                </section>
+                <section id="tracks_dashboard" class="dashboard_column">
+                    <div class="dashboard_header">
+                        <p>Tracks</p>
+                    </div>
+                    <div id="tracks_content" class="dashboard_content">
+                    </div>
+                </section>
+            </section>
         </section>
+        
 
         <section id="reports" class="view" style="display:none;">
             <nav>
@@ -46,7 +63,6 @@
                 <button onclick="showReportView('today')">Songs Listened to in order</button>
               </nav>
             
-              <!-- Overall View Container -->
               <div id="overall-view" class="report-view">
                 <table border="1">
                     <thead>
@@ -60,7 +76,6 @@
                 </table>
               </div>
             
-              <!-- Songs Listened to Today View Container -->
               <div id="today-view" class="report-view" style="display: none;">
                 
                 <table border="1">
