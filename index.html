@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"> 
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Statistics Tracker</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <script src="js/script.js"></script>
+    <script src="script.js"></script>
 
     <header>
         <h1>Statistics Tracker</h1>
@@ -39,18 +39,22 @@
         <section id="dashboard" class="view" style="display:none;">
             <h2>Top songs during the week</h2>
             <section id="wrap_dashboard" class="dashboard_style">
+                <!-- Artists Column -->
                 <section id="artists_dashboard" class="dashboard_column">
                     <div class="dashboard_header">
                         <p>Artists</p>
                     </div>
                     <div id="artists_content" class="dashboard_content">
+                        <!-- Top 5 artists will be generated here -->
                     </div>
                 </section>
+                <!-- Tracks Column -->
                 <section id="tracks_dashboard" class="dashboard_column">
                     <div class="dashboard_header">
                         <p>Tracks</p>
                     </div>
                     <div id="tracks_content" class="dashboard_content">
+                        <!-- Top 5 tracks will be generated here -->
                     </div>
                 </section>
             </section>
@@ -63,6 +67,7 @@
                 <button onclick="showReportView('today')">Songs Listened to in order</button>
               </nav>
             
+              <!-- Overall View Container -->
               <div id="overall-view" class="report-view">
                 <table border="1">
                     <thead>
@@ -76,6 +81,7 @@
                 </table>
               </div>
             
+              <!-- Songs Listened to Today View Container -->
               <div id="today-view" class="report-view" style="display: none;">
                 
                 <table border="1">
