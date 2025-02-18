@@ -408,6 +408,12 @@
         "count": 6
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "KIRA",
+        "track_name": "B.B.F",
+        "count": 6
+    },
+    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "NF",
         "track_name": "Only",
@@ -595,6 +601,12 @@
     },
     {
         "user_id": "11102572930",
+        "artist_name": "Kanaria",
+        "track_name": "Requiem (feat. Hoshimachi Suisei)",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
         "artist_name": "Kairikibear",
         "track_name": "\u30d9\u30ce\u30e0",
         "count": 4
@@ -687,6 +699,12 @@
         "user_id": "11102572930",
         "artist_name": "\u6771\u65b9LostWord",
         "track_name": "\u6708\u3068\u5341\u516d\u591c (feat.\u30ca\u30ce & \u5cb8\u7530\u6559\u56e3&THE\u660e\u661f\u30ed\u30b1\u30c3\u30c4)",
+        "count": 4
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "OFFICIAL HIGE DANDISM",
+        "track_name": "Mixed Nuts",
         "count": 4
     },
     {
@@ -921,6 +939,12 @@
         "user_id": "11102572930",
         "artist_name": "Eir Aoi",
         "track_name": "\u6d41\u661f",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "Chocolat Cadabra",
         "count": 3
     },
     {
@@ -1291,8 +1315,20 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "OFFICIAL HIGE DANDISM",
-        "track_name": "Mixed Nuts",
+        "artist_name": "milet",
+        "track_name": "bliss",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "BURNOUT SYNDROMES",
+        "track_name": "FLY HIGH!!",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "YOASOBI",
+        "track_name": "\u591c\u306b\u99c6\u3051\u308b",
         "count": 3
     },
     {
@@ -1347,6 +1383,12 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "The Prodigy",
         "track_name": "Smack My Bitch Up",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "UK Rampage",
+        "track_name": "Replica (feat. mami)",
         "count": 3
     },
     {
@@ -1518,6 +1560,12 @@
         "count": 3
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "WON",
+        "track_name": "Arikitari",
+        "count": 3
+    },
+    {
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "GloRilla",
         "track_name": "Yeah Glo!",
@@ -1561,8 +1609,8 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "KIRA",
-        "track_name": "B.B.F",
+        "artist_name": "frederic",
+        "track_name": "Oddloop",
         "count": 3
     },
     {
@@ -1752,6 +1800,12 @@
         "count": 3
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "\u5b9d\u9418\u30de\u30ea\u30f3",
+        "track_name": "Ahoy!! \u6211\u3089\u5b9d\u9418\u6d77\u8cca\u56e3\u2606",
+        "count": 3
+    },
+    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "The Faceless",
         "track_name": "Autotheist Movement II: Emancipate",
@@ -1761,6 +1815,12 @@
         "user_id": "11102572930",
         "artist_name": "the peggies",
         "track_name": "\u541b\u306e\u305b\u3044",
+        "count": 3
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "Ado",
+        "track_name": "The World's Continuation",
         "count": 3
     },
     {
@@ -1845,12 +1905,6 @@
         "user_id": "11102572930",
         "artist_name": "Genie High",
         "track_name": "\u30e2\u30f3\u30b9\u30bf\u30fc (feat. yama)",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "Chocolat Cadabra",
         "count": 2
     },
     {
@@ -1953,6 +2007,12 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Jador",
         "track_name": "Skinny",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "YOASOBI",
+        "track_name": "\u7fa4\u9752",
         "count": 2
     },
     {
@@ -2562,12 +2622,6 @@
         "count": 2
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "Kanaria",
-        "track_name": "Requiem (feat. Hoshimachi Suisei)",
-        "count": 2
-    },
-    {
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "NF",
         "track_name": "Thing Called Love",
@@ -2910,6 +2964,12 @@
         "count": 2
     },
     {
+        "user_id": "11102572930",
+        "artist_name": "the peggies",
+        "track_name": "\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
+        "count": 2
+    },
+    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "The Divine Comedy",
         "track_name": "Bad Ambassador",
@@ -3169,12 +3229,6 @@
     },
     {
         "user_id": "11102572930",
-        "artist_name": "milet",
-        "track_name": "bliss",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
         "artist_name": "Mili",
         "track_name": "Nine Point Eight",
         "count": 2
@@ -3183,6 +3237,12 @@
         "user_id": "11102572930",
         "artist_name": "ClariS",
         "track_name": "\u30d2\u30c8\u30ea\u30b4\u30c8",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "ROOKiEZ is PUNK'D",
+        "track_name": "\u30ea\u30d0\u30a4\u30d0\u30eb",
         "count": 2
     },
     {
@@ -3195,12 +3255,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "The Prodigy",
         "track_name": "Invaders Must Die",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "BURNOUT SYNDROMES",
-        "track_name": "FLY HIGH!!",
         "count": 2
     },
     {
@@ -3231,12 +3285,6 @@
         "user_id": "11102572930",
         "artist_name": "DAZBEE",
         "track_name": "\u5fd8\u308c\u3058\u306e\u8a00\u306e\u8449",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "YOASOBI",
-        "track_name": "\u591c\u306b\u99c6\u3051\u308b",
         "count": 2
     },
     {
@@ -3510,12 +3558,6 @@
         "count": 2
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "UK Rampage",
-        "track_name": "Replica (feat. mami)",
-        "count": 2
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "George Gershwin",
         "track_name": "Song Book: The Man I Love. Slow and in singing style",
@@ -3561,6 +3603,12 @@
         "user_id": "11102572930",
         "artist_name": "tokiwa",
         "track_name": "Memories (feat. Sennzai)",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "DAZBEE",
+        "track_name": "\u30aa\u30bb\u30ed",
         "count": 2
     },
     {
@@ -3816,12 +3864,6 @@
         "count": 2
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "WON",
-        "track_name": "Arikitari",
-        "count": 2
-    },
-    {
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "MK",
         "track_name": "Rhyme Dust",
@@ -3921,6 +3963,12 @@
         "user_id": "11102572930",
         "artist_name": "Mika Nakashima",
         "track_name": "KISS OF DEATH\uff08Produced by HYDE\uff09",
+        "count": 2
+    },
+    {
+        "user_id": "11102572930",
+        "artist_name": "ASCA",
+        "track_name": "\u51db",
         "count": 2
     },
     {
@@ -4035,12 +4083,6 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Denis Ramniceanu",
         "track_name": "Merhaba (Stil Turcesc)",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "frederic",
-        "track_name": "Oddloop",
         "count": 2
     },
     {
@@ -4884,12 +4926,6 @@
         "count": 2
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "\u5b9d\u9418\u30de\u30ea\u30f3",
-        "track_name": "Ahoy!! \u6211\u3089\u5b9d\u9418\u6d77\u8cca\u56e3\u2606",
-        "count": 2
-    },
-    {
         "user_id": "21r743lbsas2y2hbpqx5fp2ti",
         "artist_name": "ceo@business.net",
         "track_name": "take a trip",
@@ -4911,12 +4947,6 @@
         "user_id": "p5sv079r17y4bi06x4c24h3fe",
         "artist_name": "Babasha",
         "track_name": "CHEEKY",
-        "count": 2
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "Ado",
-        "track_name": "The World's Continuation",
         "count": 2
     },
     {
@@ -5439,12 +5469,6 @@
         "user_id": "11102572930",
         "artist_name": "\u660e\u900f",
         "track_name": "\u30e9\u30a4\u30c8\u30a4\u30e4\u30fc\u30ba",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "YOASOBI",
-        "track_name": "\u7fa4\u9752",
         "count": 1
     },
     {
@@ -7686,12 +7710,6 @@
         "count": 1
     },
     {
-        "user_id": "11102572930",
-        "artist_name": "the peggies",
-        "track_name": "\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
-        "count": 1
-    },
-    {
         "user_id": "1177164531",
         "artist_name": "Jimena Amarillo",
         "track_name": "3 AMIGAS TUYAS",
@@ -8133,12 +8151,6 @@
         "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
         "artist_name": "James Hersey",
         "track_name": "My People",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "ROOKiEZ is PUNK'D",
-        "track_name": "\u30ea\u30d0\u30a4\u30d0\u30eb",
         "count": 1
     },
     {
@@ -8769,12 +8781,6 @@
         "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
         "artist_name": "Devin Townsend Project",
         "track_name": "The Death of Music - live in Plovdiv 2017",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "DAZBEE",
-        "track_name": "\u30aa\u30bb\u30ed",
         "count": 1
     },
     {
@@ -9561,12 +9567,6 @@
         "user_id": "11102572930",
         "artist_name": "ano",
         "track_name": "\u3061\u3085\u3001\u591a\u69d8\u6027\u3002",
-        "count": 1
-    },
-    {
-        "user_id": "11102572930",
-        "artist_name": "ASCA",
-        "track_name": "\u51db",
         "count": 1
     },
     {
