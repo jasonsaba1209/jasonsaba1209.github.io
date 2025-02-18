@@ -168,3 +168,85 @@ input[type="datetime-local"] {
   .report-view.active {
     display: block;
   }
+
+  label{
+
+    margin: 100px;
+
+  }
+
+  .dashboard_style {
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.dashboard_column {
+    width: 45%;
+}
+
+.dashboard_header {
+    background-color: #3f8d46; /* Highlight color */
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.dashboard_content {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff; /* White background for generated content */
+}
+
+/* Optional: Style for individual artist/track info */
+.artist-info, .track-info {
+    margin-bottom: 10px;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
+
+.artist-info {
+    display: flex;
+    align-items: center;
+    gap: 15px; /* space between image and text */
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #3b3b3b;
+    border-radius: 20px;
+    background-color: #3b3b3b;
+}
+
+/* Style the image to have a fixed width and rounded corners if desired */
+.artist-info img {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+}
+
+/* The container for text details */
+.artist-details {
+    text-align: left;
+    flex: 1;
+}
+
+.artist-details h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.artist-details p {
+    margin: 5px 0;
+}
+
+.artist-details a {
+    color: #1DB954; /* Spotify green */
+    text-decoration: none;
+}
+
+.artist-details a:hover {
+    text-decoration: underline;
+}
