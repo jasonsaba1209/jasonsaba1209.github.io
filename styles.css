@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #b7b7b7;
+    background-color: #404040;
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
@@ -29,10 +29,15 @@ h1 {
 
 h2 {
     padding: 1rem;
+    color: white;
+}
+
+h3 {
+    color: white;
 }
 
 p{
-    margin: 0px;
+    color: white;
 }
 
 button {
@@ -197,9 +202,9 @@ input[type="datetime-local"] {
 
 .dashboard_content {
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #494949;
     border-radius: 10px;
-    background-color: #fff; /* White background for generated content */
+    background-color: #282828; /* White background for generated content */
 }
 
 /* Optional: Style for individual artist/track info */
