@@ -1,31 +1,25 @@
 // Declare a global variable to hold the fetched JSON data
 let jsonData = [];
-let jsonData_ind = [];
-let user_id = "";
 
 // Function to load JSON data from output.json using fetch()
 function loadData() {
-    Promise.all([
-        fetch('output.json').then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok: ' + response.statusText); 
-            }
-            return response.json();
-        }),
-        fetch('output_t.json').then(response => {
-            if (!response.ok) {
-                throw new Error('Network response was not ok: ' + response.statusText);
-            }
-            return response.json();
-        })
-    ])
-    .then(([data1, data2]) => {
-        jsonData = data1;
-        jsonData_ind = data2;
-        handleSelectionChange();
-    })
-    .catch(error => console.error('Error fetching data:', error));
-}
+    return fetch('output_tok.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then(data => {
+        jsonData = data;
+        console.log("Data loaded successfully.");
+        console.log(data.trackCounts);
+        console.log(data.individualSongs);
+        console.log(data.accessTokens);
+        console.log(data.topArtists);
+      })
+      .catch(error => console.error('Error loading JSON:', error));
+  }
 
 
 function returnUserID(passwordValue){
@@ -72,7 +66,7 @@ function handleSelectionChange() {
   else
   document.getElementById("success_header").textContent = "";
   // Filter the data to get only records matching the selected user_id
-  const filteredData = jsonData.filter(record => record.user_id === user_id);
+  const filteredData = jsonData.trackCounts.filter(record => record.user_id === user_id);
   console.log('Filtered data: ', filteredData)
 
   // Build the HTML table rows dynamically
@@ -87,7 +81,7 @@ function handleSelectionChange() {
   // Update the table body with the new rows
   document.getElementById('stats-body').innerHTML = tableRows;
 
-  const filteredData_ind = jsonData_ind.filter(record => record.user_id === user_id);
+  const filteredData_ind = jsonData.individualSongs.filter(record => record.user_id === user_id);
     let tableRows_ind = '';
     filteredData_ind.forEach(record => {
         tableRows_ind += `<tr>
@@ -101,22 +95,19 @@ function handleSelectionChange() {
 
 // Use DOMContentLoaded to ensure the document is fully loaded before fetching data
 document.addEventListener('DOMContentLoaded', () => {
-    // First load the data
-    loadData();
-
-    // Check localStorage for previously stored user details
-    const savedUserId = localStorage.getItem('user_id');
-    const savedPassword = localStorage.getItem('userPassword');
-    if (savedUserId && savedPassword) {
-      // Optionally, populate the input field so the user sees their saved password
-      document.getElementById('userPassword').value = savedPassword;
-      // Call handleSelectionChange to update the table immediately
-      handleSelectionChange();
-    }
+    // First load the data and then handle any saved user credentials.
+    loadData().then(() => {
+        // Check localStorage for previously stored user details
+        const savedUserId = localStorage.getItem('user_id');
+        const savedPassword = localStorage.getItem('userPassword');
+        if (savedUserId && savedPassword) {
+            document.getElementById('userPassword').value = savedPassword;
+            handleSelectionChange();
+        }
+    });
 });
 
 function showReportView(view) {
-    // Hide all report views
     document.querySelectorAll('.report-view').forEach(div => {
         div.style.display = 'none';
     });
@@ -130,24 +121,30 @@ function showReportView(view) {
 
 
 function showView(viewId) {
-
     document.querySelectorAll('.view').forEach(view => {
-        view.style.display = 'none';
+      view.style.display = 'none';
     });
-
+  
     const selectedView = document.getElementById(viewId);
     if (selectedView) {
-        selectedView.style.display = 'block';
+      selectedView.style.display = 'block';
     }
-}
+  
+    if (viewId === 'dashboard') {
+      loadData().then(() => {
+        const query = "What If I Fly";
+        searchSpotify(query);
+      }).catch(error => {
+        console.error('Failed to load data before searching Spotify:', error);
+      });
+    }
+  }
 
-// When the hash changes in the URL
 window.addEventListener('hashchange', () => {
     const viewId = location.hash.replace('#', '');
     showView(viewId);
 });
 
-// On page load, check the hash and show the view; default to "home"
 document.addEventListener('DOMContentLoaded', () => {
     const viewId = location.hash.replace('#', '') || 'home';
     showView(viewId);
@@ -160,5 +157,183 @@ function updateDateTime() {
     document.getElementById('datetime').textContent = `Updated: ${formattedDateTime}`;
   }
 
-  // Update the date and time when the page loads
   window.onload = updateDateTime;
+
+function returnTopStats(user_id){
+  console.log("User id for artists: ", user_id);
+  const filteredData_ind = jsonData.topArtists.filter(record => record.user_id === user_id);
+  const filteredData_ind_S = jsonData.topSongs.filter(record => record.user_id === user_id);
+  
+  let topArtists = [];
+  //let allSongsArr = [];
+
+  for (let index = 0; index < Math.min(5, filteredData_ind.length); index++) {
+    const record = filteredData_ind[index];
+    const record_s = filteredData_ind_S[index];
+    topArtists.push({
+      artist: record.top_artist_name,
+      count: record.artist_count,
+      track: record_s.top_artist_name,
+      track_count: record_s.artist_count
+    });
+    console.log(record_s.artist_count);
+    console.log(record_s.top_artist_name);
+  }
+
+  return topArtists;
+}
+
+async function searchSpotify(query) {
+  if (!jsonData || !jsonData.accessTokens) {
+    console.error("Access tokens not loaded yet!");
+    return;
+  }
+  
+  // Retrieve the correct token for the given user_id from your DB-loaded jsonData
+  const tokenRecord = jsonData.accessTokens.find(u_token => u_token.user_id === user_id);
+  if (!tokenRecord) {
+    console.error("No token found for user:", user_id);
+    return;
+  }
+  const token = tokenRecord.access_token; // Use the valid token from your DB
+  console.log("Using token:", token);
+
+  // Get top artist data (an array of objects with properties: artist, count)
+  let topArtistsData = returnTopStats(user_id);
+  if (!topArtistsData || topArtistsData.length === 0) {
+    console.error("No artist data found for user:", user_id);
+    return;
+  }
+  console.log("Top artist data:", topArtistsData);
+  
+  // Build a comma-separated list of artist IDs (or names if that's what you store)
+  const idsParam_art = topArtistsData.map(item => item.artist).join(',');
+  const idsParam_tra = topArtistsData.map(item => item.track).join(',');
+  const artistUrl = `https://api.spotify.com/v1/artists?ids=${idsParam_art}`;
+  const trackUrl = `https://api.spotify.com/v1/tracks?ids=${idsParam_tra}`;
+
+  try {
+    const artistResponse = await fetch(artistUrl, {
+      method: 'GET',
+      headers: {
+        "Authorization": `Bearer ${token}`,
+        "Content-Type": "application/json"
+      }
+    });
+
+    if (!artistResponse.ok) {
+      throw new Error(`Error fetching artist data: ${artistResponse.statusText}`);
+    }
+    const trackResponse = await fetch(trackUrl, {
+      method: 'GET',
+      headers: {
+        "Authorization": `Bearer ${token}`,
+        "Content-Type": "application/json"
+      }
+    });
+
+    if (!trackResponse.ok) {
+      throw new Error(`Error fetching artist data: ${trackResponse.statusText}`);
+    }
+
+    const artistData = await artistResponse.json();
+    const trackData = await trackResponse.json();
+    
+    console.log("Artist Information:");
+    artistData.artists.forEach( (artist, index) => {
+      console.log(`Name: ${artist.name}`);
+      console.log(`Genres: ${artist.genres.join(', ')}`);
+      console.log(`Followers: ${artist.followers.total}`);
+      console.log(`Popularity: ${artist.popularity}`);
+      console.log(`Spotify URL: ${artist.external_urls.spotify}`);
+      console.log(`Listen Count: ${topArtistsData[index].count}`);
+      console.log('-----------------------------');
+    });
+
+    console.log("Track Information:");
+    trackData.tracks.forEach( (track, index) => {
+      console.log(`Name: ${track.name}`);
+      console.log(`Popularity: ${track.popularity}`);
+      console.log(`Spotify URL: ${track.external_urls.spotify}`);
+      console.log(`Listen Count: ${topArtistsData[index].track_count}`);
+      console.log('-----------------------------');
+    });
+    
+    let artistContentName = 'artists';
+
+    const artistsContent = document.getElementById(`${artistContentName}_content`);
+    artistsContent.innerHTML = ''; 
+      
+    artistData.artists.forEach((artist, index) => {
+      const artistDiv = document.createElement('div');
+      artistDiv.classList.add('artist-info');
+
+      if (artist.images && artist.images.length > 0) {
+        const imgElement = document.createElement('img');
+        imgElement.src = artist.images[0].url; // Use the first image
+        imgElement.alt = artist.name;
+        imgElement.style.width = "100px"; // Adjust size as needed
+        artistDiv.appendChild(imgElement);
+      }
+
+      const infoDiv = document.createElement('div');
+      infoDiv.classList.add('artist-details');
+
+      const nameElement = document.createElement('h3');
+      nameElement.textContent = artist.name;
+      infoDiv.appendChild(nameElement);
+
+      const countElement = document.createElement('p');
+      countElement.textContent = `Listen Count: ${topArtistsData[index].count}`;
+      infoDiv.appendChild(countElement);
+
+      const linkElement = document.createElement('a');
+      linkElement.href = artist.external_urls.spotify;
+      linkElement.textContent = 'View on Spotify';
+      linkElement.target = '_blank';
+      infoDiv.appendChild(linkElement);
+      artistDiv.appendChild(infoDiv);
+
+      artistsContent.appendChild(artistDiv);
+    });
+    const tracksContent = document.getElementById(`tracks_content`);
+    tracksContent.innerHTML = ''; // Clear previous content
+
+    trackData.tracks.forEach((track, index) => {
+      // Create a new div for each artist
+      const trackDiv = document.createElement('div');
+      trackDiv.classList.add('artist-info');
+
+      if (track.album && track.album.images && track.album.images.length > 0) {
+        const imgElement = document.createElement('img');
+        imgElement.src = track.album.images[0].url; // Use the first album image
+        imgElement.alt = track.name;
+        imgElement.style.width = "100px"; // Adjust size as needed
+        trackDiv.appendChild(imgElement);
+      }
+
+      const infoDiv = document.createElement('div');
+      infoDiv.classList.add('artist-details');
+
+      const nameElement = document.createElement('h3');
+      nameElement.textContent = track.name;
+      infoDiv.appendChild(nameElement);
+
+      const countElement = document.createElement('p');
+      countElement.textContent = `Listen Count: ${topArtistsData[index].track_count}`;
+      infoDiv.appendChild(countElement);
+
+      const linkElement = document.createElement('a');
+      linkElement.href = track.external_urls.spotify;
+      linkElement.textContent = 'View on Spotify';
+      linkElement.target = '_blank';
+      infoDiv.appendChild(linkElement);
+
+      trackDiv.appendChild(infoDiv);
+
+      tracksContent.appendChild(trackDiv);
+    });
+  } catch (error) {
+    console.error("Error in searchSpotify:", error.message);
+  }
+}
