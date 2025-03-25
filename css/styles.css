@@ -1,1 +1,247 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body {
+    background: linear-gradient(to left, #121212, #282828);
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    text-align: center;
+    line-height: 1.6;
+}
+
+/* Header Styles */
+header {
+    background-color: #1DB954;
+    padding: 20px 0;
+    width: 100%;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+h1, h2, h3, p, a {
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* Button Styles */
+button {
+    background-color: #1DB954;
+    color: white;
+    padding: 12px 25px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    background-color: #1ed760;
+    transform: translateY(-2px);
+}
+
+/* Navigation Styles */
+nav {
+    position: sticky;
+    top: 0;
+    background-color: #1b1b1b;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    z-index: 10;
+    padding: 12px 0;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #b3b3b3;
+    font-size: 18px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #1DB954;
+}
+
+/* Table Styles */
+table {
+    border-collapse: collapse;
+    margin: 20px;
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+th {
+    background-color: #1DB954;
+    color: white;
+    padding: 15px;
+    text-align: left;
+}
+
+td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #444;
+}
+
+tr {
+    background-color: #333;
+}
+
+tr:nth-child(even) {
+    background-color: #2a2a2a;
+}
+
+tr:hover {
+    background-color: #444;
+}
+
+/* Form Elements */
+input[type="datetime-local"] {
+    appearance: none;
+    border: 1px solid #444;
+    border-radius: 20px;
+    padding: 8px 15px;
+    font-size: 16px;
+    background-color: #121212;
+    color: #fff;
+    width: 250px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+input[type="datetime-local"]:focus {
+    border-color: #1DB954;
+    box-shadow: 0 0 5px rgba(29, 185, 84, 0.6);
+    outline: none;
+}
+
+/* Forms */
+.forms {
+    margin: 30px auto;
+    padding: 20px;
+    max-width: 400px;
+    /*background-color: #181818;*/
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+/* Report Views */
+.report-view {
+    display: none;
+}
+
+.report-view.active {
+    display: block;
+}
+
+/* Dashboard Styles */
+.dashboard_style {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    width: 90%;
+    margin: 20px auto;
+}
+
+.dashboard_column {
+    width: 45%;
+}
+
+.dashboard_header {
+    background-color: #1DB954;
+    padding: 15px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.dashboard_content {
+    padding: 20px;
+    background-color: #2d2d2d;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Artist/Track Info */
+.artist-info, .track-info {
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: #333;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.artist-info img {
+    width: 100px;
+    height: auto;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+}
+
+.artist-details {
+    text-align: left;
+    flex: 1;
+}
+
+.artist-details h3 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.artist-details p {
+    margin: 5px 0;
+}
+
+.artist-details a {
+    color: #1DB954;
+    text-decoration: none;
+    transition: text-decoration 0.3s ease;
+}
+
+.artist-details a:hover {
+    text-decoration: underline;
+}
+
+.h2_margin {
+    padding: 30px 0;
+}
+
+#auth-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #181818;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
