@@ -565,6 +565,12 @@
             "count": 8
         },
         {
+            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+            "artist_name": "Acid Ghost",
+            "track_name": "Hide My Face",
+            "count": 8
+        },
+        {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "artist_name": "Ollie",
             "track_name": "In Between",
@@ -670,12 +676,6 @@
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "artist_name": "Dermot Kennedy",
             "track_name": "Any Love",
-            "count": 7
-        },
-        {
-            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-            "artist_name": "Acid Ghost",
-            "track_name": "Hide My Face",
             "count": 7
         },
         {
@@ -1378,6 +1378,12 @@
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "artist_name": "Dire Straits",
             "track_name": "Walk Of Life",
+            "count": 5
+        },
+        {
+            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+            "artist_name": "Acid Ghost",
+            "track_name": "Summer Is Here",
             "count": 5
         },
         {
@@ -2722,12 +2728,6 @@
             "user_id": "11102572930",
             "artist_name": "EGOIST",
             "track_name": "\u54b2\u304b\u305b\u3084\u54b2\u304b\u305b",
-            "count": 4
-        },
-        {
-            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-            "artist_name": "Acid Ghost",
-            "track_name": "Summer Is Here",
             "count": 4
         },
         {
@@ -20762,6 +20762,20 @@
         }
     ],
     "individualSongs": [
+        {
+            "song_type": "indivdual_song",
+            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+            "track_name": "Summer Is Here",
+            "artist_name": "Acid Ghost",
+            "listen_date": "2025-03-26 20:27:42"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+            "track_name": "Hide My Face",
+            "artist_name": "Acid Ghost",
+            "listen_date": "2025-03-26 20:25:19"
+        },
         {
             "song_type": "indivdual_song",
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -73574,27 +73588,27 @@
     "accessTokens": [
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
-            "access_token": "BQAVxwMC1hgsJagf2oYzYRcVIhTZUXAzYkNzSEyxrHG2VFNig1GjSrwB-7c5fUB7B5RE4EuAitFfpUvdOoE_Xe8Y3-348cUHXyvBfuv2tpKF16DAteR3UTGxM4bLi-ho126OkXPcjzZOKLaqlPGtl50FaIxcEHt8hMIniD17vpRBg26n7LptdGnMkCKSv3HJiGOfnVjJudMfz_UEpUaSvqaaJ17BiGXcki5OLf1ePWZGDtjCbRORG-NUjaHFBQ"
+            "access_token": "BQC6OfQndfZ05ceVot0N_Y1ul59yrTmueb3OpHVaM3IgqflvSmzyCQ8uYPXjiUzk_wTnO9o-DhpCg3kJfSgvePmQwEOAnEJPzK52u7LF7XAjaDg7a2fFOMiR-Em4In7fLUW9moDv19y7fY1gSymMdTvPvsHM5X32HvsD3CdJeh4LhQTQKp2Lze74nyhv5bZFykvzrukWzymP2ZhdJzv7HVwX1-6G5P0A-NQ4XaQoE-Q2eHLf3zRbi2nAe-LKoA"
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "access_token": "BQC845mFSymQolIgjtn86x6vjgjSt6H18b0vAZXiUeQ3O-6ZU2v9BZR-AcGGUJdoBTbuRScCKj_QewTrksdH-G31Y5a_ONgvqX6XLs5ht78IbR4TCvB72sueByPOXyZmPjb_OjEkz7pT9qpdDOz30oKPSxQtocM0PMEtro7P-VXKWLgSGGB-4ZcrorbdwVq4Pewt7ZvaB2uieG0NbLEkCnOP4AqrKXEWe2_98boW-JxlwwxjkDh9PGa6zwinjg"
+            "access_token": "BQD9_A8kUfykEPGnYQeer_lnEo7ErScAMF5p6ZH575EyY_JXCAjF2Tw5VqCMVXz3FV7xh4Q7i5J5Z8Z5nVewj8dIAKPqRS1S0lIotI_suDt9Apth4P3862_svsUk-OKIp9rOKvFzh0yfH1flJnVattEPLGGijqhU1GBEpE_s1bKqjpBJyQk9Krn8YYXmAtLaDesUWgSrhg5gNvcOgxp1yBLpd2g1pbSspWf43-X4iu63XWjLrHzeka99rq2COg"
         },
         {
             "user_id": "1177164531",
-            "access_token": "BQCpkpZqi2bab_rXEJbsUKoDyEiR3SmfKH0Ty61yTcCL2p0G-z-DDPzNMxafPxKZVDDiG-y4njiJ7Eh8p_Hj40F8MSgGXdO1S4WSHnIT_X5W7Tljf49lkCS_1xSKFypfM1Pb_yjkBVrRCFwRG7NiWdtATbnL9-Z8WNihAOjlS906Hh3MUvdTaJQEyc4KYfT0Y7sTq0rI6oan0K9yuyu0GFrCPp9NcWm69WISSLSEzQ"
+            "access_token": "BQA9KqEpKHBWhuHfNlFLKuQFdrRm-If9p8xpRpCsynq4Fetit5ebLxY1RH1EcAR444BYg77iudA6qSzlVJxEjNS37FKJEqdhuBtjVZAqZYO68XqhzH7vm0zvH7kDSH7xBeua132vtLLvtiupdKP--IcKBOVyAtaBXZ-Zuu5NJ5QHx2mKirTbepgEIr1Qdy3kf1dkrMvZxaaC_Lo-8P3GeAiXyCKCzdi5V5laYFfoTQ"
         },
         {
             "user_id": "11102572930",
-            "access_token": "BQCXrD1I28SaXtjwRzl8jntFbEQrbJIdp7IGbhafg3ntdhVi2jRnIKG-js5elF0_4YeNT4dbcGJvex4viKVi6YZqsEctILnd9bOmeo46AYmh9YyFX_Ica-bL9RmwwT26Zrm15mMMTsETlFb1X13e0FbOVVa6bqLoscN9WSk8BOqyfZgCyA2mciwjqFFjRtFDjwaAWxmzuafAir2Dct6-9jIAYaFZ9AKroHo9CQ2Dw4A"
+            "access_token": "BQD1Uizxi6S8H8liR0jXbvuNxoaXijqbg0wEbhqS2ZCtJypPRTKc1G5sZMlLioHXuxEyC5v3H8PjsOp13-AmSoR8OlbLJrv18pQTu4xPuN4xJxiWROnydrqKzYq3zyEY28bBrNoMdPb-wyAmNmopPlJJaBPaNKwjVmxspdaFDIurnaEaqNj9Kszz_6mn2mmFeL_oX0PNE2JKCtb-3AXhT5kCZ7EfjMcxudAEBnWWVT0"
         },
         {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-            "access_token": "BQCDlscVGme0SwDz_y_CBACXmjSIkVeYDVmZEbOhuIUTaBJSKCS1JdPXFiDZDPlxjbWOXEI7P9z_DQZ3elGqpM_DXzXeNRxcVoB5NoruZ4p75o8aZFAT15rlmEkOrUnabPFOUCLH8n_e_BxDo05dIHhkh6QskK_JHOfl7laVlwvG0z_-bSQ6wHekIr8AuB5OODvDdQ0NsWC_-C76zRNMGaqpoW0CiS3wV0r4Jtovxie2eboMTtevnU1kaIT4OA"
+            "access_token": "BQD0lDgzStsVyNLac9SLLSXRALY0EFE3FoBmlwG1OGRokHpt6AIp5F_qWeFtqqccjsCi55sMRXEU3LIlRSV_Yd2e3XrSqWCBVso7Rz4Msejy-Dn0eu3UQcFqyDAgKzPbnv3t5ZtY8WfzaR_nKOrbxnXNI2VuQZqHc1emOo9q-2S3AE67De1pirNBDuWsRW9Ub8trfKf98kzrwyREY10yDupJChB4YTFDtrRA2sgCctNTVeV-el-92ThwU17Kfg"
         },
         {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
-            "access_token": "BQBEbb3KjaKTFZwhFS9kIyB43ypQPVOrsX226q8HmVE6pSgaE8cckFWYCNivfEm3-tVrIaKFQmecZN0Qw0Q8qnKBJYdHD7CDzjHtABKHoNpDuJ3DVctco5Rt8cbkNQGzu_n4ibJ0bZosZB3EJMThcibmZ_b9O88PVwB7JhtNwFrVLqmwXhcHjX86P5rXzm9hLNC27PWDGanAEsMtF8XumshwGrnZ1alQGNjPSVHGqYm84oHhMFnQvFJmZxJXYg"
+            "access_token": "BQBX8oKU3ecGY_XUACwvcLMwSftmuNR4D2MyIw_HvFG0Aua5LbqZ7HaOaV9NCjuvGKF8wuF3VHp40xBNk7so6w2kcKJk6CU2yHN_D0fd7aVWCecduSTrlOy5G_gdTI2_IZmKdxKHBwb7OiSz-sTdYAiS2p1uIh3DEI58Ptgw3-8LdF6dTGYBi-dwKj8hLXqgPfY2zuUIgxEWC6hE_opPxzNr0CgoO4p5L9bPdDq1etK6vLX93yZZNXOKtMvuTg"
         }
     ],
     "topArtists": [
@@ -73611,7 +73625,7 @@
         {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "top_artist_name": "3DxAikzv8719U68yCVRELD",
-            "artist_count": 28
+            "artist_count": 30
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -74633,7 +74647,7 @@
         {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "top_artist_name": "5MoXlEgWQxFQNYAeFbo7Zk",
-            "artist_count": 6
+            "artist_count": 7
         },
         {
             "user_id": "1177164531",
@@ -74746,8 +74760,18 @@
             "artist_count": 3
         },
         {
+            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+            "top_artist_name": "6RfqMM6PVQSEtRCe6HEGWB",
+            "artist_count": 3
+        },
+        {
             "user_id": "1177164531",
             "top_artist_name": "7e5ZOYZANKI7algc44mRQq",
+            "artist_count": 3
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "7gxohd4hHPmDIvE9HohJsI",
             "artist_count": 3
         },
         {
@@ -75048,11 +75072,6 @@
         {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "top_artist_name": "6ROXuQOjsgFF3vktNNrjfU",
-            "artist_count": 2
-        },
-        {
-            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-            "top_artist_name": "6RfqMM6PVQSEtRCe6HEGWB",
             "artist_count": 2
         },
         {
@@ -77576,6 +77595,11 @@
             "artist_count": 1
         },
         {
+            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+            "top_artist_name": "5j3iBuHq6vv7VcBo4Y2QrK",
+            "artist_count": 1
+        },
+        {
             "user_id": "11102572930",
             "top_artist_name": "5jH4zowzlz3GIyR9fm9Pof",
             "artist_count": 1
@@ -78398,11 +78422,6 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "7grcN18xiQDGUVqWR7mUF0",
-            "artist_count": 1
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "7gxohd4hHPmDIvE9HohJsI",
             "artist_count": 1
         },
         {
