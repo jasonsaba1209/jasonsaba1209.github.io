@@ -2989,6 +2989,12 @@
             "count": 4
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "artist_name": "Dermot Kennedy",
+            "track_name": "Dancing Under Red Skies",
+            "count": 4
+        },
+        {
             "user_id": "11102572930",
             "artist_name": "*Luna",
             "track_name": "NPC",
@@ -5266,12 +5272,6 @@
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "artist_name": "Yung Gravy",
             "track_name": "yup!",
-            "count": 3
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "artist_name": "Dermot Kennedy",
-            "track_name": "Dancing Under Red Skies",
             "count": 3
         },
         {
@@ -24032,6 +24032,13 @@
         }
     ],
     "individualSongs": [
+        {
+            "song_type": "indivdual_song",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "Dancing Under Red Skies",
+            "artist_name": "Dermot Kennedy",
+            "listen_date": "2025-03-31 18:12:08"
+        },
         {
             "song_type": "indivdual_song",
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -85400,7 +85407,7 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "5KNNVgR6LBIABRIomyCwKJ",
-            "artist_count": 39
+            "artist_count": 40
         },
         {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
@@ -88075,6 +88082,11 @@
             "artist_count": 4
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "4QOfUrTWpIlmziECELlCYN",
+            "artist_count": 4
+        },
+        {
             "user_id": "1177164531",
             "top_artist_name": "55Y5p2XyPaYBPGtzj1f9fE",
             "artist_count": 4
@@ -88287,11 +88299,6 @@
         {
             "user_id": "1177164531",
             "top_artist_name": "4NAE3JO5pYqH6ShqZzorWw",
-            "artist_count": 3
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "4QOfUrTWpIlmziECELlCYN",
             "artist_count": 3
         },
         {
@@ -88552,6 +88559,11 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "1SDtZ69uALD5zW8k9S8hTf",
+            "artist_count": 2
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "1VcFPlHTGkUuKv7emjBNVp",
             "artist_count": 2
         },
         {
@@ -90437,11 +90449,6 @@
         {
             "user_id": "1177164531",
             "top_artist_name": "1VWbpKTZrLwXjgcJ0vkm8B",
-            "artist_count": 1
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "1VcFPlHTGkUuKv7emjBNVp",
             "artist_count": 1
         },
         {
@@ -95504,7 +95511,7 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "day_of_week": "1",
-            "listen_time": 13740477.166666666
+            "listen_time": 13778283.333333334
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
