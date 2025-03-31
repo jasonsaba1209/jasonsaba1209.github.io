@@ -1,5 +1,6 @@
 // Declare a global variable to hold the fetched JSON data
 let jsonData = [];
+let chartInstance = null;
 
 // Function to load JSON data from output.json using fetch()
 function loadData() {
@@ -91,6 +92,8 @@ function handleSelectionChange() {
                           </tr>`;
     });
     document.getElementById('stats-body-ind').innerHTML = tableRows_ind;
+
+    drawChart(user_id);
 }
 
 // Use DOMContentLoaded to ensure the document is fully loaded before fetching data
@@ -151,11 +154,19 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function updateDateTime() {
-    const now = new Date();
-    const options = { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit' };
-    const formattedDateTime = now.toLocaleDateString('en-US', options);
-    document.getElementById('datetime').textContent = `Updated: ${formattedDateTime}`;
-  }
+  const now = new Date();
+  const options = { 
+      year: 'numeric', 
+      month: 'long', 
+      day: 'numeric', 
+      hour: '2-digit', 
+      minute: '2-digit', 
+      second: '2-digit', 
+      timeZone: 'Europe/Berlin' // Set the time zone to Berlin
+  };
+  const formattedDateTime = now.toLocaleString('en-US', options);
+  document.getElementById('datetime').textContent = `Updated: ${formattedDateTime}`;
+}
 
   window.onload = updateDateTime;
 
@@ -336,4 +347,65 @@ async function searchSpotify(query) {
   } catch (error) {
     console.error("Error in searchSpotify:", error.message);
   }
+}
+
+function drawChart(user_id){
+
+  const daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+  console.log(jsonData.dayListenTimes);
+
+  // Filter data for the selected user
+  const userData = jsonData.dayListenTimes.filter(entry => entry.user_id === user_id);
+  console.log(userData);
+
+  // Extract labels (days) and listen time (convert ms to minutes)
+  const labels = userData.map(entry => daysOfWeek[parseInt(entry.day_of_week)]);
+  const listenTimes = userData.map(entry => (entry.listen_time / 60000).toFixed(2)); // Convert to minutes
+
+  // Create the chart
+  const ctx = document.getElementById("listeningChart").getContext("2d");
+  
+  if (chartInstance) {
+    chartInstance.destroy();
+  }
+  
+  chartInstance = new Chart(ctx, {
+    type: "bar",  // Change to "line" if you prefer a line chart
+    data: {
+      labels: labels,
+      datasets: [{
+        label: "Listening Time (minutes)",
+        data: listenTimes,
+        backgroundColor:"rgba(29, 185, 84, 1)",  // Change fill color
+        borderColor: "rgb(34, 210, 96)",  // Change border color
+        borderWidth: 2,  // Thicker borders
+        borderRadius: 1, // rounded bars
+      }]
+    },
+    options: {
+      responsive: true, // Allows resizing
+      maintainAspectRatio: false, // Prevents forced aspect ratio
+      
+      scales: {
+        y: {
+          beginAtZero: true,
+          grid: {
+            display: false // Hides gridlines
+          },
+          ticks: {
+            font: {
+              size: 14,  // Adjust font size
+              family: "Arial",  // Change font
+              weight: "bold"  // Make it bold
+            }
+          }
+        },
+        x: {
+          grid: {
+            color: "rgba(200, 200, 200, 0.2)" // Lighter gridlines
+          }
+        }
+      }
+    }
+  });
 }
