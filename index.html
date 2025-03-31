@@ -73,7 +73,8 @@
             <nav>
                 <button onclick="showReportView('overall')">Overall View</button>
                 <button onclick="showReportView('today')">Songs Listened to in order</button>
-              </nav>
+                <button onclick="showReportView('dayGraph')">Listen Pattern</button>
+            </nav>
             
               <!-- Overall View Container -->
               <div id="overall-view" class="report-view">
@@ -102,6 +103,10 @@
                     </thead>
                     <tbody id="stats-body-ind"></tbody>
                 </table>
+              </div>
+
+              <div id="pattern-view" class="report-view" style="display: none;">
+
               </div>
         </section>
 
