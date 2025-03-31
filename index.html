@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="keywords" content="Education">
-    <meta name="keywords" content="Statistics">
+    <meta name="keywords" content="Education, Statistics">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Statistics Tracker</title>
     <link rel="stylesheet" href="css/styles.css">
@@ -73,7 +72,7 @@
             <nav>
                 <button onclick="showReportView('overall')">Overall View</button>
                 <button onclick="showReportView('today')">Songs Listened to in order</button>
-                <button onclick="showReportView('dayGraph')">Listen Pattern</button>
+                <button onclick="showReportView('pattern')">Listen Pattern</button>
             </nav>
             
               <!-- Overall View Container -->
@@ -106,8 +105,11 @@
               </div>
 
               <div id="pattern-view" class="report-view" style="display: none;">
-
+                <div id="chart-container">
+                    <canvas id="listeningChart"></canvas>
+                </div>
               </div>
+
         </section>
 
         <section id="settings" class="view" style="display:none;">
@@ -120,6 +122,7 @@
         <p>&copy; Spotabase!!</p>
     </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="js/script.js"></script>
      
 </body>
