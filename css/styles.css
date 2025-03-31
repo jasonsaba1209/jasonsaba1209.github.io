@@ -245,3 +245,17 @@ label {
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
+#chart-container {
+    width: 50%;  /* Adjust this to make it smaller */
+    max-width: 800px; /* Prevent it from growing too large */
+    height: auto; /* Keeps aspect ratio */
+    height: auto; /* Maintain aspect ratio */
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+  
+#listeningChart {
+    width: 100%; /* Make it responsive within the container */
+    height: 100%;
+}
