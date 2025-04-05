@@ -5,6 +5,141 @@
     box-sizing: border-box;
 }
 
+@media screen and (max-width: 768px) {
+    .home-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .home-column {
+        width: 100%;
+        max-width: 500px;
+    }
+
+    #chart-container {
+        width: 90%;
+    }
+    
+}
+
+.home-container {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 40px auto;
+    min-height: 400px;
+    gap: 30px;
+}
+
+.home-left {
+    flex: 7;
+    background-color: #1b1b1b;
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-left h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.home-right {
+    flex: 3;
+    background: linear-gradient(to bottom right, #1DB954, #1aa34a);
+    border-radius: 20px;
+    padding: 30px 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+    gap: 20px;
+}
+
+.stat-card {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    backdrop-filter: blur(6px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: scale(1.05);
+}
+
+.stat-card h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+.stat-card p {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 0;
+}
+
+#userPassword {
+    width: 100%;
+    max-width: 350px;
+    padding: 12px 20px;
+    margin: 15px auto;
+    border: 2px solid #1DB954;
+    border-radius: 30px;
+    font-size: 16px;
+    background-color: #121212;
+    color: #fff;
+    text-align: center;
+    transition: box-shadow 0.3s ease;
+}
+
+#userPassword:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(29, 185, 84, 0.5);
+}
+
+#passButton {
+    background: linear-gradient(135deg, #1DB954, #1ed760);
+    border: none;
+    border-radius: 30px;
+    padding: 12px 25px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+#passButton:hover {
+    transform: scale(1.05);
+    background: linear-gradient(135deg, #1ed760, #2fe67b);
+}
+
+#userPassword::placeholder {
+    color: #ccc;
+    font-style: italic;
+    transition: opacity 0.3s ease;
+}
+
+#userPassword:focus::placeholder {
+    opacity: 0.3;
+}
+
+
 body {
     background: linear-gradient(to left, #121212, #282828);
     font-family: 'Roboto', sans-serif;
