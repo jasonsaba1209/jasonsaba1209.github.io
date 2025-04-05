@@ -34,7 +34,7 @@
 
     <main>
         
-        <section id="home" class="view">
+        <!--<section id="home" class="view">
 
             <form id="loginForm" class="forms">
                 <h3 id="datetime">Updated: </h3>
@@ -44,7 +44,58 @@
             <button id="passButton" onclick="handleSelectionChange()">click me, father</button>
             <h2>After putting in the word, go to Reports :*</h2>    
             <h2 id="success_header" style="color: green;"></h2>
-        </section>
+        </section> -->
+
+        <section id="home" class="view home-enhanced">
+            <div class="home-container">
+              <div class="home-left">
+                <h1 class="home-title">Welcome to Spotabase</h1>
+                <p class="home-subtitle">Your personalized music tracking dashboard</p>
+          
+                <div class="login-area">
+                  <h2 class="highlight-title">Access Your Data</h2>
+                  <form id="loginForm" class="forms">
+                    <label for="userPassword">Speshal Word:</label>
+                    <input type="text" id="userPassword" name="password" placeholder="Type me in daddy">
+                  </form>
+                  <button id="passButton" onclick="handleSelectionChange()">click me, father</button>
+                  <h2 id="success_header" style="color: green;"></h2>
+                </div>
+          
+                <div class="instruction-text">
+                  <h3>After putting in the word, go to <strong>Reports</strong> :*</h3>
+                </div>
+              </div>
+          
+              <!--<div class="home-right">
+                <h2 class="highlight-title">Database Stats</h2>
+                <div id="stat-card">
+                  <p><strong>Artists:</strong> <span id="artistCount">...</span></p>
+                  <p><strong>Songs:</strong> <span id="songCount">...</span></p>
+                  <p><strong>Logs:</strong> <span id="logCount">...</span></p>
+                </div>
+              </div>-->
+              <div class="home-right">
+                <!-- Fancy stats -->
+                <div class="stat-card">
+                  <h3>Total Artists</h3>
+                  <p>2,700+</p>
+                </div>
+                <div class="stat-card">
+                  <h3>Total Songs</h3>
+                  <p>31,500+</p>
+                </div>
+                <div class="stat-card">
+                  <h3>Total Albums</h3>
+                  <p>3,400+</p>
+                </div>
+                <div class="stat-card">
+                  <h3>Total Listening Logs</h3>
+                  <p>11,500+</p>
+                </div>
+              </div>
+            </div>
+          </section>
 
         <section id="dashboard" class="view" style="display:none;">
             <h2>Top songs during the week</h2>
