@@ -1,5 +1,8 @@
 // Declare a global variable to hold the fetched JSON data
 let jsonData = [];
+
+// This is a placeholder to see if the chart is loaded or not
+// to not cause errors of the chart reloading itself
 let chartInstance = null;
 
 // Function to load JSON data from output.json using fetch()
@@ -22,7 +25,9 @@ function loadData() {
       .catch(error => console.error('Error loading JSON:', error));
   }
 
-
+// This is a temporary, or when using the JSON data
+// need to figure out how to make passwords then actual
+// encrypted passwords stored securely on my database 
 function returnUserID(passwordValue){
     switch (passwordValue) {
         case "pumpkin":
@@ -48,16 +53,18 @@ function returnUserID(passwordValue){
 // This function is called when the dropdown selection changes
 function handleSelectionChange() {
   
+  //get the password from the field 'userPassword'
   let passwordValue = document.getElementById('userPassword').value.trim().toLowerCase();
   console.log('Entered value: ', passwordValue);
 
+  // This is the temp function. change later
   user_id = returnUserID(passwordValue);
 
+    // check the cache(?) if the user already has their information saved
     if (user_id) {
         localStorage.setItem('user_id', user_id);
-        localStorage.setItem('userPassword', passwordValue); // Optional: store the actual password
+        localStorage.setItem('userPassword', passwordValue); // Optional: store the actual password later
       } else {
-        // Optionally, remove any previously stored values if the password is invalid
         localStorage.removeItem('user_id');
         localStorage.removeItem('userPassword');
       }  
@@ -66,11 +73,14 @@ function handleSelectionChange() {
     document.getElementById("success_header").textContent = "Your info is ready cutie";
   else
   document.getElementById("success_header").textContent = "";
-  // Filter the data to get only records matching the selected user_id
+
+  //so currently, this loads the data in the reports screen immediately
+  //when the user logs in sucessfully, maybe in the future adopt a diff
+  //approach, with different views and different pages, improving
+  //performance
   const filteredData = jsonData.trackCounts.filter(record => record.user_id === user_id);
   console.log('Filtered data: ', filteredData)
 
-  // Build the HTML table rows dynamically
   let tableRows = '';
   filteredData.forEach(record => {
     tableRows += `<tr>
@@ -79,7 +89,6 @@ function handleSelectionChange() {
                     <td>${record.count}</td>
                   </tr>`;
   });
-  // Update the table body with the new rows
   document.getElementById('stats-body').innerHTML = tableRows;
 
   const filteredData_ind = jsonData.individualSongs.filter(record => record.user_id === user_id);
@@ -96,26 +105,32 @@ function handleSelectionChange() {
     drawChart(user_id);
 }
 
-// Use DOMContentLoaded to ensure the document is fully loaded before fetching data
+// Using DOMContentLoaded to ensure the document is fully loaded before fetching data
+// i got way too many errors otherwise..
 document.addEventListener('DOMContentLoaded', () => {
-    // First load the data and then handle any saved user credentials.
     loadData().then(() => {
-        // Check localStorage for previously stored user details
         const savedUserId = localStorage.getItem('user_id');
         const savedPassword = localStorage.getItem('userPassword');
         if (savedUserId && savedPassword) {
             document.getElementById('userPassword').value = savedPassword;
+            //I think this is the main part of the code.
+            //coming from the main page anyways.
             handleSelectionChange();
         }
     });
 });
 
+//handling the changing of views.
+//current approach is all in the same HTML
+//i think changing it later to when having full reports
+//to be individual pages that load, will save on resources
+//and the load on the server hopefully
+//plus i am not a huge fan of this way
 function showReportView(view) {
     document.querySelectorAll('.report-view').forEach(div => {
         div.style.display = 'none';
     });
 
-    // Show the selected view
     const selectedView = document.getElementById(`${view}-view`);
     if (selectedView) {
         selectedView.style.display = 'block';
@@ -133,6 +148,7 @@ function showView(viewId) {
       selectedView.style.display = 'block';
     }
   
+    //this was temporary testing. keeping it here cz why not?
     if (viewId === 'dashboard') {
       loadData().then(() => {
         const query = "What If I Fly";
@@ -143,6 +159,9 @@ function showView(viewId) {
     }
   }
 
+// actually not super sure what this does.
+// looks like it is the hashchange when selecting the views
+// and then actually displays it
 window.addEventListener('hashchange', () => {
     const viewId = location.hash.replace('#', '');
     showView(viewId);
@@ -153,6 +172,9 @@ document.addEventListener('DOMContentLoaded', () => {
     showView(viewId);
 });
 
+// this is the temporary function
+// it is just here to reassure ppl that the website 
+// IS being updated. but soon it won't be necessary
 function updateDateTime() {
   const now = new Date();
   const options = { 
@@ -162,128 +184,77 @@ function updateDateTime() {
       hour: '2-digit', 
       minute: '2-digit', 
       second: '2-digit', 
-      timeZone: 'Europe/Berlin' // Set the time zone to Berlin
+      timeZone: 'Europe/Berlin'
   };
   const formattedDateTime = now.toLocaleString('en-US', options);
   document.getElementById('datetime').textContent = `Updated: ${formattedDateTime}`;
 }
 
-  window.onload = updateDateTime;
+window.onload = updateDateTime;
 
-function returnTopStats(user_id){
+// Not sure about the validity of this.
+// returns the top artists for the "SearchSpotify function"
+function returnTopStats(user_id) {
   console.log("User id for artists: ", user_id);
-  const filteredData_ind = jsonData.topArtists.filter(record => record.user_id === user_id);
-  const filteredData_ind_S = jsonData.topSongs.filter(record => record.user_id === user_id);
-  
-  let topArtists = [];
-  //let allSongsArr = [];
 
-  for (let index = 0; index < Math.min(5, filteredData_ind.length); index++) {
-    const record = filteredData_ind[index];
-    const record_s = filteredData_ind_S[index];
-    topArtists.push({
-      artist: record.top_artist_name,
-      count: record.artist_count,
-      track: record_s.top_artist_name,
-      track_count: record_s.artist_count
+  const filteredArtists = jsonData.top_five_artists.filter(record => record.user_id === user_id);
+  const filteredTracks = jsonData.top_five_tracks.filter(record => record.user_id === user_id);
+
+  let topStats = [];
+
+  const limit = Math.min(5, filteredArtists.length, filteredTracks.length);
+  for (let index = 0; index < limit; index++) {
+    const record = filteredArtists[index];
+    const record_s = filteredTracks[index];
+
+    // safety check
+    if (!record || !record_s) continue;
+
+    topStats.push({
+      artist_name: record.artist_name,
+      artist_link: record.artist_link,
+      artist_img: record.artist_image_url,
+      artist_count: record.listen_count,
+
+      track_name: record_s.track_name,
+      track_link: record_s.track_link,
+      album_image_url: record_s.album_image_url,
+      track_count: record_s.listen_count
     });
-    console.log(record_s.artist_count);
-    console.log(record_s.top_artist_name);
   }
 
-  return topArtists;
+  console.log("-----------Logging data for the TopStats-----------------")
+  console.log(topStats);
+  return topStats;
 }
 
-async function searchSpotify(query) {
-  if (!jsonData || !jsonData.accessTokens) {
-    console.error("Access tokens not loaded yet!");
-    return;
-  }
-  
-  // Retrieve the correct token for the given user_id from your DB-loaded jsonData
-  const tokenRecord = jsonData.accessTokens.find(u_token => u_token.user_id === user_id);
-  if (!tokenRecord) {
-    console.error("No token found for user:", user_id);
-    return;
-  }
-  const token = tokenRecord.access_token; // Use the valid token from your DB
-  console.log("Using token:", token);
 
-  // Get top artist data (an array of objects with properties: artist, count)
+async function searchSpotify(query) {
+
   let topArtistsData = returnTopStats(user_id);
   if (!topArtistsData || topArtistsData.length === 0) {
     console.error("No artist data found for user:", user_id);
     return;
   }
+
   console.log("Top artist data:", topArtistsData);
+    
+  let artistContentName = 'artists';
   
-  // Build a comma-separated list of artist IDs (or names if that's what you store)
-  const idsParam_art = topArtistsData.map(item => item.artist).join(',');
-  const idsParam_tra = topArtistsData.map(item => item.track).join(',');
-  const artistUrl = `https://api.spotify.com/v1/artists?ids=${idsParam_art}`;
-  const trackUrl = `https://api.spotify.com/v1/tracks?ids=${idsParam_tra}`;
+  let artistData = returnTopStats(user_id);
 
-  try {
-    const artistResponse = await fetch(artistUrl, {
-      method: 'GET',
-      headers: {
-        "Authorization": `Bearer ${token}`,
-        "Content-Type": "application/json"
-      }
-    });
-
-    if (!artistResponse.ok) {
-      throw new Error(`Error fetching artist data: ${artistResponse.statusText}`);
-    }
-    const trackResponse = await fetch(trackUrl, {
-      method: 'GET',
-      headers: {
-        "Authorization": `Bearer ${token}`,
-        "Content-Type": "application/json"
-      }
-    });
-
-    if (!trackResponse.ok) {
-      throw new Error(`Error fetching artist data: ${trackResponse.statusText}`);
-    }
-
-    const artistData = await artistResponse.json();
-    const trackData = await trackResponse.json();
-    
-    console.log("Artist Information:");
-    artistData.artists.forEach( (artist, index) => {
-      console.log(`Name: ${artist.name}`);
-      console.log(`Genres: ${artist.genres.join(', ')}`);
-      console.log(`Followers: ${artist.followers.total}`);
-      console.log(`Popularity: ${artist.popularity}`);
-      console.log(`Spotify URL: ${artist.external_urls.spotify}`);
-      console.log(`Listen Count: ${topArtistsData[index].count}`);
-      console.log('-----------------------------');
-    });
-
-    console.log("Track Information:");
-    trackData.tracks.forEach( (track, index) => {
-      console.log(`Name: ${track.name}`);
-      console.log(`Popularity: ${track.popularity}`);
-      console.log(`Spotify URL: ${track.external_urls.spotify}`);
-      console.log(`Listen Count: ${topArtistsData[index].track_count}`);
-      console.log('-----------------------------');
-    });
-    
-    let artistContentName = 'artists';
-
-    const artistsContent = document.getElementById(`${artistContentName}_content`);
-    artistsContent.innerHTML = ''; 
+  const artistsContent = document.getElementById(`${artistContentName}_content`);
+  artistsContent.innerHTML = ''; 
       
-    artistData.artists.forEach((artist, index) => {
+  topArtistsData.forEach((artist, index) => {
       const artistDiv = document.createElement('div');
       artistDiv.classList.add('artist-info');
 
-      if (artist.images && artist.images.length > 0) {
+      if (artist.artist_img) {
         const imgElement = document.createElement('img');
-        imgElement.src = artist.images[0].url; // Use the first image
-        imgElement.alt = artist.name;
-        imgElement.style.width = "100px"; // Adjust size as needed
+        imgElement.src = artist.artist_img; 
+        imgElement.alt = artist.artist_name;
+        imgElement.style.width = "100px"; 
         artistDiv.appendChild(imgElement);
       }
 
@@ -291,15 +262,15 @@ async function searchSpotify(query) {
       infoDiv.classList.add('artist-details');
 
       const nameElement = document.createElement('h3');
-      nameElement.textContent = artist.name;
+      nameElement.textContent = artist.artist_name;
       infoDiv.appendChild(nameElement);
 
       const countElement = document.createElement('p');
-      countElement.textContent = `Listen Count: ${topArtistsData[index].count}`;
+      countElement.textContent = `Listen Count: ${artist.artist_count}`;
       infoDiv.appendChild(countElement);
 
       const linkElement = document.createElement('a');
-      linkElement.href = artist.external_urls.spotify;
+      linkElement.href = artist.artist_link;
       linkElement.textContent = 'View on Spotify';
       linkElement.target = '_blank';
       infoDiv.appendChild(linkElement);
@@ -307,19 +278,20 @@ async function searchSpotify(query) {
 
       artistsContent.appendChild(artistDiv);
     });
-    const tracksContent = document.getElementById(`tracks_content`);
-    tracksContent.innerHTML = ''; // Clear previous content
 
-    trackData.tracks.forEach((track, index) => {
-      // Create a new div for each artist
+    // Here we populate the tracks
+    const tracksContent = document.getElementById(`tracks_content`);
+    tracksContent.innerHTML = ''; 
+
+    topArtistsData.forEach((track, index) => {
       const trackDiv = document.createElement('div');
       trackDiv.classList.add('artist-info');
 
-      if (track.album && track.album.images && track.album.images.length > 0) {
+      if (track.album_image_url) {
         const imgElement = document.createElement('img');
-        imgElement.src = track.album.images[0].url; // Use the first album image
-        imgElement.alt = track.name;
-        imgElement.style.width = "100px"; // Adjust size as needed
+        imgElement.src = track.album_image_url; 
+        imgElement.alt = track.track_name;
+        imgElement.style.width = "100px"; 
         trackDiv.appendChild(imgElement);
       }
 
@@ -327,15 +299,15 @@ async function searchSpotify(query) {
       infoDiv.classList.add('artist-details');
 
       const nameElement = document.createElement('h3');
-      nameElement.textContent = track.name;
+      nameElement.textContent = track.track_name;
       infoDiv.appendChild(nameElement);
 
       const countElement = document.createElement('p');
-      countElement.textContent = `Listen Count: ${topArtistsData[index].track_count}`;
+      countElement.textContent = `Listen Count: ${track.track_count}`;
       infoDiv.appendChild(countElement);
 
       const linkElement = document.createElement('a');
-      linkElement.href = track.external_urls.spotify;
+      linkElement.href = track.track_link;
       linkElement.textContent = 'View on Spotify';
       linkElement.target = '_blank';
       infoDiv.appendChild(linkElement);
@@ -344,68 +316,132 @@ async function searchSpotify(query) {
 
       tracksContent.appendChild(trackDiv);
     });
-  } catch (error) {
-    console.error("Error in searchSpotify:", error.message);
-  }
 }
 
-function drawChart(user_id){
-
+function drawChart(data) {
   const daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-  console.log(jsonData.dayListenTimes);
 
-  // Filter data for the selected user
-  const userData = jsonData.dayListenTimes.filter(entry => entry.user_id === user_id);
-  console.log(userData);
+// Filter data for the specified user_id
+const userData = jsonData.dayListenTimes.filter(entry => entry.user_id === user_id);
 
-  // Extract labels (days) and listen time (convert ms to minutes)
-  const labels = userData.map(entry => daysOfWeek[parseInt(entry.day_of_week)]);
-  const listenTimes = userData.map(entry => (entry.listen_time / 60000).toFixed(2)); // Convert to minutes
+// Map the data to labels and listen times (converting listen_time to minutes)
+const labels = userData.map(entry => daysOfWeek[parseInt(entry.day_of_week)]);
+const listenTimes = userData.map(entry => entry.listen_time / 60000); // Convert listen_time to minutes
 
-  // Create the chart
-  const ctx = document.getElementById("listeningChart").getContext("2d");
-  
-  if (chartInstance) {
-    chartInstance.destroy();
-  }
-  
-  chartInstance = new Chart(ctx, {
-    type: "bar",  // Change to "line" if you prefer a line chart
-    data: {
-      labels: labels,
-      datasets: [{
-        label: "Listening Time (minutes)",
-        data: listenTimes,
-        backgroundColor:"rgba(29, 185, 84, 1)",  // Change fill color
-        borderColor: "rgb(34, 210, 96)",  // Change border color
-        borderWidth: 2,  // Thicker borders
-        borderRadius: 1, // rounded bars
-      }]
-    },
-    options: {
-      responsive: true, // Allows resizing
-      maintainAspectRatio: false, // Prevents forced aspect ratio
-      
-      scales: {
-        y: {
-          beginAtZero: true,
-          grid: {
-            display: false // Hides gridlines
-          },
-          ticks: {
-            font: {
-              size: 14,  // Adjust font size
-              family: "Arial",  // Change font
-              weight: "bold"  // Make it bold
-            }
-          }
-        },
-        x: {
-          grid: {
-            color: "rgba(200, 200, 200, 0.2)" // Lighter gridlines
-          }
-        }
-      }
-    }
+const tooltip = d3.select("#tooltip");
+
+// Set up the chart dimensions
+const width = 800; // Wider width for the chart
+const height = 400; // Increased height for better visualization
+const margin = { top: 20, right: 20, bottom: 60, left: 40 };
+
+// Create SVG element
+const svg = d3.select("#chart")
+  .append("svg")
+  .attr("width", width)
+  .attr("height", height)
+  .append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// Set up the x and y scales
+const xScale = d3.scaleBand()
+  .domain(labels)
+  .range([0, width - margin.left - margin.right])
+  .padding(0.1);
+
+const yScale = d3.scaleLinear()
+  .domain([0, d3.max(listenTimes)])
+  .nice() // Makes the y axis a nice round number
+  .range([height - margin.top - margin.bottom, 0]);
+
+// Create the x-axis
+svg.append("g")
+  .selectAll(".x-axis")
+  .data(labels)
+  .enter()
+  .append("text")
+  .attr("x", (d, i) => xScale(d) + xScale.bandwidth() / 2)
+  .attr("y", height - margin.bottom + 10) // Adjusted position to avoid overlap
+  .attr("text-anchor", "middle")
+  .attr("dy", "1em")
+  .style("font-family", "Arial")
+  .style("font-size", "14px")
+  .style("font-weight", "bold")
+  .style("fill", "white")
+  .text(d => d);
+
+// Create the y-axis
+svg.append("g")
+  .attr("class", "y-axis")
+  .call(d3.axisLeft(yScale).ticks(5))
+  .selectAll("text")
+  .style("font-family", "Arial")
+  .style("font-size", "14px")
+  .style("font-weight", "bold");
+
+// Create the bars for the chart with styling (border radius and colors)
+svg.selectAll(".bar")
+  .data(listenTimes)
+  .enter()
+  .append("rect")
+  .attr("class", "bar")
+  .attr("x", (d, i) => xScale(labels[i]))
+  .attr("y", d => yScale(d))
+  .attr("width", xScale.bandwidth())
+  .attr("height", d => height - margin.top - margin.bottom - yScale(d))
+  .attr("fill", "rgba(29, 185, 84, 1)")  // Match the Chart.js background color
+  .attr("stroke", "rgb(34, 210, 96)")  // Match the Chart.js border color
+  .attr("stroke-width", 2)  // Border width from Chart.js
+  .attr("rx", 10)  // Adding border radius to the bars
+  .attr("ry", 10) // Rounded corners (similar to Chart.js)
+  .on("mouseover", function (event, d) {
+    tooltip
+      .style("display", "block")
+      .html(`<strong>${d.toFixed(2)} minutes</strong>`)
+      .style("left", `${event.pageX + 10}px`)
+      .style("top", `${event.pageY - 30}px`);
+    d3.select(this).attr("fill", "rgb(34, 210, 96)"); // Highlight on hover
+  })
+  .on("mousemove", function (event) {
+    tooltip
+      .style("left", `${event.pageX + 10}px`)
+      .style("top", `${event.pageY - 30}px`);
+  })
+  .on("mouseout", function () {
+    tooltip.style("display", "none");
+    d3.select(this).attr("fill", "rgba(29, 185, 84, 1)"); // Reset color
   });
 }
+
+function animateCounters() {
+  const counters = document.querySelectorAll(".counter");
+  const duration = 2000;
+
+  counters.forEach(counter => {
+    const target = +counter.getAttribute("data-target");
+    const countNum = counter.querySelector(".count-num");
+    const plusSign = counter.querySelector(".plus");
+
+    const increment = target / (duration / 16);
+    let current = 0;
+
+    plusSign.style.opacity = 0; // Start hidden
+
+    function updateCounter() {
+      current += increment;
+      if (current < target) {
+        countNum.textContent = Math.floor(current).toLocaleString();
+        requestAnimationFrame(updateCounter);
+      } else {
+        countNum.textContent = target.toLocaleString();
+        // Fade in the plus sign
+        plusSign.style.transition = "opacity 0.5s ease";
+        plusSign.style.opacity = 1;
+      }
+    }
+
+    updateCounter();
+  });
+}
+
+window.addEventListener("DOMContentLoaded", animateCounters);
