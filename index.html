@@ -160,7 +160,20 @@
 
               <div id="pattern-view" class="report-view" style="display: none;">
                 <div id="chart-container">
-                    <canvas id="listeningChart"></canvas>
+                    <div id="chart"></div>
+                    <div id="tooltip" style="
+                                        position: absolute;
+                                        background-color: rgba(0,0,0,0.8);
+                                        color: white;
+                                        padding: 8px 10px;
+                                        border-radius: 4px;
+                                        pointer-events: none;
+                                        font-size: 14px;
+                                        font-family: Arial;
+                                        display: none;
+                                        z-index: 10;
+                                        "></div>
+                                        
                 </div>
               </div>
 
@@ -176,6 +189,7 @@
         <p>&copy; Spotabase!!</p>
     </footer>
 
+    <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="js/script.js"></script>
      
