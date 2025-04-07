@@ -4,7 +4,7 @@
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "artist_name": "Pomme",
             "track_name": "soleil soleil",
-            "count": 157
+            "count": 158
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -130,7 +130,7 @@
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "artist_name": "NF",
             "track_name": "WHY",
-            "count": 25
+            "count": 26
         },
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
@@ -343,6 +343,12 @@
             "count": 14
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "artist_name": "Iliona",
+            "track_name": "Moins joli",
+            "count": 14
+        },
+        {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
             "artist_name": "Denis Ramniceanu",
             "track_name": "Creola",
@@ -382,12 +388,6 @@
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "artist_name": "Lucid Planet",
             "track_name": "Kairos",
-            "count": 13
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "artist_name": "Iliona",
-            "track_name": "Moins joli",
             "count": 13
         },
         {
@@ -506,6 +506,12 @@
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "artist_name": "Dermot Kennedy",
+            "track_name": "Dancing Under Red Skies",
+            "count": 12
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "artist_name": "Wir sind Helden",
             "track_name": "Nur ein Wort",
             "count": 12
@@ -592,12 +598,6 @@
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "artist_name": "Hooja",
             "track_name": "VEM FAN E DU?",
-            "count": 11
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "artist_name": "Dermot Kennedy",
-            "track_name": "Dancing Under Red Skies",
             "count": 11
         },
         {
@@ -1171,6 +1171,12 @@
             "count": 8
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "artist_name": "Dermot Kennedy",
+            "track_name": "Giants",
+            "count": 8
+        },
+        {
             "user_id": "11102572930",
             "artist_name": "SawanoHiroyuki[nZk]",
             "track_name": "Binary Star",
@@ -1525,12 +1531,6 @@
             "count": 7
         },
         {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "artist_name": "Dermot Kennedy",
-            "track_name": "Giants",
-            "count": 7
-        },
-        {
             "user_id": "11102572930",
             "artist_name": "milet",
             "track_name": "Shed a light",
@@ -1588,6 +1588,12 @@
             "user_id": "11102572930",
             "artist_name": "Rei Yasuda",
             "track_name": "Tweedia",
+            "count": 7
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "artist_name": "Eddy de Pretto",
+            "track_name": "Pause",
             "count": 7
         },
         {
@@ -2132,6 +2138,12 @@
         },
         {
             "user_id": "11102572930",
+            "artist_name": "Ayase\u00d7Ado",
+            "track_name": "Tachiirikinshi",
+            "count": 6
+        },
+        {
+            "user_id": "11102572930",
             "artist_name": "\u7f8e\u6ce2",
             "track_name": "\u30ab\u30ef\u30ad\u30f2\u30a2\u30e1\u30af",
             "count": 6
@@ -2281,15 +2293,15 @@
             "count": 6
         },
         {
-            "user_id": "21r743lbsas2y2hbpqx5fp2ti",
-            "artist_name": "Wiz Khalifa",
-            "track_name": "The Thrill",
+            "user_id": "11102572930",
+            "artist_name": "Reol",
+            "track_name": "\u30a2\u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
             "count": 6
         },
         {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "artist_name": "Eddy de Pretto",
-            "track_name": "Pause",
+            "user_id": "21r743lbsas2y2hbpqx5fp2ti",
+            "artist_name": "Wiz Khalifa",
+            "track_name": "The Thrill",
             "count": 6
         },
         {
@@ -2308,6 +2320,12 @@
             "user_id": "11102572930",
             "artist_name": "Ado",
             "track_name": "\u9006\u5149 - \u30a6\u30bf from ONE PIECE FILM RED",
+            "count": 6
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "Hoshimachi Suisei",
+            "track_name": "TEMPLATE",
             "count": 6
         },
         {
@@ -2386,6 +2404,12 @@
             "user_id": "1177164531",
             "artist_name": "Antonio Vivaldi",
             "track_name": "In furore iustissimae irae, RV 626: II. Recitativo",
+            "count": 6
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "Ado",
+            "track_name": "Value",
             "count": 6
         },
         {
@@ -2722,6 +2746,12 @@
             "user_id": "11102572930",
             "artist_name": "\u7f8e\u6ce2",
             "track_name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+            "count": 5
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "DUSTCELL",
+            "track_name": "\u72ec\u767d - \u30ab\u30f3\u30b6\u30ad\u30a4\u30aa\u30ea Remix",
             "count": 5
         },
         {
@@ -3104,12 +3134,6 @@
         },
         {
             "user_id": "11102572930",
-            "artist_name": "Ayase\u00d7Ado",
-            "track_name": "Tachiirikinshi",
-            "count": 5
-        },
-        {
-            "user_id": "11102572930",
             "artist_name": "SawanoHiroyuki[nZk]",
             "track_name": "B\u2200LK",
             "count": 5
@@ -3130,6 +3154,12 @@
             "user_id": "11102572930",
             "artist_name": "Mino",
             "track_name": "YuuYuu DISCO",
+            "count": 5
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+            "track_name": "Tiny Stars",
             "count": 5
         },
         {
@@ -3350,12 +3380,6 @@
         },
         {
             "user_id": "11102572930",
-            "artist_name": "Reol",
-            "track_name": "\u30a2\u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
-            "count": 5
-        },
-        {
-            "user_id": "11102572930",
             "artist_name": "\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec",
             "track_name": "Ikenai Borderline",
             "count": 5
@@ -3406,12 +3430,6 @@
             "user_id": "11102572930",
             "artist_name": "ASCA",
             "track_name": "\u51db",
-            "count": 5
-        },
-        {
-            "user_id": "11102572930",
-            "artist_name": "Hoshimachi Suisei",
-            "track_name": "TEMPLATE",
             "count": 5
         },
         {
@@ -3554,12 +3572,6 @@
         },
         {
             "user_id": "11102572930",
-            "artist_name": "Ado",
-            "track_name": "Value",
-            "count": 5
-        },
-        {
-            "user_id": "11102572930",
             "artist_name": "yama",
             "track_name": "\u3044\u3076\u304d",
             "count": 5
@@ -3616,6 +3628,12 @@
             "user_id": "11102572930",
             "artist_name": "philo",
             "track_name": "Tell the teacher - Cover",
+            "count": 5
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "\u68d7\u3044\u3064\u304d",
+            "track_name": "The End of AI and CodeQ",
             "count": 5
         },
         {
@@ -4232,12 +4250,6 @@
         },
         {
             "user_id": "11102572930",
-            "artist_name": "DUSTCELL",
-            "track_name": "\u72ec\u767d - \u30ab\u30f3\u30b6\u30ad\u30a4\u30aa\u30ea Remix",
-            "count": 4
-        },
-        {
-            "user_id": "11102572930",
             "artist_name": "KANA-BOON",
             "track_name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
             "count": 4
@@ -4288,6 +4300,12 @@
             "user_id": "11102572930",
             "artist_name": "ELFENSJ\u00f3N",
             "track_name": "\u5948\u843d\u306e\u9b54\u5973",
+            "count": 4
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "FLOW",
+            "track_name": "HERO \u301c\u5e0c\u671b\u306e\u6b4c\u301c",
             "count": 4
         },
         {
@@ -4822,12 +4840,6 @@
             "user_id": "1177164531",
             "artist_name": "Mitski",
             "track_name": "Me and My Husband",
-            "count": 4
-        },
-        {
-            "user_id": "11102572930",
-            "artist_name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
-            "track_name": "Tiny Stars",
             "count": 4
         },
         {
@@ -5593,12 +5605,6 @@
             "count": 4
         },
         {
-            "user_id": "11102572930",
-            "artist_name": "\u68d7\u3044\u3064\u304d",
-            "track_name": "The End of AI and CodeQ",
-            "count": 4
-        },
-        {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
             "artist_name": "Sabaton",
             "track_name": "Angels Calling",
@@ -5674,6 +5680,12 @@
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "artist_name": "Deafheaven",
             "track_name": "Dream House",
+            "count": 4
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "artist_name": "Dove Cameron",
+            "track_name": "Too Much",
             "count": 4
         },
         {
@@ -5983,6 +5995,12 @@
             "count": 4
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "artist_name": "Against The Current",
+            "track_name": "silent stranger",
+            "count": 4
+        },
+        {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "artist_name": "Acid Ghost",
             "track_name": "Die",
@@ -6242,6 +6260,12 @@
         },
         {
             "user_id": "11102572930",
+            "artist_name": "MYTH & ROID",
+            "track_name": "Remembrance",
+            "count": 3
+        },
+        {
+            "user_id": "11102572930",
             "artist_name": "LiSA",
             "track_name": "\u708e",
             "count": 3
@@ -6376,6 +6400,12 @@
             "user_id": "11102572930",
             "artist_name": "EDOGA-SULLIVAN",
             "track_name": "WONDERFUL WONDER",
+            "count": 3
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "Reol",
+            "track_name": "White Midnight",
             "count": 3
         },
         {
@@ -6679,12 +6709,6 @@
             "count": 3
         },
         {
-            "user_id": "11102572930",
-            "artist_name": "FLOW",
-            "track_name": "HERO \u301c\u5e0c\u671b\u306e\u6b4c\u301c",
-            "count": 3
-        },
-        {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "artist_name": "Jean Dawson",
             "track_name": "Poster Child",
@@ -6850,6 +6874,12 @@
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "artist_name": "Against The Current",
             "track_name": "jump",
+            "count": 3
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "FalKKonE",
+            "track_name": "Beneath the Scarlet Moon, The Crazed Blossoms' Severance",
             "count": 3
         },
         {
@@ -7294,6 +7324,12 @@
             "user_id": "11102572930",
             "artist_name": "*Luna",
             "track_name": "8.32",
+            "count": 3
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "Akane",
+            "track_name": "\u5fc3\u505a\u3057",
             "count": 3
         },
         {
@@ -8540,12 +8576,6 @@
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "artist_name": "Dove Cameron",
-            "track_name": "Too Much",
-            "count": 3
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "artist_name": "B.o.B",
             "track_name": "Airplanes (feat. Hayley Williams of Paramore)",
             "count": 3
@@ -8674,6 +8704,12 @@
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "artist_name": "Run The Jewels",
             "track_name": "ooh la la (feat. Greg Nice & DJ Premier)",
+            "count": 3
+        },
+        {
+            "user_id": "11102572930",
+            "artist_name": "FZMZ",
+            "track_name": "Danger Danger",
             "count": 3
         },
         {
@@ -8884,12 +8920,6 @@
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "artist_name": "Giles Corey",
             "track_name": "Grave Filled with Books",
-            "count": 3
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "artist_name": "Against The Current",
-            "track_name": "silent stranger",
             "count": 3
         },
         {
@@ -9499,12 +9529,6 @@
             "count": 2
         },
         {
-            "user_id": "11102572930",
-            "artist_name": "MYTH & ROID",
-            "track_name": "Remembrance",
-            "count": 2
-        },
-        {
             "user_id": "1177164531",
             "artist_name": "Childish Gambino",
             "track_name": "III. Life: The Biggest Troll [Andrew Auernheimer]",
@@ -9730,12 +9754,6 @@
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "artist_name": "Sprain",
             "track_name": "True Norwegian Black Metal",
-            "count": 2
-        },
-        {
-            "user_id": "11102572930",
-            "artist_name": "Reol",
-            "track_name": "White Midnight",
             "count": 2
         },
         {
@@ -10729,12 +10747,6 @@
             "count": 2
         },
         {
-            "user_id": "11102572930",
-            "artist_name": "FalKKonE",
-            "track_name": "Beneath the Scarlet Moon, The Crazed Blossoms' Severance",
-            "count": 2
-        },
-        {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "artist_name": "Portishead",
             "track_name": "Mysterons",
@@ -11452,12 +11464,6 @@
             "user_id": "1177164531",
             "artist_name": "Alessandro Scarlatti",
             "track_name": "Il giardino di rose, R.503.19: Prima Parte: Quell'ardore ch'ho nel seno (Aria)",
-            "count": 2
-        },
-        {
-            "user_id": "11102572930",
-            "artist_name": "Akane",
-            "track_name": "\u5fc3\u505a\u3057",
             "count": 2
         },
         {
@@ -13063,6 +13069,12 @@
             "count": 2
         },
         {
+            "user_id": "11102572930",
+            "artist_name": "Ado",
+            "track_name": "Buriki No Dance",
+            "count": 2
+        },
+        {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "artist_name": "Kanye West",
             "track_name": "Guilt Trip",
@@ -13916,8 +13928,8 @@
         },
         {
             "user_id": "11102572930",
-            "artist_name": "FZMZ",
-            "track_name": "Danger Danger",
+            "artist_name": "Mafumafu",
+            "track_name": "Sacrifice",
             "count": 2
         },
         {
@@ -24619,12 +24631,6 @@
             "count": 1
         },
         {
-            "user_id": "11102572930",
-            "artist_name": "Ado",
-            "track_name": "Buriki No Dance",
-            "count": 1
-        },
-        {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "artist_name": "Jack Garratt",
             "track_name": "Worry",
@@ -26863,12 +26869,6 @@
             "count": 1
         },
         {
-            "user_id": "11102572930",
-            "artist_name": "Mafumafu",
-            "track_name": "Sacrifice",
-            "count": 1
-        },
-        {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "artist_name": "Marlon Craft",
             "track_name": "Somethin Wrong In Heaven",
@@ -28163,6 +28163,160 @@
         {
             "song_type": "indivdual_song",
             "user_id": "11102572930",
+            "track_name": "HERO \u301c\u5e0c\u671b\u306e\u6b4c\u301c",
+            "artist_name": "FLOW",
+            "listen_date": "2025-04-07 18:01:47"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "\u72ec\u767d - \u30ab\u30f3\u30b6\u30ad\u30a4\u30aa\u30ea Remix",
+            "artist_name": "DUSTCELL",
+            "listen_date": "2025-04-07 17:58:10"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "Tachiirikinshi",
+            "artist_name": "Ayase\u00d7Ado",
+            "listen_date": "2025-04-07 17:55:02"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "TEMPLATE",
+            "artist_name": "Hoshimachi Suisei",
+            "listen_date": "2025-04-07 17:51:34"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "Danger Danger",
+            "artist_name": "FZMZ",
+            "listen_date": "2025-04-07 17:48:27"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "Sacrifice",
+            "artist_name": "Mafumafu",
+            "listen_date": "2025-04-07 17:44:47"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "The End of AI and CodeQ",
+            "artist_name": "\u68d7\u3044\u3064\u304d",
+            "listen_date": "2025-04-07 17:40:33"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "Value",
+            "artist_name": "Ado",
+            "listen_date": "2025-04-07 17:34:17"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "Beneath the Scarlet Moon, The Crazed Blossoms' Severance",
+            "artist_name": "FalKKonE",
+            "listen_date": "2025-04-07 17:31:13"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "Giants",
+            "artist_name": "Dermot Kennedy",
+            "listen_date": "2025-04-07 17:25:17"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "Buriki No Dance",
+            "artist_name": "Ado",
+            "listen_date": "2025-04-07 17:25:09"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "\u5fc3\u505a\u3057",
+            "artist_name": "Akane",
+            "listen_date": "2025-04-07 17:21:50"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "Too Much",
+            "artist_name": "Dove Cameron",
+            "listen_date": "2025-04-07 17:20:15"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "soleil soleil",
+            "artist_name": "Pomme",
+            "listen_date": "2025-04-07 17:17:24"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "Remembrance",
+            "artist_name": "MYTH & ROID",
+            "listen_date": "2025-04-07 17:17:15"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "Moins joli",
+            "artist_name": "Iliona",
+            "listen_date": "2025-04-07 17:14:47"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "White Midnight",
+            "artist_name": "Reol",
+            "listen_date": "2025-04-07 17:13:34"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "WHY",
+            "artist_name": "NF",
+            "listen_date": "2025-04-07 17:12:20"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "Pause",
+            "artist_name": "Eddy de Pretto",
+            "listen_date": "2025-04-07 17:09:49"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "Tiny Stars",
+            "artist_name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+            "listen_date": "2025-04-07 17:09:28"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "Dancing Under Red Skies",
+            "artist_name": "Dermot Kennedy",
+            "listen_date": "2025-04-07 17:07:06"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
+            "track_name": "\u30a2\u30b7\u30f3\u30e1\u30c8\u30ea\u30fc",
+            "artist_name": "Reol",
+            "listen_date": "2025-04-07 17:05:35"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "11102572930",
             "track_name": "\u6e7f\u3063\u307d\u3044\u306d",
             "artist_name": "MAISONdes, Aizawa",
             "listen_date": "2025-04-07 17:01:19"
@@ -28565,6 +28719,13 @@
             "track_name": "\u30d2\u30c8\u30ea\u30b4\u30c8",
             "artist_name": "ClariS",
             "listen_date": "2025-04-07 14:18:00"
+        },
+        {
+            "song_type": "indivdual_song",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "silent stranger",
+            "artist_name": "Against The Current",
+            "listen_date": "2025-04-07 14:17:04"
         },
         {
             "song_type": "indivdual_song",
@@ -109161,34 +109322,34 @@
     "accessTokens": [
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
-            "access_token": "BQAjjWxj2vAPtJQYvbPjwGj1rdodd13yowYA7QafvuAlcvH4fptWpskpyD7FrQoOWL9y7mdhJw6Ma78KgC00navGZ4YmQLZNG-7x4e9-I8Y8ZnNJQWUq7Q-241mI2-D9OkF54CzwbFh9O4lQgYPJbNWkejhAcsgfKFz2HfGlqPbMipd3Y26m78xPqU9_7M2wYAQz_OeQp0eG2npxn1S82ZjmbHkFr91voXF0AI6AlsTt2BIug-QffdAJqmRK0Q"
+            "access_token": "BQB5U7FmuDzB-PMe1YjXBXc-DZCn5wJIcKN5tFoai7uplzSOf-Viq-CUrTXv7TE_DRy_OlTvibEwVPp25NFI7JF4H16WYigNuYaEsmdcESPXnIphPWTmBq0WWreFOkghufjGDRALQ03Vv9-8l_X4vNj_E5Pp5nmOy1ChIZRtiDBQlZ-q1ZBG32cIMxfP0EM0dhAg0xI7lCfZuHGKxsAFl6YREdpmuEklu8J3iuT7CT19DonY9oh29kRlgv6hfA"
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "access_token": "BQBf7XGb4_5xSCvW9qwYCat2ac2gK2_QNz6iY8EP7rVt2fl6G5_1WjQHZ5LA_oxtdX9z1gt65AQZxZXXJwbBuRHPz2B3efzIC7hAPyB8nP43DOs70V2B_MDK-YNY1LW2-BgY-d-xDQwzvuHB0kUW8op4dyGujFQI7m2JIn7PvO-wH_tFjkAf9WitKwt2Kcc9tcunsjNybnDHs2OycXAkn4Q1pXW09kgoTF6IspOcKDxrjFZqdxOvLiLhfQUCPQ"
+            "access_token": "BQCbs33uot7Gn0TYnB20IoRSV9xOv8fGhkADHQuL6BDokLxbMEETaXYq4GEJxiYTkT7gAHDIklrovf0GAMI0MAVqVlhahRcAiDhtXU0iXfLMrhkCi6KRMePR-yW3ZyHDyHAJiT_BK_q5X8GeScXB-K-PME7IYUdJcNNk_E9Y7gEs1dvRd-BQPAymNxtXDL4iGfgkdg7jxrTJdOpvtsc6sRLfr4gb3K0TkSd3mkyoVllv2y2exocph00ONZQrCg"
         },
         {
             "user_id": "1177164531",
-            "access_token": "BQBLN897cKdbWaI4QGOtIfLrFmo9SNCrk2NDL2lZrVGavKAxXaxRtUMk2ws6qEE21CJTdhTfIG-EFPAg0a73wSNF6qa5FERAtv8qms1RHRJv4wwxS1DArmHZIrGO7S_Bvon_Fcfo9y63tpJZxTO0iDI-58zKeeOG7cYQp5-fCSI3naWEwYDGn5DBxt3h_jLcoV6YFjJ9erHDBSsIn-nn3pS8uuTG1hQwDaQvrKCPSQ"
+            "access_token": "BQAeWh__ABzIvnfJf88v3diC5Ao34zMktpCNriXucIMJkgXMKciRv-3cESNUZJYrLQ4GYIeXVgVPYJSKIpJhFGdWMmlRoCFobSclGijYV_SKDyoJCrfmB-guQpGceF1JCl6LzlcwIi2ARRo7Xav7HlfOYAq7PxW0nSugrHwr8kScoLc54O8OeZ79s8gc7dqznjXIyZniYBMmuYiB3PO1v9LK8JPhgs47L1CGnIrq7A"
         },
         {
             "user_id": "11102572930",
-            "access_token": "BQCAwon-ZqZc4gG1G8gzDxBA5Oo81wBlT4doq7st9glOy5BvJrXogdlwzbr0QheOG2SsrjZG8jyCjaUY1pcCoxXpbYNfPGj6rqXeG9-STeGA0w6azC2qPduSQQl048M4TG0ej1AHgOUV6gRuaKsNY2TNS_-GQC1tZdPF3yWvDcaXh1ZGjT903i6j8gq-WKn9YuWhYn4eVtuaLENLZOGfGor4QVum_IJE_RyKvjHGCq4"
+            "access_token": "BQDURKe7ASyPieKNQ6IuNv1tqrmh6lAhmXBGlRNIFdXzKysoiSgx0hohESgnXtPf6i5Ahw7IslgY7drNWuqF9V_goRChX5qa5M1AsTC6xPCxfoIB7uUPx5wuJHItTHiYvp3jTKyDDl0BL2NRg4F93YHIQOB_8497ahcf8aCj1oufC5NRkTL_JwJV0n0NYHgdbMELBX9JLKYks0C-22MnLCQv24N8-dTVYAwL5PTGTUk"
         },
         {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-            "access_token": "BQAno2p35N4K99D_uT1uUl5B_XKY2ND2u9RpDK6uE46HdpGLGo-E8RYOoZ_U1XsI89TI94eN9g5MA_5F-W_G0PsH1m84KkvmjkJ0Gj48FTjP-xUOOeP6IP4NEcv0sRk-sSGrmKpA-FCcv9qvTyKUZCDv-lcKOFbRapbORrhn1-GnxsSBnI62cPjStwVZzo8UKRfS-Q9JGMnMY9sVvQj9O7ZfBgrewUfE5pITPEhsZXa4S5UX5MFCISW2UcH--g"
+            "access_token": "BQBWFPG4H-NvTyNuo3XHu1Vz_YefcvaP51B1CRrpEfEwFxFBMK01NhTRY7xjPLwvWSCkTpNmgzJQuRanJqLZX5L0PalX0_amCem4vbvS4tWoZWbkAZpGKqFcnHq3DDmBYAe9CIa6DqUbBDJOScTodEqLdN-CWGhvcMF6Lx1op3UR6nHHs0KR_EFJFmRDiqf3pIFnXX7iKVH0C1E4SZrIsR_nbEX2Cszl_ECrfAGraYkzusE35ucwMdV0_erUqg"
         },
         {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
-            "access_token": "BQCbR-a8r0a52apFDzND6xtZR4Dj13tMkfDRqBH-4f4DadH-2bYsWTfHnNkeSPqBa_GMKH8Zt9QtV26-hGLdTxcVrNjDoIYf3EtR229oIY3FgPaa-TJHbQiCG802i73qLlSVZNy7tj-5Thym3uvPXt7sHHkHgfUN4xjYbZl2RZbnhhlTdUVadbnGulnYlS_cTOPchcWL-Xiqk6vZbFpKYzo_Mn1kc_iRxOi99gUWBNIvHplt6pJnBqvVlZm2Xw"
+            "access_token": "BQCXUQ8ueRMYuhC2aRzcQ1KX6uIef7KiHxqAavdp9iAfRIe5Q6TioXqQSoHL5UQs3DSuW5R8LjBTqv9LdQ9i8MQVoEZ6KSvQ1AyRIjHw2M-pZu39_c68US3MfyQhBIiwtDD03CM1ua2xNY1T9cTHfYVWd4vji3TMqCceJ6uQkGDV2o0lDJATKusk5xgdbCEr1kmA1w1LS88-0yLwvdFBaFYYgI38ZyS1f9vH1oI5f1km0xFW6vbYMGBBRfYSTg"
         }
     ],
     "topArtists": [
         {
             "user_id": "11102572930",
             "top_artist_name": "6mEQK9m2krja6X1cfsAjfl",
-            "artist_count": 112
+            "artist_count": 114
         },
         {
             "user_id": "1177164531",
@@ -109203,12 +109364,12 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "6fOMl44jA4Sp5b9PpYCkzz",
-            "artist_count": 54
+            "artist_count": 55
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "5KNNVgR6LBIABRIomyCwKJ",
-            "artist_count": 47
+            "artist_count": 49
         },
         {
             "user_id": "11102572930",
@@ -109218,7 +109379,7 @@
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
             "top_artist_name": "3utxjLheHaVEd9bPjQRsy8",
-            "artist_count": 42
+            "artist_count": 39
         },
         {
             "user_id": "1177164531",
@@ -109231,14 +109392,14 @@
             "artist_count": 28
         },
         {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "1kDGbuxWknIKx4FlgWxiSp",
-            "artist_count": 25
-        },
-        {
             "user_id": "11102572930",
             "top_artist_name": "45ft4DyTCEJfQwTBHXpdhM",
             "artist_count": 25
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "1kDGbuxWknIKx4FlgWxiSp",
+            "artist_count": 24
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -109256,23 +109417,23 @@
             "artist_count": 20
         },
         {
+            "user_id": "11102572930",
+            "top_artist_name": "7rpKUJ0AnklJ8q9nIPVSpZ",
+            "artist_count": 20
+        },
+        {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "top_artist_name": "2yEwvVSSSUkcLeSTNyHKh8",
             "artist_count": 20
         },
         {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "4EzkuveR9pLvDVFNx6foYD",
-            "artist_count": 19
-        },
-        {
             "user_id": "11102572930",
-            "top_artist_name": "7rpKUJ0AnklJ8q9nIPVSpZ",
+            "top_artist_name": "0PHf0oiic0xAnCrRuLTtHl",
             "artist_count": 18
         },
         {
-            "user_id": "11102572930",
-            "top_artist_name": "0PHf0oiic0xAnCrRuLTtHl",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "4EzkuveR9pLvDVFNx6foYD",
             "artist_count": 18
         },
         {
@@ -109326,11 +109487,6 @@
             "artist_count": 16
         },
         {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "5COD136qwj9wtuea78EGbF",
-            "artist_count": 15
-        },
-        {
             "user_id": "11102572930",
             "top_artist_name": "4UK2Lzi6fBfUi9rpDt6cik",
             "artist_count": 15
@@ -109341,19 +109497,24 @@
             "artist_count": 15
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "5COD136qwj9wtuea78EGbF",
+            "artist_count": 14
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "6yhD1KjhLxIETFF7vIRf8B",
+            "artist_count": 14
+        },
+        {
             "user_id": "11102572930",
             "top_artist_name": "5COrwcYLHQePdWt9V12iqv",
             "artist_count": 13
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "6yhD1KjhLxIETFF7vIRf8B",
-            "artist_count": 13
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "163tK9Wjr9P9DmM0AVK7lm",
-            "artist_count": 13
+            "top_artist_name": "6e3pZKXUxrPfnUPJ960Hd9",
+            "artist_count": 12
         },
         {
             "user_id": "11102572930",
@@ -109372,17 +109533,12 @@
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "6e3pZKXUxrPfnUPJ960Hd9",
-            "artist_count": 11
+            "top_artist_name": "163tK9Wjr9P9DmM0AVK7lm",
+            "artist_count": 12
         },
         {
             "user_id": "11102572930",
             "top_artist_name": "58oPVy7oihAEXE0Ott6JOf",
-            "artist_count": 11
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "5gw5ANPCVcxU0maLiGRzzP",
             "artist_count": 11
         },
         {
@@ -109393,6 +109549,11 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "1YLxQZIGsaZq9rvFu8zeRz",
+            "artist_count": 10
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "5gw5ANPCVcxU0maLiGRzzP",
             "artist_count": 10
         },
         {
@@ -109408,6 +109569,11 @@
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
             "top_artist_name": "0CEFCo8288kQU7mJi25s6E",
+            "artist_count": 9
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "726WiFmWkohzodUxK3XjHX",
             "artist_count": 9
         },
         {
@@ -109433,6 +109599,11 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "7kZTWx6cRLc0TSRPq1XBMP",
+            "artist_count": 9
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "3w2HqkKa6upwuXEULtGvnY",
             "artist_count": 9
         },
         {
@@ -109472,16 +109643,6 @@
         },
         {
             "user_id": "11102572930",
-            "top_artist_name": "726WiFmWkohzodUxK3XjHX",
-            "artist_count": 8
-        },
-        {
-            "user_id": "11102572930",
-            "top_artist_name": "3w2HqkKa6upwuXEULtGvnY",
-            "artist_count": 8
-        },
-        {
-            "user_id": "11102572930",
             "top_artist_name": "3PWp9R5HvbQgxI5KBx5kVd",
             "artist_count": 8
         },
@@ -109501,11 +109662,6 @@
             "artist_count": 8
         },
         {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "0MmnmsAuQKRFpo6vJElcaU",
-            "artist_count": 8
-        },
-        {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
             "top_artist_name": "6ZLTlhejhndI4Rh53vYhrY",
             "artist_count": 7
@@ -109518,6 +109674,11 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "1PhE6rv0146ZTQosoPDjk8",
+            "artist_count": 7
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "1NRrtMvT3o1TI6I8XCuweq",
             "artist_count": 7
         },
         {
@@ -109538,6 +109699,11 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "5LGo1zHegJTWzqVXgeNplt",
+            "artist_count": 7
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "0MmnmsAuQKRFpo6vJElcaU",
             "artist_count": 7
         },
         {
@@ -109563,11 +109729,6 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "7mvhRvEAHiCTQHUnH7fgnv",
-            "artist_count": 6
-        },
-        {
-            "user_id": "11102572930",
-            "top_artist_name": "1NRrtMvT3o1TI6I8XCuweq",
             "artist_count": 6
         },
         {
@@ -109601,13 +109762,13 @@
             "artist_count": 6
         },
         {
-            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-            "top_artist_name": "79S80ZWgVhIPMCHuvl6SkA",
+            "user_id": "1177164531",
+            "top_artist_name": "4Vn6axeFKEaPRH1sI7JVKj",
             "artist_count": 6
         },
         {
-            "user_id": "1177164531",
-            "top_artist_name": "4Vn6axeFKEaPRH1sI7JVKj",
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "7rFugkk9ZvVB1zXHg8h0rj",
             "artist_count": 6
         },
         {
@@ -109712,6 +109873,11 @@
         },
         {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+            "top_artist_name": "79S80ZWgVhIPMCHuvl6SkA",
+            "artist_count": 5
+        },
+        {
+            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "top_artist_name": "4xtWjIlVuZwTCeqVAsgEXy",
             "artist_count": 5
         },
@@ -109723,11 +109889,6 @@
         {
             "user_id": "1177164531",
             "top_artist_name": "7vG23mth2hRD9ujGimxHPi",
-            "artist_count": 5
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "7rFugkk9ZvVB1zXHg8h0rj",
             "artist_count": 5
         },
         {
@@ -110032,6 +110193,11 @@
         },
         {
             "user_id": "11102572930",
+            "top_artist_name": "0RrQBLmeSCUkYFs0vncrhb",
+            "artist_count": 3
+        },
+        {
+            "user_id": "11102572930",
             "top_artist_name": "3NTbOmzlj2cL86XFuDVFvZ",
             "artist_count": 3
         },
@@ -110043,6 +110209,11 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "2mcj8ajoE1eFlNkAihw5Cg",
+            "artist_count": 3
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "2lmiI0JL4f6cA0fQV5M5pI",
             "artist_count": 3
         },
         {
@@ -110377,12 +110548,22 @@
         },
         {
             "user_id": "11102572930",
+            "top_artist_name": "6Rs4z6XgltEI01UlDlu98B",
+            "artist_count": 2
+        },
+        {
+            "user_id": "11102572930",
             "top_artist_name": "0NT8fqhPoKJrd038u1Qumz",
             "artist_count": 2
         },
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
             "top_artist_name": "1joyDSerPv6CWF71TP2EyQ",
+            "artist_count": 2
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "6t6aXZlmnAF1VuiG8BVjQZ",
             "artist_count": 2
         },
         {
@@ -110403,11 +110584,6 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "4ZAbYW1Vlx5lwjyFOHVzJw",
-            "artist_count": 2
-        },
-        {
-            "user_id": "11102572930",
-            "top_artist_name": "0RrQBLmeSCUkYFs0vncrhb",
             "artist_count": 2
         },
         {
@@ -110473,11 +110649,6 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "5aiaXK8lcIBT52N1WmN9BK",
-            "artist_count": 2
-        },
-        {
-            "user_id": "11102572930",
-            "top_artist_name": "2lmiI0JL4f6cA0fQV5M5pI",
             "artist_count": 2
         },
         {
@@ -110628,11 +110799,6 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "0aY8PnGurODkjLN9Zj1AvF",
-            "artist_count": 2
-        },
-        {
-            "user_id": "21r743lbsas2y2hbpqx5fp2ti",
-            "top_artist_name": "4LLpKhyESsyAXpc4laK94U",
             "artist_count": 2
         },
         {
@@ -110911,6 +111077,11 @@
             "artist_count": 2
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "2W8yFh0Ga6Yf3jiayVxwkE",
+            "artist_count": 2
+        },
+        {
             "user_id": "1177164531",
             "top_artist_name": "1NiC1V6xc8OR1ERiIoCvtx",
             "artist_count": 2
@@ -111082,11 +111253,6 @@
         },
         {
             "user_id": "11102572930",
-            "top_artist_name": "6Rs4z6XgltEI01UlDlu98B",
-            "artist_count": 1
-        },
-        {
-            "user_id": "11102572930",
             "top_artist_name": "6nSvLYzj4aHpB31o9fpxZQ",
             "artist_count": 1
         },
@@ -111103,11 +111269,6 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "0hp58JplihFjlLstUbKS0x",
-            "artist_count": 1
-        },
-        {
-            "user_id": "11102572930",
-            "top_artist_name": "6t6aXZlmnAF1VuiG8BVjQZ",
             "artist_count": 1
         },
         {
@@ -111193,6 +111354,11 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "1t2jU16aGbeRc63vVMf1Zn",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "1ppZuEdue8Q5RV6jDiXQ7t",
             "artist_count": 1
         },
         {
@@ -111341,6 +111507,11 @@
             "artist_count": 1
         },
         {
+            "user_id": "11102572930",
+            "top_artist_name": "3cQWVFVI26yJH3HBVr25bR",
+            "artist_count": 1
+        },
+        {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "0RqtSIYZmd4fiBKVFqyIqD",
             "artist_count": 1
@@ -111353,6 +111524,11 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "3WwGRA2o4Ux1RRMYaYDh7N",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "4pAgH7ZVMfeEqm11iwwYjA",
             "artist_count": 1
         },
         {
@@ -111418,6 +111594,11 @@
         {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "top_artist_name": "57N1gBU2XPgJH1f8UPBW7L",
+            "artist_count": 1
+        },
+        {
+            "user_id": "21r743lbsas2y2hbpqx5fp2ti",
+            "top_artist_name": "4LLpKhyESsyAXpc4laK94U",
             "artist_count": 1
         },
         {
@@ -111728,6 +111909,11 @@
         {
             "user_id": "1177164531",
             "top_artist_name": "4HzKw8XcD0piJmDrrPRCYk",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "2KO3nQQqN4LJAKQebedEHF",
             "artist_count": 1
         },
         {
@@ -112376,11 +112562,6 @@
             "artist_count": 1
         },
         {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "2W8yFh0Ga6Yf3jiayVxwkE",
-            "artist_count": 1
-        },
-        {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "top_artist_name": "4xNadaO5ZZLVJdqDIVVIua",
             "artist_count": 1
@@ -112400,7 +112581,7 @@
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
             "top_artist_name": "1rDyAuyUgyK1oMXQXKjLPm",
-            "artist_count": 39
+            "artist_count": 36
         },
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
@@ -112410,26 +112591,21 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "2ouNoo43UNurALLYLCapJv",
-            "artist_count": 16
+            "artist_count": 15
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "3G6hD9B2ZHOsgf4WfNu7X1",
-            "artist_count": 13
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "3xRcQ04b0l5RiU2w7lJhCD",
-            "artist_count": 13
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "5ZvHi6XpXSV7rUyiVR9bjX",
             "artist_count": 12
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "0nBXEZ3KXfvNLvgV1uR4ri",
+            "top_artist_name": "3xRcQ04b0l5RiU2w7lJhCD",
+            "artist_count": 12
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "2fgINBjLf7eCI3ky3n2gnS",
             "artist_count": 11
         },
         {
@@ -112444,7 +112620,12 @@
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "2fgINBjLf7eCI3ky3n2gnS",
+            "top_artist_name": "5ZvHi6XpXSV7rUyiVR9bjX",
+            "artist_count": 11
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "0nBXEZ3KXfvNLvgV1uR4ri",
             "artist_count": 10
         },
         {
@@ -112454,17 +112635,12 @@
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "16NeN82ABDPjUvgEEGVaSQ",
-            "artist_count": 9
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "1VcFPlHTGkUuKv7emjBNVp",
             "artist_count": 9
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "3GeBvpzVmiqbKIAJZoffVc",
+            "top_artist_name": "4QOfUrTWpIlmziECELlCYN",
             "artist_count": 9
         },
         {
@@ -112473,23 +112649,23 @@
             "artist_count": 9
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "16NeN82ABDPjUvgEEGVaSQ",
+            "artist_count": 8
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "3GeBvpzVmiqbKIAJZoffVc",
+            "artist_count": 8
+        },
+        {
             "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
             "top_artist_name": "3PNsSrXWl89wb2nHvXHVGw",
             "artist_count": 8
         },
         {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "4QOfUrTWpIlmziECELlCYN",
-            "artist_count": 8
-        },
-        {
             "user_id": "1177164531",
             "top_artist_name": "4l2tDbFbVJmJv2yJLeKxOo",
-            "artist_count": 8
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "4rCmaUBsSjuiQcKoKIo7UE",
             "artist_count": 8
         },
         {
@@ -112525,6 +112701,11 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "4ETc1oFREuqQss7VQ1Y4mj",
+            "artist_count": 7
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "4rCmaUBsSjuiQcKoKIo7UE",
             "artist_count": 7
         },
         {
@@ -112575,6 +112756,11 @@
         {
             "user_id": "1177164531",
             "top_artist_name": "56NATwQKP7m64hFLFlKzXe",
+            "artist_count": 6
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "57TwkG6mUvWDZsEqARyeI2",
             "artist_count": 6
         },
         {
@@ -112683,6 +112869,11 @@
             "artist_count": 5
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "43CHdbHYdcbUWP10UFKyZ7",
+            "artist_count": 5
+        },
+        {
             "user_id": "11102572930",
             "top_artist_name": "4AwdxLIctXZhUnrTP9zGVy",
             "artist_count": 5
@@ -112700,11 +112891,6 @@
         {
             "user_id": "1177164531",
             "top_artist_name": "4owdxqfSUeGnVNKyGgfXiW",
-            "artist_count": 5
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "57TwkG6mUvWDZsEqARyeI2",
             "artist_count": 5
         },
         {
@@ -112819,6 +113005,11 @@
         },
         {
             "user_id": "11102572930",
+            "top_artist_name": "1o7D1gLUgpFR3eJfIgpSUx",
+            "artist_count": 4
+        },
+        {
+            "user_id": "11102572930",
             "top_artist_name": "2BHj31ufdEqVK5CkYDp9mA",
             "artist_count": 4
         },
@@ -112850,11 +113041,6 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "3kUWZiVYJ4YQOl0u7Y1Og8",
-            "artist_count": 4
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "43CHdbHYdcbUWP10UFKyZ7",
             "artist_count": 4
         },
         {
@@ -112988,6 +113174,11 @@
             "artist_count": 4
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "7yNgSAuwbDJcdRNrBDtKPq",
+            "artist_count": 4
+        },
+        {
             "user_id": "1177164531",
             "top_artist_name": "7ylf5gNykxJEHpyCVIWTLv",
             "artist_count": 4
@@ -113090,11 +113281,6 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "1l0wPhFZP1kWkZNQrrYrGy",
-            "artist_count": 3
-        },
-        {
-            "user_id": "11102572930",
-            "top_artist_name": "1o7D1gLUgpFR3eJfIgpSUx",
             "artist_count": 3
         },
         {
@@ -113274,6 +113460,11 @@
         },
         {
             "user_id": "11102572930",
+            "top_artist_name": "3jh8WcbeZa2c4RTusoY8jq",
+            "artist_count": 3
+        },
+        {
+            "user_id": "11102572930",
             "top_artist_name": "3vkQ5DAB1qQMYO4Mr9zJN6",
             "artist_count": 3
         },
@@ -113438,6 +113629,11 @@
             "artist_count": 3
         },
         {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "top_artist_name": "6m3ObG4d6M92hJWYplJfnb",
+            "artist_count": 3
+        },
+        {
             "user_id": "11102572930",
             "top_artist_name": "73tTDsjutmpFg31yIEvx8B",
             "artist_count": 3
@@ -113479,12 +113675,12 @@
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "7uH88hqUq0zh1Khx4xXMxq",
+            "top_artist_name": "7tBbT0mu8TOhDciTPRsOMq",
             "artist_count": 3
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "7yNgSAuwbDJcdRNrBDtKPq",
+            "top_artist_name": "7uH88hqUq0zh1Khx4xXMxq",
             "artist_count": 3
         },
         {
@@ -114208,11 +114404,6 @@
             "artist_count": 2
         },
         {
-            "user_id": "11102572930",
-            "top_artist_name": "3jh8WcbeZa2c4RTusoY8jq",
-            "artist_count": 2
-        },
-        {
             "user_id": "1177164531",
             "top_artist_name": "3kInbShEBGQvKL0boWfa9l",
             "artist_count": 2
@@ -114433,6 +114624,11 @@
             "artist_count": 2
         },
         {
+            "user_id": "11102572930",
+            "top_artist_name": "56QwV4Er5l1qKQXnhnyTaA",
+            "artist_count": 2
+        },
+        {
             "user_id": "1177164531",
             "top_artist_name": "56Yr2rSp3NFhwZ3H3W1gfI",
             "artist_count": 2
@@ -114565,11 +114761,6 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "5i7HAkLQnWunqMGzpkJsRS",
-            "artist_count": 2
-        },
-        {
-            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-            "top_artist_name": "5iRMeciMNFqshlfkrKzOR5",
             "artist_count": 2
         },
         {
@@ -114754,7 +114945,7 @@
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "6m3ObG4d6M92hJWYplJfnb",
+            "top_artist_name": "6lKSOnC9iLGDonypMgvGrm",
             "artist_count": 2
         },
         {
@@ -114805,6 +114996,11 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "70AT1JCm28kVWclugOUbeM",
+            "artist_count": 2
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "72fowNtwZtSkYFDEYMDjQo",
             "artist_count": 2
         },
         {
@@ -114905,11 +115101,6 @@
         {
             "user_id": "11102572930",
             "top_artist_name": "7sMRDjjwsB7wQEBOkdfg0i",
-            "artist_count": 2
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "7tBbT0mu8TOhDciTPRsOMq",
             "artist_count": 2
         },
         {
@@ -115428,6 +115619,11 @@
             "artist_count": 1
         },
         {
+            "user_id": "11102572930",
+            "top_artist_name": "0c6giltLdMTO531NORzFFq",
+            "artist_count": 1
+        },
+        {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "0cFvdXOqN4drzStfQZyrTP",
             "artist_count": 1
@@ -115705,6 +115901,11 @@
         {
             "user_id": "1177164531",
             "top_artist_name": "0yzjqS9Ya9tE0QAYizgpNe",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "0z0aMslUaXv7dktiOtRxt1",
             "artist_count": 1
         },
         {
@@ -116175,6 +116376,11 @@
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
             "top_artist_name": "1b8wUmTTj17WAEHlu9UFsl",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "1cVRrn4pnQdg5wokWKyWu9",
             "artist_count": 1
         },
         {
@@ -116810,6 +117016,11 @@
         {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "top_artist_name": "2Nc77noACeK87lVoevdUgq",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "2NhHTLP64lGlUOqNGT4TOA",
             "artist_count": 1
         },
         {
@@ -117729,6 +117940,11 @@
         },
         {
             "user_id": "11102572930",
+            "top_artist_name": "3PK6LUPq0vRGkjcNgOi4Oy",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
             "top_artist_name": "3PPiVAQnUOQ2w0EcpxJhIK",
             "artist_count": 1
         },
@@ -117745,11 +117961,6 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "3QSjVPObHxuAJc3E5nrjRn",
-            "artist_count": 1
-        },
-        {
-            "user_id": "21r743lbsas2y2hbpqx5fp2ti",
-            "top_artist_name": "3Qa944OTMZkg8DHjET8JQv",
             "artist_count": 1
         },
         {
@@ -118080,6 +118291,11 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "3olUFMwgASQGeXrlm4g6OH",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "3pKcK6fQkqEWdNJ2i1tsCn",
             "artist_count": 1
         },
         {
@@ -119143,11 +119359,6 @@
             "artist_count": 1
         },
         {
-            "user_id": "11102572930",
-            "top_artist_name": "56QwV4Er5l1qKQXnhnyTaA",
-            "artist_count": 1
-        },
-        {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "top_artist_name": "56oGoEjA9eTZYgsttEFKY3",
             "artist_count": 1
@@ -119355,6 +119566,11 @@
         {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "top_artist_name": "5OMNVzNkXIs6HP4tnExf5m",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "5OtpvLAq1uUQ6YmgxbI98H",
             "artist_count": 1
         },
         {
@@ -119633,6 +119849,11 @@
             "artist_count": 1
         },
         {
+            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
+            "top_artist_name": "5iRMeciMNFqshlfkrKzOR5",
+            "artist_count": 1
+        },
+        {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
             "top_artist_name": "5iawVFGrCzSiAFSLgQmxKX",
             "artist_count": 1
@@ -119690,6 +119911,11 @@
         {
             "user_id": "21r743lbsas2y2hbpqx5fp2ti",
             "top_artist_name": "5laWbEg0IlkIdAiDWdNEDJ",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
+            "top_artist_name": "5m3EBf4cWHWxzjBTCG1gHx",
             "artist_count": 1
         },
         {
@@ -120034,6 +120260,11 @@
         },
         {
             "user_id": "11102572930",
+            "top_artist_name": "6BEnpVB7g2j8mzWs3MC2kh",
+            "artist_count": 1
+        },
+        {
+            "user_id": "11102572930",
             "top_artist_name": "6CKxNZvRKtUSCmumhtmI6r",
             "artist_count": 1
         },
@@ -120238,6 +120469,11 @@
             "artist_count": 1
         },
         {
+            "user_id": "11102572930",
+            "top_artist_name": "6TtFzvOAAJaD2DnABixduN",
+            "artist_count": 1
+        },
+        {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "6UIdGsWHJs9lD4fbYNwciA",
             "artist_count": 1
@@ -120439,17 +120675,7 @@
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "top_artist_name": "6lKSOnC9iLGDonypMgvGrm",
-            "artist_count": 1
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "top_artist_name": "6lV2MSQmRIkycDScNtrBXO",
-            "artist_count": 1
-        },
-        {
-            "user_id": "22rbzh4xlqhd5kwlx2zve5gda",
-            "top_artist_name": "6lvNLD1XRU5paMwWH0RGRI",
             "artist_count": 1
         },
         {
@@ -120674,12 +120900,12 @@
         },
         {
             "user_id": "11102572930",
-            "top_artist_name": "72fowNtwZtSkYFDEYMDjQo",
+            "top_artist_name": "73EQPKdoo72AxZXJ7Xhiq1",
             "artist_count": 1
         },
         {
             "user_id": "11102572930",
-            "top_artist_name": "73EQPKdoo72AxZXJ7Xhiq1",
+            "top_artist_name": "73edp4NGGZZJgrtt6qxlHT",
             "artist_count": 1
         },
         {
@@ -121262,7 +121488,7 @@
         {
             "user_id": "11102572930",
             "day_of_week": "1",
-            "listen_time": 18206662.4
+            "listen_time": 18934444.6
         },
         {
             "user_id": "11102572930",
@@ -121437,7 +121663,7 @@
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "day_of_week": "1",
-            "listen_time": 13501451.42857143
+            "listen_time": 13715179.57142857
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -121471,7 +121697,7 @@
             "artist_name": "Ado",
             "artist_link": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl",
             "artist_image_url": "https://i.scdn.co/image/ab67616100005174bcb1c184c322688f10cdce7a",
-            "listen_count": 112
+            "listen_count": 114
         },
         {
             "user_id": "11102572930",
@@ -121489,17 +121715,17 @@
         },
         {
             "user_id": "11102572930",
-            "artist_name": "YOASOBI",
-            "artist_link": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj",
-            "artist_image_url": "https://i.scdn.co/image/ab67616100005174bfdd8a29d0c6bc6950055234",
+            "artist_name": "Reol",
+            "artist_link": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ",
+            "artist_image_url": "https://i.scdn.co/image/ab67616100005174af9c2fbecf7ee2c8afad6583",
             "listen_count": 20
         },
         {
             "user_id": "11102572930",
-            "artist_name": "Reol",
-            "artist_link": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ",
-            "artist_image_url": "https://i.scdn.co/image/ab67616100005174af9c2fbecf7ee2c8afad6583",
-            "listen_count": 18
+            "artist_name": "YOASOBI",
+            "artist_link": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj",
+            "artist_image_url": "https://i.scdn.co/image/ab67616100005174bfdd8a29d0c6bc6950055234",
+            "listen_count": 20
         },
         {
             "user_id": "1177164531",
@@ -121611,7 +121837,7 @@
             "artist_name": "Coheed and Cambria",
             "artist_link": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8",
             "artist_image_url": "https://i.scdn.co/image/ab67616100005174bff9d794acaadead8e742f9e",
-            "listen_count": 42
+            "listen_count": 39
         },
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
@@ -121646,14 +121872,14 @@
             "artist_name": "NF",
             "artist_link": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz",
             "artist_image_url": "https://i.scdn.co/image/ab676161000051741cf142a710a2f3d9b7a62da1",
-            "listen_count": 54
+            "listen_count": 55
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "artist_name": "Dermot Kennedy",
             "artist_link": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ",
             "artist_image_url": "https://i.scdn.co/image/ab6761610000517401d2c1d798d01d814a830430",
-            "listen_count": 47
+            "listen_count": 49
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -121667,7 +121893,7 @@
             "artist_name": "Nothing But Thieves",
             "artist_link": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp",
             "artist_image_url": "https://i.scdn.co/image/ab67616100005174065faf07b0343e97bf3fba57",
-            "listen_count": 25
+            "listen_count": 24
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
@@ -121823,7 +122049,7 @@
             "track_name": "Goodbye, Sunshine",
             "track_link": "https://open.spotify.com/track/1rDyAuyUgyK1oMXQXKjLPm",
             "album_image_url": "https://i.scdn.co/image/ab67616d0000b273a297a29e6e199e190d4d8530",
-            "listen_count": 39
+            "listen_count": 36
         },
         {
             "user_id": "p5sv079r17y4bi06x4c24h3fe",
@@ -121858,27 +122084,27 @@
             "track_name": "Bad",
             "track_link": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD",
             "album_image_url": "https://i.scdn.co/image/ab67616d0000b2734b32688c63234ca628de1cc9",
-            "listen_count": 13
+            "listen_count": 12
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "track_name": "Team",
             "track_link": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1",
             "album_image_url": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98",
-            "listen_count": 13
+            "listen_count": 12
+        },
+        {
+            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
+            "track_name": "Moins joli",
+            "track_link": "https://open.spotify.com/track/2fgINBjLf7eCI3ky3n2gnS",
+            "album_image_url": "https://i.scdn.co/image/ab67616d0000b2733f3eb46de295170810194ee0",
+            "listen_count": 11
         },
         {
             "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
             "track_name": "Self Talk 3",
             "track_link": "https://open.spotify.com/track/5ZvHi6XpXSV7rUyiVR9bjX",
             "album_image_url": "https://i.scdn.co/image/ab67616d0000b2739561877a83a8837cb8f4683c",
-            "listen_count": 12
-        },
-        {
-            "user_id": "z6qbjotuaf6o3ys8hgwjc20j1",
-            "track_name": "De ton c\u00f4t\u00e9",
-            "track_link": "https://open.spotify.com/track/0nBXEZ3KXfvNLvgV1uR4ri",
-            "album_image_url": "https://i.scdn.co/image/ab67616d0000b2737701712a52364952e861b87d",
             "listen_count": 11
         },
         {
