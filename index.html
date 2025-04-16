@@ -107,7 +107,19 @@
           </section>
 
         <section id="dashboard" class="view" style="display:none;">
-            <h2>Top songs during the week</h2>
+          
+          <div id="now-playing">
+            <img id="cover" src="placeholder.jpg" alt="Album cover" />
+            <div class="track-info">
+              <h3 id="track">Nothing Playing</h3>
+              <p id="artist"></p>
+              <div id="progress-bar">
+                <div id="progress"></div>
+              </div>
+            </div>
+          </div>
+
+          <h2>Top songs during the week</h2>
             <section id="wrap_dashboard" class="dashboard_style">
                 <!-- Artists Column -->
                 <section id="artists_dashboard" class="dashboard_column">
@@ -200,6 +212,7 @@
 
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/now-playing.js"></script>
     <script src="js/script.js"></script>
      
 </body>
